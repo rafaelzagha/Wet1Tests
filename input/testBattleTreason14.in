@@ -1,0 +1,10103 @@
+add_ship 1 0
+add_ship 2 0
+add_ship 3 9
+add_ship 4 0
+add_ship 5 1
+add_ship 6 10
+add_ship 7 3
+add_ship 8 8
+add_ship 9 10
+add_ship 10 1
+add_pirate 1 1 7
+add_pirate 2 1 14
+add_pirate 3 1 13
+add_pirate 4 1 6
+add_pirate 5 1 10
+add_pirate 6 1 6
+add_pirate 7 1 14
+add_pirate 8 1 1
+add_pirate 11 2 4
+add_pirate 12 2 12
+add_pirate 13 2 11
+add_pirate 14 2 10
+add_pirate 15 2 1
+add_pirate 16 2 10
+add_pirate 17 2 6
+add_pirate 21 3 13
+add_pirate 22 3 4
+add_pirate 23 3 7
+add_pirate 24 3 11
+add_pirate 31 4 9
+add_pirate 32 4 6
+add_pirate 41 5 9
+add_pirate 51 6 11
+add_pirate 52 6 4
+add_pirate 53 6 12
+add_pirate 54 6 12
+add_pirate 55 6 13
+add_pirate 56 6 5
+add_pirate 57 6 9
+add_pirate 61 7 11
+add_pirate 62 7 7
+add_pirate 63 7 12
+add_pirate 64 7 1
+add_pirate 65 7 11
+add_pirate 66 7 4
+add_pirate 67 7 9
+add_pirate 71 8 5
+add_pirate 72 8 10
+add_pirate 81 9 15
+add_pirate 82 9 8
+add_pirate 83 9 8
+add_pirate 84 9 9
+add_pirate 85 9 5
+add_pirate 86 9 11
+add_pirate 87 9 3
+ships_battle 9 3
+ships_battle 9 6
+treason 10 6
+treason 4 10
+treason 2 9
+ships_battle 7 4
+ships_battle 9 1
+ships_battle 5 3
+treason 4 10
+treason 10 8
+treason 2 6
+treason 1 8
+treason 4 2
+ships_battle 9 2
+ships_battle 6 8
+ships_battle 8 2
+ships_battle 1 1
+treason 8 5
+ships_battle 5 5
+treason 8 5
+ships_battle 9 9
+treason 10 4
+ships_battle 10 7
+treason 7 9
+treason 10 5
+treason 8 2
+ships_battle 8 5
+treason 3 1
+ships_battle 3 2
+ships_battle 1 6
+ships_battle 9 6
+treason 6 6
+ships_battle 5 3
+treason 7 3
+treason 3 1
+ships_battle 7 4
+ships_battle 1 6
+treason 2 3
+treason 8 8
+treason 2 1
+treason 1 8
+treason 5 5
+treason 6 5
+ships_battle 8 5
+ships_battle 1 3
+ships_battle 3 5
+ships_battle 8 6
+treason 4 1
+ships_battle 7 4
+ships_battle 3 3
+ships_battle 8 8
+ships_battle 5 10
+ships_battle 5 7
+ships_battle 7 9
+treason 2 3
+ships_battle 6 5
+treason 5 2
+treason 6 4
+treason 3 1
+treason 4 7
+ships_battle 10 3
+treason 10 6
+ships_battle 5 9
+treason 5 10
+ships_battle 5 1
+ships_battle 6 10
+ships_battle 10 2
+treason 4 9
+treason 5 5
+treason 7 4
+treason 9 3
+treason 1 1
+ships_battle 8 8
+ships_battle 5 7
+ships_battle 5 6
+treason 5 10
+ships_battle 7 8
+ships_battle 5 2
+ships_battle 9 8
+treason 7 4
+treason 7 9
+treason 10 6
+treason 9 8
+treason 10 9
+ships_battle 4 8
+treason 1 2
+ships_battle 2 2
+treason 7 5
+ships_battle 6 3
+ships_battle 6 9
+ships_battle 10 9
+treason 6 4
+treason 1 7
+treason 6 2
+treason 3 2
+ships_battle 6 9
+ships_battle 5 4
+ships_battle 8 2
+treason 3 2
+treason 9 3
+ships_battle 10 3
+ships_battle 5 9
+ships_battle 3 9
+treason 2 10
+treason 7 10
+treason 8 5
+treason 2 9
+ships_battle 9 1
+ships_battle 2 6
+ships_battle 7 9
+ships_battle 5 7
+ships_battle 6 8
+ships_battle 4 1
+ships_battle 8 5
+ships_battle 8 8
+treason 2 10
+treason 2 10
+ships_battle 10 3
+treason 8 9
+treason 3 5
+ships_battle 3 5
+ships_battle 10 6
+treason 6 10
+treason 6 7
+treason 3 8
+treason 4 7
+treason 5 9
+ships_battle 7 6
+treason 8 8
+ships_battle 3 4
+ships_battle 4 10
+treason 3 3
+treason 6 8
+treason 4 4
+treason 2 2
+ships_battle 7 7
+treason 10 4
+ships_battle 9 4
+treason 6 7
+treason 6 7
+ships_battle 9 1
+ships_battle 8 2
+ships_battle 5 1
+treason 5 3
+ships_battle 1 2
+ships_battle 2 5
+ships_battle 9 7
+treason 10 3
+treason 7 6
+ships_battle 3 4
+treason 1 5
+treason 8 6
+ships_battle 3 4
+ships_battle 7 10
+treason 4 5
+ships_battle 5 8
+ships_battle 4 2
+treason 5 10
+treason 10 4
+ships_battle 7 6
+ships_battle 1 8
+ships_battle 1 9
+ships_battle 10 2
+treason 6 2
+treason 3 1
+treason 7 3
+treason 10 9
+treason 8 10
+treason 7 1
+ships_battle 10 10
+ships_battle 3 10
+treason 8 2
+treason 5 2
+ships_battle 9 2
+ships_battle 2 1
+treason 10 9
+treason 5 7
+treason 9 3
+treason 7 6
+treason 7 1
+treason 7 5
+ships_battle 8 4
+ships_battle 7 3
+ships_battle 6 9
+ships_battle 7 7
+treason 6 7
+ships_battle 6 3
+ships_battle 9 9
+ships_battle 9 6
+ships_battle 10 10
+treason 7 1
+ships_battle 1 6
+treason 8 2
+treason 8 4
+ships_battle 1 3
+treason 10 5
+ships_battle 8 8
+treason 7 4
+treason 8 8
+treason 10 1
+treason 1 5
+treason 6 10
+treason 7 2
+treason 10 4
+treason 5 1
+ships_battle 9 4
+treason 3 9
+ships_battle 2 10
+ships_battle 5 6
+ships_battle 2 6
+ships_battle 5 8
+treason 10 3
+treason 10 1
+treason 10 4
+treason 1 9
+treason 8 7
+treason 1 4
+ships_battle 4 5
+treason 1 8
+ships_battle 1 3
+ships_battle 10 7
+ships_battle 10 7
+ships_battle 8 6
+treason 5 4
+ships_battle 4 2
+treason 7 1
+ships_battle 7 8
+treason 1 7
+treason 5 1
+treason 5 8
+ships_battle 10 7
+treason 8 4
+treason 10 8
+treason 7 5
+treason 10 1
+ships_battle 6 5
+treason 2 2
+ships_battle 8 2
+treason 8 9
+ships_battle 9 3
+ships_battle 8 4
+treason 6 6
+treason 4 3
+ships_battle 10 6
+treason 3 6
+treason 6 6
+treason 3 5
+treason 2 9
+treason 6 3
+treason 6 10
+ships_battle 5 2
+ships_battle 10 1
+treason 6 10
+treason 4 10
+ships_battle 3 3
+ships_battle 8 7
+treason 3 1
+ships_battle 5 4
+treason 3 3
+ships_battle 5 3
+treason 8 4
+treason 4 5
+ships_battle 7 3
+ships_battle 4 9
+ships_battle 4 1
+ships_battle 6 9
+treason 8 8
+ships_battle 10 9
+ships_battle 3 7
+treason 5 8
+treason 4 5
+ships_battle 3 7
+ships_battle 6 6
+treason 8 9
+ships_battle 6 10
+ships_battle 6 1
+treason 2 7
+ships_battle 3 7
+treason 7 3
+ships_battle 3 7
+treason 5 9
+ships_battle 3 4
+treason 2 4
+ships_battle 6 7
+treason 4 4
+ships_battle 9 8
+ships_battle 4 9
+ships_battle 5 2
+treason 8 7
+treason 6 8
+treason 3 5
+ships_battle 5 1
+treason 2 7
+treason 1 2
+treason 7 6
+treason 6 6
+treason 1 1
+treason 3 8
+treason 2 7
+treason 1 6
+ships_battle 8 5
+ships_battle 9 3
+treason 9 1
+treason 4 10
+treason 7 10
+treason 5 7
+treason 3 3
+treason 1 4
+ships_battle 8 10
+ships_battle 5 7
+treason 2 10
+ships_battle 1 4
+ships_battle 5 5
+treason 3 7
+treason 1 10
+treason 5 4
+treason 8 2
+ships_battle 9 10
+treason 5 6
+ships_battle 8 5
+ships_battle 9 1
+ships_battle 2 9
+ships_battle 9 10
+treason 8 7
+treason 10 9
+ships_battle 2 5
+ships_battle 4 2
+ships_battle 4 10
+ships_battle 10 4
+ships_battle 8 9
+treason 10 10
+ships_battle 2 6
+treason 8 8
+treason 3 2
+ships_battle 7 2
+treason 6 4
+ships_battle 10 8
+ships_battle 6 5
+ships_battle 10 9
+ships_battle 10 3
+ships_battle 4 6
+ships_battle 1 8
+ships_battle 5 6
+treason 8 4
+treason 2 4
+ships_battle 5 9
+ships_battle 7 4
+treason 6 6
+treason 5 9
+ships_battle 4 1
+treason 4 6
+ships_battle 4 3
+treason 2 6
+ships_battle 1 4
+ships_battle 2 5
+treason 3 7
+treason 8 2
+ships_battle 9 6
+treason 5 5
+ships_battle 2 8
+treason 6 3
+treason 10 7
+ships_battle 10 10
+treason 9 6
+ships_battle 1 10
+ships_battle 10 5
+treason 5 2
+treason 10 7
+ships_battle 2 3
+treason 2 8
+treason 5 9
+ships_battle 6 9
+treason 8 7
+ships_battle 7 3
+treason 8 5
+treason 4 9
+ships_battle 1 9
+treason 8 2
+ships_battle 3 6
+treason 6 9
+treason 9 9
+ships_battle 4 1
+treason 10 9
+treason 7 6
+ships_battle 1 9
+treason 9 8
+treason 2 7
+treason 4 9
+treason 8 8
+ships_battle 9 1
+ships_battle 10 9
+ships_battle 4 9
+treason 5 10
+treason 9 8
+treason 3 7
+treason 10 10
+ships_battle 9 9
+ships_battle 5 1
+treason 2 4
+ships_battle 3 5
+treason 4 9
+ships_battle 10 3
+treason 5 6
+treason 10 6
+ships_battle 7 8
+treason 4 6
+ships_battle 5 10
+ships_battle 2 6
+ships_battle 5 6
+ships_battle 9 9
+ships_battle 4 8
+treason 3 1
+ships_battle 1 9
+ships_battle 2 5
+ships_battle 4 9
+treason 1 2
+ships_battle 2 1
+ships_battle 10 5
+treason 4 10
+ships_battle 4 1
+treason 10 8
+ships_battle 6 1
+ships_battle 2 6
+treason 10 8
+treason 2 2
+ships_battle 5 3
+treason 7 6
+ships_battle 9 10
+treason 1 2
+treason 3 10
+ships_battle 8 9
+treason 9 8
+ships_battle 9 8
+treason 6 7
+treason 3 2
+treason 8 8
+treason 8 5
+treason 5 10
+ships_battle 1 4
+ships_battle 5 1
+ships_battle 8 3
+ships_battle 4 5
+treason 5 3
+ships_battle 5 8
+treason 1 4
+treason 3 1
+treason 5 3
+treason 2 1
+treason 10 7
+treason 5 5
+ships_battle 5 10
+ships_battle 9 8
+ships_battle 10 1
+ships_battle 10 1
+treason 8 8
+ships_battle 5 2
+treason 10 2
+ships_battle 7 8
+treason 10 7
+ships_battle 7 9
+ships_battle 1 3
+treason 8 1
+ships_battle 4 4
+ships_battle 5 7
+ships_battle 1 1
+treason 2 9
+treason 6 9
+ships_battle 8 7
+treason 10 3
+ships_battle 2 2
+ships_battle 3 3
+treason 1 4
+treason 9 1
+ships_battle 3 1
+treason 8 5
+treason 7 3
+treason 6 6
+treason 7 10
+treason 9 2
+ships_battle 7 6
+ships_battle 10 5
+ships_battle 10 8
+ships_battle 6 2
+ships_battle 9 9
+ships_battle 4 4
+treason 3 9
+ships_battle 4 1
+ships_battle 6 5
+ships_battle 1 10
+treason 8 10
+ships_battle 2 7
+ships_battle 7 3
+ships_battle 1 6
+treason 5 5
+ships_battle 5 3
+treason 3 10
+treason 5 3
+treason 4 10
+treason 7 4
+ships_battle 5 10
+ships_battle 7 9
+treason 9 6
+ships_battle 1 10
+treason 7 9
+ships_battle 9 9
+treason 9 5
+treason 6 5
+treason 6 2
+treason 2 2
+treason 1 6
+treason 10 3
+treason 6 10
+treason 7 6
+treason 4 10
+ships_battle 10 7
+treason 7 2
+ships_battle 2 1
+ships_battle 7 3
+ships_battle 6 3
+treason 8 9
+ships_battle 5 10
+ships_battle 5 7
+treason 2 7
+ships_battle 2 8
+ships_battle 7 8
+ships_battle 5 8
+treason 5 4
+treason 3 4
+ships_battle 8 10
+ships_battle 9 8
+treason 9 2
+ships_battle 8 5
+treason 1 1
+ships_battle 2 1
+treason 1 8
+ships_battle 4 7
+treason 2 6
+treason 3 2
+treason 9 2
+ships_battle 3 1
+ships_battle 9 8
+ships_battle 4 9
+treason 6 9
+ships_battle 6 10
+treason 10 1
+ships_battle 5 5
+treason 6 6
+treason 9 4
+ships_battle 1 5
+ships_battle 2 4
+treason 6 1
+treason 5 2
+ships_battle 4 10
+treason 5 6
+ships_battle 1 2
+treason 7 8
+ships_battle 2 8
+treason 8 6
+ships_battle 4 4
+ships_battle 4 1
+ships_battle 5 7
+ships_battle 10 3
+ships_battle 3 4
+treason 9 1
+ships_battle 3 4
+ships_battle 5 10
+treason 1 8
+treason 10 8
+ships_battle 4 7
+ships_battle 9 7
+treason 9 6
+ships_battle 8 8
+ships_battle 7 7
+ships_battle 1 10
+treason 3 6
+ships_battle 4 5
+ships_battle 6 6
+treason 10 6
+treason 10 8
+treason 3 1
+treason 5 6
+ships_battle 3 1
+ships_battle 9 10
+ships_battle 7 1
+treason 10 5
+ships_battle 5 10
+ships_battle 6 2
+treason 5 3
+ships_battle 4 3
+ships_battle 7 1
+ships_battle 5 7
+treason 8 2
+treason 3 8
+treason 6 7
+treason 10 8
+ships_battle 6 2
+treason 4 3
+ships_battle 7 1
+ships_battle 6 5
+treason 2 2
+treason 9 7
+treason 1 6
+ships_battle 1 7
+ships_battle 3 5
+ships_battle 5 9
+treason 1 8
+treason 3 2
+treason 6 5
+treason 4 3
+ships_battle 8 2
+ships_battle 3 5
+treason 7 4
+treason 7 2
+ships_battle 1 7
+ships_battle 3 8
+ships_battle 4 9
+treason 10 2
+treason 5 2
+treason 10 3
+treason 2 2
+ships_battle 2 5
+ships_battle 7 5
+treason 8 10
+ships_battle 3 5
+ships_battle 2 8
+treason 10 6
+ships_battle 2 9
+ships_battle 4 6
+treason 3 6
+ships_battle 7 6
+ships_battle 8 4
+ships_battle 2 9
+treason 5 8
+ships_battle 9 8
+ships_battle 2 4
+ships_battle 2 5
+treason 1 3
+ships_battle 7 9
+ships_battle 4 4
+ships_battle 3 2
+treason 9 8
+treason 2 6
+ships_battle 9 4
+treason 1 2
+ships_battle 10 4
+ships_battle 2 1
+treason 6 4
+treason 6 2
+ships_battle 3 10
+treason 10 10
+treason 3 5
+ships_battle 6 7
+treason 1 1
+ships_battle 5 9
+treason 5 2
+treason 2 3
+treason 8 1
+treason 6 10
+treason 7 9
+treason 8 2
+ships_battle 8 4
+treason 9 1
+treason 2 6
+ships_battle 10 3
+treason 9 7
+ships_battle 6 7
+treason 10 6
+treason 10 10
+treason 4 6
+ships_battle 5 8
+treason 7 6
+treason 6 4
+ships_battle 6 5
+ships_battle 9 7
+treason 2 7
+treason 1 6
+treason 5 1
+ships_battle 8 10
+ships_battle 3 9
+treason 9 6
+treason 1 3
+treason 1 3
+treason 7 10
+treason 10 3
+treason 4 6
+ships_battle 9 2
+treason 8 10
+ships_battle 1 9
+ships_battle 6 2
+treason 6 4
+treason 2 4
+treason 9 7
+ships_battle 2 9
+treason 4 1
+ships_battle 5 9
+ships_battle 6 9
+treason 9 2
+treason 9 2
+ships_battle 4 9
+ships_battle 4 3
+ships_battle 9 7
+ships_battle 2 2
+ships_battle 7 1
+treason 7 7
+treason 5 4
+ships_battle 5 3
+ships_battle 4 9
+treason 9 7
+ships_battle 10 3
+ships_battle 9 8
+ships_battle 6 1
+treason 2 5
+ships_battle 4 5
+treason 5 5
+treason 2 7
+ships_battle 2 4
+ships_battle 5 5
+treason 3 7
+ships_battle 8 5
+ships_battle 9 10
+ships_battle 9 7
+ships_battle 3 9
+ships_battle 7 7
+treason 6 8
+ships_battle 5 9
+ships_battle 3 1
+treason 3 1
+treason 9 5
+ships_battle 6 9
+ships_battle 9 8
+treason 2 8
+treason 8 5
+ships_battle 10 8
+ships_battle 6 8
+treason 9 4
+ships_battle 2 1
+treason 6 7
+treason 3 5
+treason 10 4
+treason 5 1
+ships_battle 1 7
+treason 1 3
+treason 3 6
+treason 7 7
+treason 5 2
+treason 1 7
+ships_battle 3 4
+ships_battle 7 4
+treason 4 5
+ships_battle 1 4
+ships_battle 6 10
+treason 6 2
+ships_battle 9 4
+ships_battle 4 2
+treason 9 10
+treason 8 2
+treason 4 3
+treason 1 8
+treason 5 5
+treason 9 8
+treason 10 5
+ships_battle 1 8
+treason 2 2
+treason 3 8
+ships_battle 7 6
+ships_battle 10 1
+treason 9 1
+ships_battle 6 9
+ships_battle 10 5
+treason 7 8
+treason 4 1
+treason 4 2
+ships_battle 9 6
+ships_battle 10 7
+ships_battle 8 2
+ships_battle 9 9
+treason 10 5
+ships_battle 1 4
+ships_battle 5 4
+treason 9 1
+ships_battle 9 5
+treason 3 6
+ships_battle 1 1
+treason 4 1
+ships_battle 4 9
+ships_battle 8 8
+treason 9 4
+ships_battle 1 9
+ships_battle 10 7
+treason 5 1
+ships_battle 7 5
+ships_battle 4 8
+ships_battle 9 10
+treason 9 2
+treason 4 10
+treason 7 6
+treason 4 5
+treason 6 3
+ships_battle 10 2
+ships_battle 6 8
+treason 1 2
+ships_battle 7 5
+ships_battle 9 5
+treason 4 1
+ships_battle 10 3
+treason 1 6
+ships_battle 6 3
+ships_battle 9 4
+treason 1 3
+treason 7 6
+treason 3 5
+treason 5 3
+ships_battle 3 1
+ships_battle 3 10
+treason 7 3
+treason 9 6
+treason 5 1
+ships_battle 4 9
+ships_battle 1 4
+ships_battle 1 3
+treason 8 10
+ships_battle 9 1
+ships_battle 10 2
+ships_battle 4 5
+ships_battle 1 2
+treason 10 1
+treason 8 1
+ships_battle 5 7
+ships_battle 5 1
+treason 9 5
+treason 9 7
+treason 7 10
+ships_battle 9 10
+ships_battle 4 7
+treason 9 6
+ships_battle 10 5
+ships_battle 8 9
+treason 7 9
+treason 8 8
+treason 4 1
+treason 3 8
+treason 8 8
+treason 8 10
+ships_battle 2 3
+ships_battle 5 6
+ships_battle 5 4
+treason 2 4
+treason 1 3
+treason 6 7
+treason 4 3
+treason 8 1
+ships_battle 5 3
+ships_battle 9 2
+ships_battle 5 4
+treason 9 9
+ships_battle 10 5
+ships_battle 6 1
+ships_battle 5 1
+ships_battle 2 10
+treason 9 9
+treason 10 4
+treason 1 5
+treason 4 10
+ships_battle 6 3
+ships_battle 1 6
+ships_battle 8 4
+ships_battle 10 8
+ships_battle 1 2
+treason 5 7
+ships_battle 5 8
+ships_battle 1 2
+ships_battle 4 2
+ships_battle 7 4
+treason 8 5
+treason 4 7
+ships_battle 7 3
+ships_battle 4 5
+ships_battle 6 5
+treason 3 9
+ships_battle 9 8
+treason 1 7
+ships_battle 8 1
+treason 9 3
+ships_battle 9 4
+treason 8 2
+treason 9 4
+treason 2 8
+ships_battle 3 3
+ships_battle 3 1
+ships_battle 10 9
+treason 9 5
+treason 8 2
+ships_battle 2 8
+ships_battle 9 10
+ships_battle 6 4
+ships_battle 1 2
+treason 4 8
+ships_battle 3 9
+treason 6 7
+treason 1 1
+ships_battle 2 10
+treason 8 10
+treason 6 3
+ships_battle 3 2
+treason 3 10
+treason 4 6
+ships_battle 6 9
+treason 10 8
+ships_battle 8 9
+ships_battle 6 10
+treason 5 3
+ships_battle 2 1
+ships_battle 7 4
+treason 8 9
+ships_battle 1 8
+ships_battle 2 5
+treason 10 4
+ships_battle 1 10
+treason 8 2
+treason 4 10
+ships_battle 10 10
+treason 5 3
+treason 10 4
+ships_battle 3 4
+ships_battle 1 1
+ships_battle 6 8
+treason 3 5
+treason 10 3
+treason 10 3
+ships_battle 7 10
+treason 5 5
+ships_battle 2 1
+treason 7 1
+ships_battle 1 10
+ships_battle 2 2
+ships_battle 10 10
+ships_battle 10 10
+ships_battle 1 3
+ships_battle 7 1
+ships_battle 5 9
+treason 4 4
+ships_battle 5 8
+treason 1 9
+treason 10 6
+treason 4 10
+ships_battle 6 8
+treason 5 9
+ships_battle 5 7
+treason 1 2
+ships_battle 5 5
+ships_battle 9 5
+ships_battle 6 4
+treason 9 7
+ships_battle 5 6
+ships_battle 4 9
+treason 9 2
+ships_battle 1 5
+treason 8 6
+ships_battle 5 3
+treason 1 7
+ships_battle 3 9
+treason 5 3
+ships_battle 1 5
+ships_battle 2 3
+treason 4 5
+treason 5 1
+treason 8 9
+ships_battle 6 1
+treason 9 6
+treason 1 10
+treason 7 6
+treason 10 5
+ships_battle 1 10
+treason 8 7
+ships_battle 8 3
+treason 4 8
+treason 3 2
+ships_battle 6 2
+treason 10 10
+ships_battle 1 1
+ships_battle 9 1
+ships_battle 2 1
+ships_battle 4 1
+ships_battle 4 4
+ships_battle 3 7
+treason 1 7
+treason 3 5
+ships_battle 10 5
+treason 8 3
+treason 1 2
+ships_battle 10 5
+treason 6 7
+treason 5 6
+treason 9 5
+ships_battle 5 3
+treason 4 1
+ships_battle 7 9
+treason 10 10
+ships_battle 6 4
+ships_battle 3 10
+treason 7 2
+ships_battle 2 2
+ships_battle 1 3
+ships_battle 6 1
+ships_battle 9 6
+ships_battle 6 7
+treason 5 1
+treason 4 1
+ships_battle 6 9
+ships_battle 3 7
+ships_battle 3 1
+treason 1 9
+ships_battle 4 2
+treason 4 9
+treason 10 5
+ships_battle 5 1
+ships_battle 6 9
+treason 9 6
+treason 6 6
+treason 7 10
+treason 4 1
+treason 8 1
+treason 3 1
+ships_battle 6 10
+ships_battle 4 9
+ships_battle 10 8
+ships_battle 1 5
+ships_battle 2 3
+ships_battle 4 5
+treason 6 5
+treason 7 3
+treason 6 4
+treason 10 9
+treason 4 4
+ships_battle 3 9
+treason 7 1
+ships_battle 1 2
+ships_battle 1 5
+treason 1 4
+treason 8 5
+ships_battle 6 2
+treason 9 3
+treason 10 10
+ships_battle 3 4
+treason 6 8
+ships_battle 6 7
+ships_battle 1 9
+ships_battle 6 3
+ships_battle 3 5
+ships_battle 2 4
+ships_battle 1 5
+ships_battle 8 5
+treason 10 9
+treason 2 5
+treason 7 5
+ships_battle 8 5
+treason 8 9
+ships_battle 9 9
+treason 10 1
+treason 1 7
+ships_battle 5 7
+treason 1 5
+treason 1 3
+treason 5 10
+ships_battle 7 4
+treason 8 5
+treason 6 3
+ships_battle 3 2
+treason 4 10
+treason 4 1
+treason 7 7
+ships_battle 2 2
+treason 10 6
+ships_battle 8 6
+treason 5 6
+treason 10 2
+treason 3 5
+ships_battle 8 5
+ships_battle 1 5
+ships_battle 3 5
+treason 8 10
+ships_battle 1 8
+treason 1 5
+treason 10 9
+treason 5 7
+treason 2 2
+treason 5 4
+ships_battle 3 6
+ships_battle 1 4
+ships_battle 10 7
+treason 5 5
+ships_battle 6 3
+ships_battle 4 6
+treason 2 5
+ships_battle 7 1
+treason 10 6
+ships_battle 1 6
+ships_battle 6 8
+treason 7 3
+treason 4 10
+ships_battle 5 4
+ships_battle 5 3
+ships_battle 3 1
+ships_battle 3 4
+treason 4 4
+treason 10 6
+ships_battle 2 9
+treason 3 10
+treason 9 3
+ships_battle 8 1
+ships_battle 8 5
+ships_battle 7 10
+ships_battle 3 9
+treason 6 5
+treason 3 7
+treason 3 8
+ships_battle 4 5
+treason 3 7
+ships_battle 4 4
+ships_battle 9 3
+ships_battle 2 5
+ships_battle 2 9
+treason 9 1
+ships_battle 10 3
+ships_battle 6 5
+ships_battle 10 7
+treason 9 1
+ships_battle 5 1
+treason 3 2
+ships_battle 5 1
+ships_battle 9 2
+treason 2 5
+ships_battle 2 8
+ships_battle 10 2
+treason 2 3
+ships_battle 8 8
+treason 3 6
+treason 1 4
+ships_battle 4 8
+treason 5 1
+treason 7 1
+ships_battle 8 3
+treason 2 6
+treason 5 3
+ships_battle 5 2
+ships_battle 4 5
+treason 10 2
+ships_battle 8 1
+ships_battle 1 1
+ships_battle 10 2
+ships_battle 7 9
+ships_battle 10 10
+ships_battle 10 3
+treason 7 5
+ships_battle 7 10
+treason 7 1
+ships_battle 5 9
+treason 6 4
+treason 6 1
+treason 7 3
+treason 7 10
+ships_battle 10 3
+treason 1 8
+treason 5 9
+treason 8 7
+treason 9 2
+ships_battle 10 4
+treason 6 4
+ships_battle 4 5
+ships_battle 7 8
+treason 5 7
+treason 9 3
+ships_battle 6 5
+ships_battle 10 3
+treason 7 1
+ships_battle 4 5
+ships_battle 3 1
+treason 4 6
+treason 5 5
+treason 6 3
+treason 2 5
+treason 1 8
+ships_battle 5 1
+ships_battle 10 1
+ships_battle 1 3
+ships_battle 5 9
+treason 1 7
+ships_battle 9 9
+treason 8 4
+treason 8 8
+treason 9 6
+ships_battle 4 5
+treason 1 5
+ships_battle 1 7
+treason 10 3
+ships_battle 7 10
+treason 1 8
+ships_battle 2 5
+treason 2 2
+treason 3 10
+ships_battle 4 5
+ships_battle 1 2
+ships_battle 4 3
+treason 4 5
+treason 4 2
+treason 3 7
+treason 2 9
+ships_battle 5 5
+treason 7 9
+treason 5 6
+ships_battle 3 5
+treason 3 7
+ships_battle 5 4
+ships_battle 4 5
+ships_battle 2 9
+treason 3 10
+treason 3 6
+treason 7 9
+treason 1 1
+ships_battle 8 9
+treason 6 6
+treason 5 3
+treason 2 1
+ships_battle 5 10
+ships_battle 5 10
+treason 6 6
+ships_battle 8 1
+treason 1 2
+ships_battle 2 10
+ships_battle 8 1
+treason 1 1
+treason 4 5
+ships_battle 6 10
+treason 10 8
+treason 7 1
+ships_battle 2 1
+ships_battle 3 9
+treason 5 9
+ships_battle 7 5
+ships_battle 4 1
+ships_battle 4 5
+ships_battle 10 1
+treason 3 9
+treason 6 9
+treason 7 1
+ships_battle 2 1
+ships_battle 3 7
+ships_battle 1 3
+ships_battle 6 2
+treason 10 8
+ships_battle 2 3
+treason 8 2
+ships_battle 9 2
+treason 1 6
+ships_battle 2 10
+ships_battle 6 2
+ships_battle 6 5
+treason 3 6
+treason 1 9
+treason 10 6
+treason 9 4
+treason 2 10
+ships_battle 9 3
+ships_battle 8 5
+ships_battle 10 8
+ships_battle 5 7
+ships_battle 7 10
+treason 5 4
+treason 3 10
+treason 2 6
+ships_battle 8 10
+ships_battle 3 3
+treason 9 2
+ships_battle 1 8
+treason 6 2
+treason 1 10
+treason 9 7
+treason 6 5
+ships_battle 9 7
+treason 1 5
+treason 4 9
+ships_battle 7 1
+ships_battle 6 5
+ships_battle 9 10
+ships_battle 9 4
+treason 6 4
+treason 8 2
+treason 6 4
+treason 2 1
+ships_battle 9 8
+treason 2 6
+ships_battle 3 3
+ships_battle 9 1
+treason 10 6
+ships_battle 10 2
+treason 4 1
+ships_battle 2 6
+treason 9 6
+treason 4 5
+treason 7 2
+ships_battle 9 7
+treason 1 3
+ships_battle 7 9
+treason 8 10
+treason 7 5
+treason 7 5
+ships_battle 1 7
+ships_battle 9 4
+treason 5 1
+treason 10 9
+treason 10 3
+treason 7 1
+ships_battle 2 9
+ships_battle 4 2
+ships_battle 6 9
+ships_battle 10 3
+treason 4 9
+treason 3 6
+treason 3 4
+treason 9 3
+treason 10 7
+ships_battle 3 4
+treason 2 10
+ships_battle 2 1
+treason 7 2
+ships_battle 4 10
+treason 10 8
+treason 10 6
+ships_battle 5 10
+treason 7 4
+ships_battle 4 10
+treason 4 2
+treason 8 2
+treason 5 4
+treason 6 7
+ships_battle 7 8
+ships_battle 4 2
+treason 10 5
+treason 5 7
+ships_battle 8 10
+ships_battle 2 9
+treason 9 3
+treason 7 7
+treason 10 4
+treason 1 8
+ships_battle 7 5
+ships_battle 8 1
+treason 8 10
+ships_battle 7 2
+treason 4 10
+treason 7 7
+treason 8 5
+ships_battle 6 4
+treason 7 6
+treason 5 2
+treason 1 1
+treason 8 1
+treason 1 7
+treason 9 7
+ships_battle 7 2
+ships_battle 7 10
+treason 4 8
+ships_battle 8 9
+treason 8 2
+treason 8 2
+treason 6 1
+ships_battle 5 2
+ships_battle 7 9
+ships_battle 10 5
+treason 4 2
+ships_battle 7 4
+treason 10 2
+treason 9 9
+treason 8 9
+treason 4 2
+treason 5 4
+treason 6 5
+treason 10 10
+ships_battle 7 7
+treason 6 9
+treason 6 8
+treason 10 8
+ships_battle 4 9
+treason 9 5
+treason 7 3
+treason 8 8
+treason 10 10
+treason 5 4
+treason 5 8
+treason 9 1
+ships_battle 10 7
+ships_battle 1 2
+ships_battle 3 4
+treason 6 3
+treason 10 3
+treason 3 4
+treason 9 2
+treason 8 6
+ships_battle 10 5
+ships_battle 3 3
+treason 10 3
+treason 6 1
+ships_battle 4 6
+treason 10 1
+treason 9 4
+ships_battle 7 4
+treason 8 2
+ships_battle 2 8
+treason 9 9
+treason 1 9
+ships_battle 8 2
+treason 7 3
+treason 1 3
+treason 4 5
+treason 2 7
+treason 3 4
+treason 10 7
+ships_battle 2 5
+ships_battle 10 6
+treason 6 6
+treason 2 4
+treason 10 8
+ships_battle 6 7
+ships_battle 6 5
+treason 10 9
+ships_battle 5 5
+ships_battle 4 2
+treason 10 8
+treason 10 5
+ships_battle 9 4
+ships_battle 5 5
+ships_battle 8 1
+ships_battle 2 3
+treason 1 10
+treason 9 2
+ships_battle 10 6
+treason 3 2
+treason 10 5
+ships_battle 7 7
+ships_battle 7 6
+treason 5 8
+treason 2 4
+treason 8 4
+ships_battle 5 4
+treason 10 2
+ships_battle 1 7
+treason 7 10
+ships_battle 4 2
+treason 9 3
+ships_battle 6 8
+ships_battle 6 3
+treason 3 5
+treason 2 4
+treason 3 10
+ships_battle 3 10
+treason 1 6
+ships_battle 3 5
+ships_battle 6 3
+ships_battle 3 3
+treason 8 1
+treason 10 6
+ships_battle 1 8
+ships_battle 1 10
+treason 4 7
+ships_battle 1 10
+treason 9 5
+ships_battle 4 2
+treason 1 8
+ships_battle 5 3
+ships_battle 10 10
+ships_battle 2 9
+ships_battle 3 10
+treason 4 10
+ships_battle 9 4
+ships_battle 6 6
+treason 1 9
+ships_battle 1 9
+treason 5 5
+treason 7 8
+treason 5 4
+treason 5 8
+ships_battle 6 7
+ships_battle 8 6
+treason 10 3
+treason 4 5
+treason 1 9
+treason 9 3
+ships_battle 6 3
+ships_battle 3 4
+ships_battle 2 2
+treason 8 5
+ships_battle 6 2
+treason 5 1
+ships_battle 5 9
+ships_battle 10 4
+ships_battle 4 7
+ships_battle 4 1
+ships_battle 5 10
+ships_battle 6 6
+ships_battle 7 5
+ships_battle 4 10
+treason 4 8
+treason 5 9
+ships_battle 10 2
+treason 8 7
+treason 3 1
+treason 10 2
+treason 9 4
+ships_battle 1 8
+treason 6 2
+treason 1 8
+ships_battle 2 4
+ships_battle 9 9
+treason 5 10
+ships_battle 8 9
+treason 8 3
+ships_battle 7 5
+treason 10 10
+ships_battle 6 2
+treason 6 9
+ships_battle 8 10
+treason 2 1
+ships_battle 8 3
+ships_battle 5 9
+treason 4 1
+ships_battle 6 6
+ships_battle 9 8
+ships_battle 9 6
+treason 4 4
+treason 3 9
+treason 9 3
+ships_battle 2 6
+treason 9 10
+ships_battle 7 4
+treason 6 4
+ships_battle 8 9
+treason 9 5
+treason 10 7
+treason 10 3
+treason 2 6
+ships_battle 1 7
+ships_battle 9 6
+treason 3 7
+ships_battle 6 4
+treason 3 6
+ships_battle 5 9
+ships_battle 2 10
+ships_battle 5 2
+ships_battle 9 1
+treason 5 9
+treason 4 9
+treason 6 10
+ships_battle 2 4
+ships_battle 3 4
+ships_battle 1 9
+ships_battle 4 4
+treason 9 4
+ships_battle 2 4
+treason 2 9
+ships_battle 5 7
+ships_battle 6 9
+treason 7 9
+ships_battle 1 3
+treason 9 5
+treason 2 8
+treason 10 10
+ships_battle 1 5
+ships_battle 5 10
+treason 2 7
+ships_battle 9 7
+ships_battle 1 5
+treason 4 3
+treason 4 3
+treason 2 10
+ships_battle 7 1
+ships_battle 1 8
+treason 9 2
+ships_battle 2 7
+treason 4 8
+treason 3 3
+treason 9 4
+ships_battle 10 8
+treason 5 5
+treason 4 3
+ships_battle 1 1
+ships_battle 5 3
+ships_battle 4 8
+ships_battle 1 6
+treason 6 7
+treason 1 8
+treason 2 7
+treason 1 6
+treason 6 9
+treason 2 7
+ships_battle 5 5
+ships_battle 3 10
+treason 4 5
+ships_battle 6 4
+ships_battle 3 1
+treason 6 9
+treason 6 10
+ships_battle 9 5
+treason 2 7
+ships_battle 1 8
+treason 4 6
+ships_battle 2 8
+treason 3 2
+ships_battle 2 9
+treason 6 6
+ships_battle 8 5
+ships_battle 1 8
+treason 3 10
+treason 8 7
+ships_battle 5 7
+ships_battle 6 5
+treason 1 1
+ships_battle 8 9
+treason 8 6
+ships_battle 8 5
+treason 5 8
+ships_battle 5 7
+treason 9 8
+ships_battle 7 10
+ships_battle 8 7
+treason 2 3
+treason 7 7
+ships_battle 6 9
+treason 5 10
+treason 2 1
+ships_battle 7 4
+treason 9 8
+ships_battle 7 2
+ships_battle 7 3
+treason 4 3
+ships_battle 5 9
+ships_battle 5 7
+treason 8 5
+treason 10 4
+treason 9 1
+ships_battle 9 1
+treason 3 7
+ships_battle 1 1
+treason 2 8
+ships_battle 7 6
+treason 10 1
+treason 10 7
+ships_battle 10 7
+treason 9 1
+ships_battle 5 2
+treason 3 4
+ships_battle 10 9
+treason 1 7
+ships_battle 4 10
+ships_battle 4 2
+treason 10 3
+treason 7 5
+ships_battle 10 4
+treason 8 3
+ships_battle 10 5
+ships_battle 7 6
+treason 9 10
+ships_battle 2 1
+ships_battle 6 7
+ships_battle 10 10
+treason 10 8
+treason 3 9
+ships_battle 7 10
+treason 5 3
+treason 4 3
+treason 1 8
+ships_battle 10 2
+treason 1 10
+ships_battle 3 5
+treason 8 4
+treason 4 7
+ships_battle 9 5
+treason 9 4
+treason 10 10
+ships_battle 1 5
+treason 7 4
+treason 4 8
+ships_battle 9 2
+treason 7 10
+treason 9 10
+treason 2 3
+treason 8 10
+ships_battle 2 6
+ships_battle 4 10
+treason 2 7
+ships_battle 6 1
+treason 4 7
+ships_battle 4 2
+ships_battle 9 9
+ships_battle 3 4
+treason 6 2
+ships_battle 10 9
+ships_battle 4 7
+ships_battle 4 3
+ships_battle 9 7
+ships_battle 10 6
+ships_battle 5 6
+treason 7 3
+treason 3 6
+treason 10 3
+treason 1 4
+treason 10 10
+ships_battle 2 7
+ships_battle 4 1
+treason 10 8
+treason 7 6
+ships_battle 2 2
+treason 10 10
+treason 7 3
+treason 6 2
+ships_battle 6 4
+ships_battle 2 6
+ships_battle 9 7
+ships_battle 1 5
+treason 9 9
+treason 7 8
+treason 4 6
+treason 10 10
+ships_battle 7 1
+ships_battle 7 6
+ships_battle 8 8
+treason 4 10
+treason 1 8
+treason 2 4
+ships_battle 5 5
+treason 9 4
+ships_battle 7 1
+ships_battle 7 9
+ships_battle 7 2
+ships_battle 5 2
+treason 6 1
+treason 6 6
+treason 4 7
+treason 5 4
+ships_battle 6 3
+ships_battle 7 4
+ships_battle 4 5
+ships_battle 10 7
+treason 7 1
+ships_battle 10 2
+treason 6 3
+ships_battle 1 7
+ships_battle 6 6
+ships_battle 5 8
+ships_battle 3 3
+ships_battle 8 5
+treason 6 7
+treason 8 2
+ships_battle 5 7
+treason 6 4
+ships_battle 10 5
+ships_battle 6 10
+treason 6 10
+ships_battle 2 1
+ships_battle 2 10
+ships_battle 6 2
+ships_battle 8 5
+treason 9 5
+ships_battle 7 3
+ships_battle 10 7
+treason 4 10
+treason 7 1
+treason 5 3
+treason 6 5
+treason 7 4
+ships_battle 1 2
+treason 10 5
+ships_battle 8 1
+treason 3 6
+treason 5 2
+ships_battle 2 9
+ships_battle 4 6
+treason 4 8
+treason 4 3
+treason 7 1
+ships_battle 9 4
+treason 10 5
+ships_battle 4 5
+treason 2 1
+ships_battle 2 1
+ships_battle 3 10
+ships_battle 7 6
+treason 4 3
+ships_battle 3 10
+treason 7 6
+treason 8 9
+ships_battle 7 8
+ships_battle 6 8
+treason 8 5
+treason 10 4
+ships_battle 3 3
+ships_battle 5 8
+ships_battle 2 8
+ships_battle 4 9
+treason 2 6
+treason 1 9
+treason 2 4
+treason 7 3
+treason 4 10
+treason 8 9
+ships_battle 3 2
+treason 10 4
+treason 9 8
+ships_battle 6 3
+ships_battle 9 1
+treason 9 10
+ships_battle 5 3
+ships_battle 7 9
+ships_battle 6 8
+ships_battle 3 5
+ships_battle 4 7
+ships_battle 4 8
+treason 5 9
+ships_battle 1 5
+treason 7 8
+treason 5 9
+treason 3 8
+treason 8 9
+treason 4 1
+ships_battle 1 2
+treason 4 5
+treason 1 7
+treason 3 6
+ships_battle 6 3
+treason 2 4
+treason 3 5
+treason 9 10
+ships_battle 7 2
+ships_battle 9 10
+ships_battle 4 4
+treason 2 3
+treason 6 2
+treason 5 6
+treason 10 8
+ships_battle 7 8
+treason 1 9
+treason 7 1
+ships_battle 10 7
+ships_battle 5 8
+treason 10 9
+treason 9 4
+ships_battle 8 6
+ships_battle 8 3
+treason 1 10
+treason 8 7
+treason 6 6
+ships_battle 6 1
+treason 5 3
+ships_battle 6 4
+ships_battle 2 5
+ships_battle 1 10
+treason 4 5
+ships_battle 5 4
+ships_battle 2 9
+ships_battle 10 8
+ships_battle 3 6
+ships_battle 2 5
+treason 4 8
+treason 6 4
+treason 1 2
+ships_battle 7 6
+ships_battle 2 8
+treason 2 5
+ships_battle 3 9
+treason 1 1
+treason 6 6
+treason 9 8
+ships_battle 7 2
+treason 10 1
+ships_battle 1 4
+treason 8 8
+treason 2 2
+ships_battle 7 6
+treason 1 2
+treason 6 3
+ships_battle 4 8
+treason 4 3
+treason 8 9
+treason 9 4
+ships_battle 10 2
+treason 6 10
+ships_battle 10 5
+treason 5 8
+treason 8 10
+treason 5 7
+treason 6 8
+treason 7 4
+ships_battle 6 9
+ships_battle 4 6
+ships_battle 3 6
+ships_battle 6 9
+treason 10 6
+treason 6 10
+ships_battle 4 2
+treason 2 7
+treason 2 1
+treason 3 9
+treason 6 7
+ships_battle 4 7
+ships_battle 3 6
+ships_battle 4 7
+ships_battle 7 8
+treason 6 7
+ships_battle 8 2
+ships_battle 1 5
+ships_battle 4 6
+treason 8 9
+treason 4 2
+ships_battle 9 10
+treason 4 8
+ships_battle 6 2
+ships_battle 1 3
+ships_battle 4 10
+treason 1 10
+ships_battle 4 2
+ships_battle 9 9
+treason 3 10
+treason 5 8
+ships_battle 1 3
+ships_battle 4 8
+treason 3 2
+ships_battle 3 3
+treason 8 2
+treason 5 4
+ships_battle 9 5
+ships_battle 7 2
+ships_battle 5 9
+ships_battle 1 8
+ships_battle 2 9
+treason 9 4
+treason 2 5
+ships_battle 6 3
+treason 9 4
+ships_battle 5 5
+treason 3 4
+ships_battle 5 8
+ships_battle 8 6
+treason 10 1
+treason 4 1
+treason 8 1
+treason 2 6
+ships_battle 4 1
+ships_battle 7 6
+treason 3 3
+treason 10 7
+treason 7 5
+treason 3 6
+ships_battle 2 3
+treason 2 4
+ships_battle 5 8
+ships_battle 8 8
+ships_battle 7 1
+treason 8 3
+treason 5 9
+treason 8 9
+treason 10 10
+ships_battle 6 9
+treason 8 2
+ships_battle 6 6
+treason 5 4
+ships_battle 1 4
+ships_battle 3 4
+ships_battle 1 9
+ships_battle 5 2
+treason 6 3
+ships_battle 7 9
+treason 9 6
+ships_battle 10 1
+ships_battle 9 7
+ships_battle 8 2
+treason 8 9
+ships_battle 6 2
+treason 1 2
+ships_battle 5 8
+treason 2 9
+ships_battle 3 3
+treason 4 5
+ships_battle 1 6
+treason 10 8
+ships_battle 8 9
+treason 7 8
+treason 2 3
+ships_battle 9 10
+treason 7 7
+ships_battle 5 5
+treason 8 2
+treason 9 4
+treason 5 9
+treason 10 4
+ships_battle 5 9
+treason 2 5
+treason 6 9
+treason 7 6
+ships_battle 3 2
+treason 8 7
+treason 10 2
+ships_battle 1 7
+treason 3 4
+treason 8 10
+ships_battle 2 10
+treason 10 2
+ships_battle 1 6
+treason 9 10
+treason 8 8
+treason 2 6
+treason 3 5
+ships_battle 7 6
+treason 5 3
+treason 2 5
+treason 5 1
+treason 10 9
+ships_battle 9 2
+ships_battle 8 4
+treason 2 2
+treason 10 7
+treason 3 1
+treason 7 5
+ships_battle 4 9
+treason 3 8
+ships_battle 6 5
+ships_battle 10 2
+ships_battle 1 3
+treason 5 9
+ships_battle 1 6
+treason 3 7
+ships_battle 5 4
+ships_battle 5 6
+ships_battle 4 8
+treason 6 6
+ships_battle 7 5
+treason 4 8
+ships_battle 6 3
+ships_battle 1 5
+ships_battle 1 3
+ships_battle 7 5
+ships_battle 7 6
+ships_battle 3 2
+treason 6 5
+ships_battle 1 1
+ships_battle 3 3
+treason 8 8
+treason 8 8
+ships_battle 3 4
+ships_battle 2 4
+ships_battle 7 3
+ships_battle 5 1
+treason 10 9
+ships_battle 10 7
+ships_battle 8 5
+treason 4 5
+treason 3 2
+treason 4 9
+ships_battle 3 3
+treason 6 3
+ships_battle 4 6
+treason 7 7
+treason 5 7
+treason 2 4
+treason 1 8
+ships_battle 4 6
+treason 6 5
+treason 7 10
+ships_battle 1 1
+treason 10 10
+treason 1 8
+ships_battle 6 1
+ships_battle 6 3
+treason 6 3
+treason 7 5
+ships_battle 7 7
+ships_battle 2 1
+treason 3 5
+treason 4 2
+ships_battle 10 8
+ships_battle 10 9
+ships_battle 6 2
+ships_battle 5 6
+ships_battle 6 2
+treason 8 8
+treason 10 5
+ships_battle 2 5
+treason 2 1
+ships_battle 8 6
+ships_battle 1 4
+treason 8 9
+treason 4 3
+ships_battle 4 1
+treason 9 4
+treason 7 4
+treason 1 6
+treason 4 9
+treason 9 5
+treason 1 1
+ships_battle 3 3
+ships_battle 1 6
+ships_battle 5 9
+treason 10 10
+treason 8 7
+ships_battle 8 8
+ships_battle 10 8
+ships_battle 10 2
+ships_battle 8 2
+ships_battle 9 10
+treason 8 3
+ships_battle 10 3
+ships_battle 4 2
+treason 3 6
+ships_battle 7 10
+ships_battle 8 10
+treason 6 3
+treason 9 7
+treason 10 3
+treason 3 5
+ships_battle 2 5
+treason 2 2
+ships_battle 9 2
+ships_battle 3 4
+ships_battle 4 10
+treason 8 1
+treason 6 8
+ships_battle 7 8
+treason 7 10
+treason 9 9
+treason 2 6
+ships_battle 3 10
+treason 1 9
+ships_battle 7 1
+ships_battle 7 4
+treason 5 7
+ships_battle 8 4
+ships_battle 8 2
+ships_battle 1 7
+treason 1 4
+treason 5 6
+treason 10 3
+treason 8 2
+treason 5 7
+ships_battle 6 7
+ships_battle 5 7
+treason 5 9
+ships_battle 6 5
+treason 8 3
+treason 1 6
+treason 4 7
+treason 9 3
+ships_battle 6 4
+treason 2 2
+treason 3 6
+treason 6 7
+ships_battle 4 3
+treason 7 1
+ships_battle 4 5
+ships_battle 2 5
+treason 3 2
+treason 5 4
+ships_battle 6 3
+ships_battle 3 6
+treason 10 9
+treason 4 5
+treason 3 10
+ships_battle 6 7
+ships_battle 8 6
+treason 10 9
+ships_battle 6 5
+ships_battle 6 8
+treason 4 10
+ships_battle 6 10
+ships_battle 10 4
+treason 6 4
+ships_battle 8 8
+treason 1 7
+treason 8 3
+treason 4 6
+treason 2 2
+ships_battle 3 3
+ships_battle 5 4
+treason 6 7
+treason 6 9
+treason 10 3
+ships_battle 5 1
+ships_battle 2 9
+treason 3 8
+ships_battle 3 1
+treason 10 8
+ships_battle 6 3
+ships_battle 4 5
+ships_battle 7 7
+ships_battle 8 3
+ships_battle 3 10
+ships_battle 7 5
+ships_battle 6 3
+ships_battle 5 8
+ships_battle 6 3
+ships_battle 7 1
+treason 3 2
+treason 5 8
+treason 7 9
+ships_battle 7 1
+treason 8 4
+ships_battle 4 6
+ships_battle 4 6
+treason 10 4
+ships_battle 8 4
+ships_battle 1 2
+treason 3 2
+ships_battle 10 10
+ships_battle 4 2
+ships_battle 2 6
+treason 2 6
+treason 4 10
+treason 1 7
+treason 6 9
+ships_battle 6 5
+ships_battle 4 10
+ships_battle 1 5
+treason 10 7
+treason 8 4
+ships_battle 7 9
+ships_battle 10 1
+ships_battle 6 10
+ships_battle 6 10
+treason 2 2
+treason 2 8
+treason 6 7
+treason 7 1
+treason 6 9
+ships_battle 8 6
+treason 4 5
+ships_battle 4 5
+treason 3 9
+ships_battle 3 3
+ships_battle 7 3
+treason 1 7
+ships_battle 9 7
+ships_battle 7 10
+treason 9 3
+ships_battle 4 4
+treason 2 6
+treason 6 8
+treason 10 3
+ships_battle 2 5
+ships_battle 1 9
+treason 8 10
+ships_battle 3 2
+ships_battle 3 4
+treason 1 9
+treason 10 2
+treason 10 10
+ships_battle 2 10
+ships_battle 7 10
+treason 2 5
+ships_battle 5 7
+ships_battle 5 6
+treason 7 8
+treason 3 2
+treason 8 7
+ships_battle 7 8
+ships_battle 2 2
+ships_battle 7 2
+treason 9 4
+ships_battle 5 5
+ships_battle 3 1
+ships_battle 4 1
+treason 5 9
+ships_battle 8 6
+ships_battle 6 8
+treason 9 5
+ships_battle 9 1
+ships_battle 10 4
+ships_battle 5 2
+treason 4 1
+treason 9 2
+ships_battle 6 8
+ships_battle 6 7
+ships_battle 1 9
+ships_battle 5 1
+treason 7 7
+treason 4 10
+treason 6 2
+treason 4 5
+treason 8 5
+ships_battle 8 2
+ships_battle 6 10
+ships_battle 4 7
+ships_battle 5 1
+treason 5 5
+ships_battle 8 9
+ships_battle 10 10
+treason 2 5
+ships_battle 8 6
+treason 6 7
+treason 6 8
+ships_battle 8 3
+treason 2 5
+ships_battle 6 8
+ships_battle 6 8
+treason 7 1
+ships_battle 6 2
+treason 1 2
+treason 3 9
+ships_battle 10 1
+treason 8 10
+ships_battle 6 5
+ships_battle 10 7
+treason 1 10
+treason 5 1
+ships_battle 8 8
+treason 10 1
+treason 5 7
+ships_battle 5 6
+ships_battle 1 8
+ships_battle 4 5
+treason 2 6
+treason 8 3
+ships_battle 4 3
+ships_battle 1 10
+treason 4 10
+treason 1 3
+ships_battle 4 3
+ships_battle 2 9
+treason 6 7
+treason 9 5
+treason 3 6
+ships_battle 4 1
+treason 9 3
+ships_battle 6 3
+ships_battle 2 4
+treason 1 8
+ships_battle 2 5
+treason 1 4
+ships_battle 4 6
+treason 1 10
+treason 8 5
+ships_battle 8 1
+treason 2 7
+treason 4 6
+treason 10 7
+ships_battle 5 10
+ships_battle 3 2
+ships_battle 3 2
+ships_battle 7 8
+ships_battle 8 4
+treason 7 3
+ships_battle 1 1
+treason 8 7
+ships_battle 9 6
+ships_battle 2 8
+ships_battle 8 2
+ships_battle 5 9
+ships_battle 1 10
+ships_battle 8 6
+treason 8 7
+treason 2 1
+treason 5 4
+ships_battle 8 9
+ships_battle 4 10
+treason 1 2
+treason 9 1
+treason 7 8
+ships_battle 2 1
+ships_battle 8 3
+treason 7 1
+treason 9 10
+treason 6 10
+treason 9 4
+ships_battle 10 8
+ships_battle 4 1
+treason 9 4
+treason 5 2
+ships_battle 3 9
+treason 10 6
+treason 10 3
+treason 10 6
+ships_battle 3 5
+treason 9 8
+treason 9 7
+treason 3 7
+ships_battle 1 3
+treason 8 4
+treason 8 3
+ships_battle 9 10
+treason 7 6
+treason 5 9
+treason 1 1
+treason 8 4
+ships_battle 4 10
+ships_battle 6 9
+treason 10 10
+ships_battle 3 7
+ships_battle 2 3
+treason 1 5
+ships_battle 5 6
+ships_battle 9 9
+treason 9 10
+treason 8 10
+treason 4 6
+treason 3 7
+ships_battle 9 9
+ships_battle 10 6
+ships_battle 4 3
+treason 4 5
+treason 9 5
+treason 7 4
+ships_battle 3 3
+treason 7 10
+ships_battle 1 10
+treason 7 7
+ships_battle 2 10
+treason 6 2
+treason 1 8
+ships_battle 10 5
+ships_battle 1 4
+ships_battle 9 10
+ships_battle 10 7
+ships_battle 6 2
+treason 9 4
+ships_battle 9 7
+treason 7 6
+treason 1 9
+ships_battle 9 10
+treason 1 5
+ships_battle 10 4
+ships_battle 8 3
+treason 6 4
+treason 7 3
+treason 5 3
+treason 5 3
+treason 7 1
+treason 3 1
+treason 9 7
+treason 1 8
+treason 4 3
+ships_battle 8 8
+ships_battle 1 9
+treason 10 7
+treason 8 6
+ships_battle 7 10
+ships_battle 4 2
+treason 9 8
+ships_battle 4 4
+treason 8 6
+treason 5 9
+ships_battle 5 10
+ships_battle 3 7
+ships_battle 2 8
+treason 10 9
+treason 2 6
+ships_battle 6 5
+treason 2 5
+ships_battle 3 8
+treason 4 3
+ships_battle 3 3
+ships_battle 2 2
+treason 8 8
+ships_battle 9 7
+treason 7 8
+treason 5 7
+ships_battle 5 4
+ships_battle 4 9
+treason 2 3
+ships_battle 9 1
+treason 7 7
+treason 4 9
+treason 1 9
+treason 9 1
+treason 9 6
+treason 3 6
+ships_battle 4 9
+treason 8 5
+treason 8 4
+treason 1 7
+ships_battle 9 2
+ships_battle 5 5
+ships_battle 5 8
+ships_battle 7 4
+ships_battle 1 6
+ships_battle 5 5
+treason 2 6
+ships_battle 10 10
+ships_battle 10 5
+ships_battle 5 10
+treason 5 8
+treason 3 9
+treason 6 10
+ships_battle 1 4
+treason 3 4
+ships_battle 7 4
+ships_battle 5 7
+treason 9 5
+ships_battle 2 9
+ships_battle 10 3
+ships_battle 6 9
+treason 4 8
+treason 6 8
+ships_battle 10 10
+ships_battle 4 2
+treason 4 6
+treason 4 7
+treason 10 4
+ships_battle 3 4
+treason 10 8
+ships_battle 6 5
+treason 6 4
+treason 10 8
+ships_battle 7 8
+treason 2 10
+treason 9 3
+treason 3 10
+treason 10 3
+ships_battle 1 3
+treason 4 9
+treason 3 6
+ships_battle 6 8
+treason 9 5
+treason 7 7
+treason 6 6
+treason 5 6
+ships_battle 4 9
+ships_battle 1 10
+ships_battle 7 9
+ships_battle 8 7
+ships_battle 10 6
+ships_battle 10 4
+ships_battle 5 10
+ships_battle 9 9
+treason 4 6
+ships_battle 6 4
+treason 3 10
+treason 5 7
+treason 7 8
+ships_battle 1 10
+ships_battle 7 1
+treason 7 7
+treason 10 3
+ships_battle 10 1
+treason 7 7
+treason 10 3
+treason 6 1
+ships_battle 5 5
+treason 2 9
+ships_battle 10 3
+treason 10 8
+treason 7 6
+treason 3 5
+ships_battle 3 10
+ships_battle 8 2
+ships_battle 8 3
+ships_battle 8 10
+treason 1 8
+treason 1 8
+treason 3 5
+ships_battle 1 5
+ships_battle 5 10
+ships_battle 1 7
+treason 10 9
+ships_battle 4 9
+ships_battle 10 7
+treason 2 3
+treason 4 9
+treason 8 6
+ships_battle 8 2
+treason 4 6
+treason 10 8
+treason 5 1
+ships_battle 9 7
+ships_battle 7 9
+treason 5 9
+ships_battle 6 3
+treason 4 4
+ships_battle 6 7
+ships_battle 3 10
+treason 4 7
+treason 9 8
+ships_battle 6 3
+ships_battle 8 1
+ships_battle 2 2
+ships_battle 9 6
+ships_battle 2 3
+treason 4 5
+ships_battle 2 1
+treason 4 5
+treason 6 8
+treason 9 10
+treason 9 10
+ships_battle 5 7
+treason 7 5
+treason 3 6
+treason 8 6
+ships_battle 4 7
+treason 3 7
+ships_battle 6 10
+ships_battle 3 6
+treason 7 2
+ships_battle 4 4
+treason 4 2
+ships_battle 6 10
+ships_battle 4 7
+ships_battle 6 6
+treason 3 9
+treason 4 1
+treason 6 2
+treason 5 4
+treason 6 6
+treason 4 5
+treason 5 4
+ships_battle 6 1
+ships_battle 6 4
+treason 2 10
+ships_battle 5 9
+treason 6 10
+ships_battle 5 8
+treason 6 6
+ships_battle 10 7
+ships_battle 5 9
+ships_battle 1 5
+treason 4 2
+treason 1 5
+ships_battle 2 4
+ships_battle 8 2
+ships_battle 6 2
+ships_battle 2 1
+treason 7 5
+ships_battle 5 1
+treason 10 8
+ships_battle 8 2
+ships_battle 1 6
+ships_battle 1 5
+treason 3 9
+treason 8 8
+ships_battle 5 9
+treason 1 4
+treason 6 10
+treason 3 10
+treason 4 6
+ships_battle 3 8
+ships_battle 5 3
+ships_battle 7 2
+treason 7 3
+ships_battle 7 7
+treason 3 6
+treason 6 10
+ships_battle 6 7
+ships_battle 4 9
+treason 7 5
+ships_battle 6 6
+ships_battle 3 9
+treason 5 6
+treason 9 3
+treason 8 7
+ships_battle 7 4
+ships_battle 5 10
+treason 4 10
+treason 9 4
+treason 9 1
+ships_battle 6 2
+treason 5 3
+treason 10 9
+treason 10 5
+ships_battle 7 1
+treason 3 10
+ships_battle 2 5
+ships_battle 10 1
+treason 6 8
+treason 4 6
+treason 10 5
+treason 6 9
+ships_battle 4 10
+treason 10 8
+treason 10 3
+treason 3 4
+treason 4 2
+ships_battle 5 2
+treason 2 6
+treason 7 6
+treason 3 8
+treason 3 7
+treason 4 4
+treason 8 7
+ships_battle 5 5
+treason 5 1
+ships_battle 1 2
+treason 10 1
+ships_battle 3 4
+ships_battle 7 1
+ships_battle 1 5
+ships_battle 2 7
+treason 3 5
+treason 1 4
+treason 2 10
+treason 1 10
+treason 9 6
+treason 10 7
+ships_battle 8 8
+ships_battle 9 4
+ships_battle 6 5
+ships_battle 5 1
+ships_battle 7 5
+ships_battle 8 2
+ships_battle 6 9
+treason 2 5
+treason 9 1
+treason 1 6
+treason 9 4
+treason 1 9
+ships_battle 8 3
+ships_battle 6 4
+ships_battle 2 10
+ships_battle 8 8
+ships_battle 4 7
+ships_battle 7 9
+ships_battle 10 9
+ships_battle 4 9
+treason 6 6
+ships_battle 8 4
+treason 4 3
+ships_battle 8 2
+treason 7 7
+treason 10 9
+ships_battle 1 10
+treason 7 9
+treason 8 2
+ships_battle 9 7
+treason 10 7
+ships_battle 8 5
+treason 9 6
+treason 4 7
+treason 7 2
+treason 1 6
+ships_battle 6 5
+treason 3 7
+treason 1 7
+ships_battle 3 8
+treason 2 3
+treason 10 5
+treason 3 7
+treason 3 5
+ships_battle 7 10
+treason 1 9
+ships_battle 2 10
+ships_battle 8 6
+treason 9 5
+ships_battle 5 8
+treason 3 10
+ships_battle 2 10
+treason 9 7
+treason 1 3
+treason 10 8
+ships_battle 7 6
+treason 2 6
+ships_battle 8 8
+treason 6 4
+ships_battle 4 10
+treason 9 3
+ships_battle 3 2
+treason 2 9
+treason 7 6
+ships_battle 2 5
+treason 8 7
+ships_battle 3 3
+ships_battle 2 2
+ships_battle 5 6
+treason 4 2
+ships_battle 3 1
+ships_battle 10 6
+treason 8 2
+treason 8 8
+treason 1 3
+treason 2 5
+ships_battle 9 10
+treason 7 7
+ships_battle 2 8
+treason 5 1
+ships_battle 1 3
+treason 6 6
+treason 8 7
+treason 10 10
+ships_battle 6 5
+treason 3 1
+treason 1 2
+ships_battle 6 4
+ships_battle 2 5
+ships_battle 10 10
+treason 2 7
+ships_battle 1 5
+ships_battle 4 7
+treason 1 9
+treason 10 3
+ships_battle 1 6
+ships_battle 7 10
+treason 6 6
+treason 1 7
+ships_battle 6 4
+treason 1 7
+ships_battle 2 2
+ships_battle 9 1
+treason 8 2
+ships_battle 7 8
+ships_battle 3 8
+ships_battle 2 3
+ships_battle 10 3
+treason 4 9
+ships_battle 6 1
+treason 6 2
+ships_battle 3 4
+ships_battle 8 7
+ships_battle 10 4
+ships_battle 6 3
+ships_battle 4 5
+treason 6 3
+treason 7 1
+treason 8 4
+ships_battle 2 2
+ships_battle 1 1
+treason 2 10
+treason 1 2
+ships_battle 4 4
+treason 5 10
+ships_battle 4 7
+ships_battle 9 9
+ships_battle 10 2
+treason 7 8
+treason 8 7
+treason 5 8
+treason 1 3
+treason 4 7
+ships_battle 1 2
+ships_battle 6 7
+ships_battle 8 10
+treason 10 2
+ships_battle 8 10
+treason 7 4
+ships_battle 10 2
+ships_battle 6 2
+treason 2 7
+treason 9 10
+treason 3 8
+treason 4 9
+ships_battle 2 8
+treason 9 6
+treason 10 9
+ships_battle 4 2
+ships_battle 5 8
+treason 10 4
+treason 8 3
+ships_battle 7 9
+treason 1 6
+ships_battle 2 3
+ships_battle 10 6
+ships_battle 5 10
+ships_battle 7 4
+treason 1 3
+treason 6 8
+treason 3 10
+ships_battle 4 8
+treason 5 7
+treason 1 1
+ships_battle 3 4
+treason 7 2
+ships_battle 5 6
+ships_battle 4 9
+ships_battle 1 9
+ships_battle 4 8
+treason 3 5
+treason 4 2
+ships_battle 5 2
+ships_battle 10 10
+treason 1 10
+treason 5 1
+ships_battle 10 2
+treason 10 8
+treason 1 9
+treason 8 2
+ships_battle 9 3
+treason 6 1
+ships_battle 2 10
+treason 10 1
+ships_battle 4 2
+ships_battle 3 5
+treason 5 10
+ships_battle 7 2
+ships_battle 4 9
+treason 10 6
+treason 7 6
+treason 5 5
+ships_battle 9 10
+treason 3 3
+ships_battle 5 3
+ships_battle 4 10
+ships_battle 8 8
+treason 2 6
+ships_battle 6 4
+treason 8 4
+ships_battle 7 1
+ships_battle 3 8
+treason 6 10
+treason 10 3
+treason 2 2
+ships_battle 6 6
+ships_battle 4 2
+ships_battle 7 9
+treason 7 9
+treason 4 4
+treason 8 8
+ships_battle 8 3
+ships_battle 6 10
+treason 3 4
+ships_battle 1 7
+treason 3 9
+ships_battle 1 6
+ships_battle 6 1
+treason 2 1
+ships_battle 5 8
+treason 1 7
+treason 8 7
+treason 5 6
+treason 5 5
+treason 1 10
+ships_battle 3 4
+ships_battle 9 10
+ships_battle 8 3
+treason 3 3
+treason 4 6
+treason 4 1
+treason 4 1
+ships_battle 4 3
+treason 8 4
+treason 2 5
+treason 3 8
+treason 7 2
+treason 9 2
+ships_battle 10 3
+ships_battle 6 5
+ships_battle 8 10
+treason 5 5
+ships_battle 9 3
+ships_battle 1 4
+ships_battle 5 1
+ships_battle 5 8
+ships_battle 5 10
+ships_battle 4 3
+treason 7 3
+ships_battle 4 9
+treason 6 3
+treason 9 5
+ships_battle 6 10
+ships_battle 6 3
+ships_battle 9 7
+ships_battle 7 1
+ships_battle 4 9
+ships_battle 7 3
+treason 7 1
+treason 3 7
+treason 2 10
+treason 3 1
+ships_battle 3 2
+treason 2 4
+treason 5 3
+treason 8 3
+ships_battle 10 5
+ships_battle 1 8
+treason 4 2
+ships_battle 6 2
+treason 3 6
+treason 10 5
+ships_battle 1 5
+treason 4 7
+treason 9 3
+treason 8 9
+treason 3 3
+ships_battle 10 8
+treason 10 2
+treason 4 4
+treason 7 7
+treason 10 2
+treason 3 5
+treason 3 8
+ships_battle 3 9
+treason 6 7
+ships_battle 4 9
+treason 7 1
+treason 4 10
+treason 6 4
+ships_battle 4 6
+treason 8 10
+ships_battle 6 4
+ships_battle 5 3
+ships_battle 9 4
+ships_battle 10 2
+ships_battle 7 8
+ships_battle 1 2
+treason 7 2
+ships_battle 7 7
+ships_battle 9 8
+treason 1 5
+ships_battle 9 4
+ships_battle 7 2
+ships_battle 5 3
+ships_battle 6 10
+treason 5 5
+treason 6 3
+treason 6 1
+ships_battle 6 10
+ships_battle 2 9
+ships_battle 10 1
+ships_battle 3 9
+treason 4 6
+treason 5 3
+treason 5 3
+ships_battle 8 7
+treason 2 7
+treason 3 7
+treason 7 2
+treason 1 9
+treason 10 8
+treason 2 10
+ships_battle 2 1
+ships_battle 4 4
+treason 2 5
+treason 6 10
+ships_battle 1 10
+treason 4 10
+treason 10 10
+treason 10 6
+treason 7 10
+ships_battle 9 8
+treason 3 8
+ships_battle 4 1
+ships_battle 5 8
+ships_battle 2 1
+ships_battle 6 1
+treason 9 4
+ships_battle 9 6
+treason 3 5
+ships_battle 9 8
+treason 7 2
+ships_battle 4 1
+treason 7 4
+treason 7 3
+ships_battle 8 10
+ships_battle 9 6
+ships_battle 8 6
+ships_battle 5 7
+ships_battle 7 2
+treason 2 2
+ships_battle 2 8
+treason 8 3
+ships_battle 2 6
+treason 2 5
+treason 6 10
+ships_battle 1 9
+treason 1 10
+treason 4 6
+treason 9 5
+treason 5 10
+ships_battle 4 8
+ships_battle 3 6
+treason 8 6
+ships_battle 5 7
+treason 3 2
+treason 2 6
+ships_battle 5 10
+ships_battle 5 9
+ships_battle 4 5
+treason 9 10
+ships_battle 9 5
+ships_battle 9 2
+ships_battle 9 1
+ships_battle 9 6
+ships_battle 3 4
+ships_battle 1 2
+ships_battle 4 1
+treason 2 7
+ships_battle 7 4
+ships_battle 1 5
+ships_battle 4 1
+ships_battle 8 2
+ships_battle 3 3
+ships_battle 2 8
+ships_battle 6 9
+ships_battle 9 5
+ships_battle 8 6
+treason 3 7
+treason 10 4
+treason 6 9
+treason 8 8
+treason 3 9
+treason 5 3
+ships_battle 1 1
+ships_battle 1 3
+ships_battle 7 7
+treason 5 4
+treason 4 3
+treason 1 7
+ships_battle 6 6
+ships_battle 1 6
+ships_battle 3 10
+ships_battle 3 3
+treason 7 3
+treason 10 1
+treason 7 2
+treason 9 1
+treason 9 8
+ships_battle 7 4
+treason 1 2
+treason 8 6
+treason 10 10
+ships_battle 3 6
+treason 9 10
+treason 4 7
+ships_battle 7 4
+treason 2 5
+ships_battle 7 9
+ships_battle 3 5
+treason 4 7
+ships_battle 6 7
+treason 4 10
+treason 6 1
+treason 2 5
+ships_battle 9 10
+treason 2 3
+ships_battle 4 7
+ships_battle 3 7
+ships_battle 9 1
+ships_battle 10 1
+treason 3 6
+treason 6 10
+treason 10 2
+ships_battle 5 3
+ships_battle 9 3
+ships_battle 3 8
+treason 8 8
+ships_battle 6 5
+ships_battle 10 2
+ships_battle 3 5
+treason 9 8
+ships_battle 8 7
+treason 6 3
+ships_battle 9 4
+ships_battle 7 7
+ships_battle 8 1
+treason 9 10
+ships_battle 9 1
+ships_battle 1 7
+treason 10 6
+ships_battle 8 10
+ships_battle 4 9
+treason 10 9
+treason 10 9
+treason 3 5
+ships_battle 3 5
+ships_battle 6 6
+treason 10 1
+ships_battle 2 8
+ships_battle 9 7
+ships_battle 6 3
+ships_battle 7 5
+ships_battle 9 1
+treason 7 6
+ships_battle 9 6
+ships_battle 3 4
+ships_battle 10 4
+ships_battle 4 10
+ships_battle 2 2
+ships_battle 4 10
+treason 5 3
+treason 1 9
+ships_battle 10 3
+treason 8 4
+treason 6 9
+ships_battle 6 5
+ships_battle 6 7
+treason 7 5
+ships_battle 10 4
+ships_battle 5 3
+treason 1 5
+treason 4 1
+ships_battle 2 4
+ships_battle 5 3
+treason 3 4
+ships_battle 9 3
+ships_battle 2 9
+treason 10 1
+ships_battle 9 9
+ships_battle 10 1
+ships_battle 10 7
+treason 4 1
+treason 6 10
+treason 6 8
+treason 4 4
+ships_battle 4 2
+treason 6 8
+ships_battle 4 7
+treason 6 8
+treason 8 1
+treason 3 7
+treason 9 2
+ships_battle 6 3
+ships_battle 5 1
+ships_battle 3 3
+treason 7 6
+treason 6 8
+ships_battle 7 5
+treason 2 9
+ships_battle 4 3
+treason 10 6
+treason 3 10
+ships_battle 7 2
+ships_battle 4 10
+ships_battle 5 5
+ships_battle 2 10
+treason 6 1
+treason 8 8
+ships_battle 1 7
+ships_battle 6 8
+treason 10 8
+ships_battle 5 6
+ships_battle 1 10
+treason 4 3
+treason 7 5
+ships_battle 6 6
+treason 6 10
+ships_battle 8 4
+treason 3 5
+ships_battle 7 9
+treason 5 2
+treason 10 1
+treason 1 10
+treason 6 4
+ships_battle 8 4
+treason 9 10
+ships_battle 1 8
+treason 6 9
+ships_battle 6 9
+ships_battle 6 10
+ships_battle 8 10
+treason 7 6
+ships_battle 4 2
+ships_battle 6 3
+treason 2 9
+ships_battle 6 2
+treason 8 5
+treason 10 7
+ships_battle 5 4
+ships_battle 6 3
+ships_battle 7 1
+ships_battle 9 2
+ships_battle 5 5
+ships_battle 9 10
+ships_battle 4 4
+treason 8 8
+treason 10 3
+treason 2 8
+ships_battle 2 2
+ships_battle 1 2
+ships_battle 6 1
+ships_battle 7 5
+ships_battle 9 2
+treason 4 3
+ships_battle 7 2
+ships_battle 4 7
+ships_battle 4 1
+treason 3 10
+treason 5 8
+treason 8 8
+ships_battle 10 1
+treason 2 1
+treason 5 7
+ships_battle 4 1
+ships_battle 8 7
+treason 10 6
+treason 9 7
+ships_battle 1 5
+ships_battle 10 9
+ships_battle 9 1
+treason 1 6
+treason 8 5
+treason 9 4
+ships_battle 1 1
+treason 8 4
+treason 6 7
+ships_battle 5 2
+treason 8 2
+ships_battle 1 9
+treason 10 6
+treason 2 1
+ships_battle 4 6
+treason 4 6
+ships_battle 6 4
+ships_battle 10 1
+ships_battle 2 10
+ships_battle 8 3
+ships_battle 6 7
+treason 7 9
+ships_battle 1 6
+ships_battle 9 2
+treason 5 2
+treason 1 9
+ships_battle 4 3
+treason 10 5
+treason 10 9
+ships_battle 3 2
+ships_battle 5 10
+treason 8 7
+ships_battle 5 9
+ships_battle 2 4
+treason 9 3
+ships_battle 8 2
+ships_battle 4 6
+treason 5 8
+ships_battle 7 8
+treason 6 7
+treason 6 9
+ships_battle 3 1
+ships_battle 1 3
+treason 10 3
+ships_battle 10 2
+treason 3 5
+treason 8 1
+treason 8 1
+ships_battle 10 9
+ships_battle 4 9
+ships_battle 6 4
+ships_battle 9 9
+ships_battle 8 6
+treason 3 8
+ships_battle 6 6
+treason 1 4
+treason 3 7
+treason 6 2
+ships_battle 6 1
+treason 8 7
+ships_battle 1 9
+ships_battle 3 9
+treason 8 5
+treason 10 1
+treason 7 8
+treason 10 1
+treason 7 5
+ships_battle 4 5
+ships_battle 6 5
+treason 1 6
+ships_battle 3 3
+ships_battle 6 8
+treason 10 10
+ships_battle 7 5
+ships_battle 9 8
+ships_battle 10 2
+treason 7 2
+treason 2 4
+treason 6 3
+treason 7 3
+treason 3 3
+treason 4 4
+ships_battle 8 8
+treason 10 10
+treason 10 9
+ships_battle 3 1
+ships_battle 2 4
+treason 2 2
+ships_battle 10 6
+ships_battle 1 9
+ships_battle 2 7
+treason 6 8
+treason 8 10
+ships_battle 2 3
+treason 2 5
+treason 8 9
+treason 2 2
+ships_battle 3 7
+treason 7 7
+ships_battle 7 1
+treason 3 1
+ships_battle 9 7
+treason 1 10
+ships_battle 7 6
+ships_battle 2 6
+treason 10 2
+treason 10 9
+ships_battle 2 10
+ships_battle 9 9
+treason 2 4
+treason 3 7
+treason 10 3
+treason 7 5
+ships_battle 4 5
+ships_battle 2 7
+treason 5 4
+treason 5 4
+ships_battle 10 1
+ships_battle 5 3
+ships_battle 6 1
+ships_battle 10 7
+treason 2 6
+ships_battle 8 4
+treason 10 8
+ships_battle 7 9
+ships_battle 2 7
+ships_battle 5 10
+ships_battle 2 7
+ships_battle 7 5
+ships_battle 1 10
+ships_battle 7 1
+ships_battle 10 7
+ships_battle 8 2
+ships_battle 10 10
+treason 10 1
+ships_battle 6 9
+ships_battle 9 7
+ships_battle 4 4
+treason 7 8
+ships_battle 3 3
+treason 10 9
+treason 3 9
+ships_battle 9 4
+treason 10 8
+ships_battle 7 6
+treason 5 5
+ships_battle 8 8
+ships_battle 8 1
+ships_battle 5 2
+ships_battle 3 2
+treason 7 9
+treason 6 7
+ships_battle 9 4
+treason 1 6
+ships_battle 10 3
+ships_battle 8 5
+treason 8 8
+treason 5 8
+treason 9 8
+ships_battle 5 10
+treason 9 1
+treason 7 1
+treason 3 3
+ships_battle 5 6
+treason 7 9
+treason 7 8
+ships_battle 3 9
+ships_battle 4 9
+ships_battle 10 3
+treason 5 2
+treason 9 5
+ships_battle 9 8
+ships_battle 6 2
+ships_battle 5 5
+ships_battle 5 5
+ships_battle 8 1
+treason 9 3
+ships_battle 2 5
+ships_battle 8 1
+ships_battle 2 6
+ships_battle 7 8
+treason 9 6
+treason 7 8
+treason 10 5
+treason 10 9
+treason 5 7
+ships_battle 4 4
+treason 2 2
+ships_battle 5 9
+ships_battle 5 7
+treason 3 9
+ships_battle 6 3
+ships_battle 5 7
+treason 4 8
+treason 5 7
+treason 1 1
+ships_battle 10 5
+treason 1 3
+treason 3 10
+ships_battle 7 3
+treason 3 10
+treason 10 9
+ships_battle 2 2
+ships_battle 9 5
+treason 9 3
+treason 10 9
+ships_battle 10 10
+treason 8 6
+ships_battle 6 5
+ships_battle 7 7
+treason 4 6
+ships_battle 1 4
+ships_battle 3 10
+ships_battle 7 1
+treason 6 2
+treason 7 10
+treason 1 10
+ships_battle 6 4
+treason 3 5
+ships_battle 6 10
+ships_battle 3 8
+ships_battle 5 7
+ships_battle 9 4
+ships_battle 5 9
+ships_battle 7 3
+ships_battle 4 3
+treason 1 6
+treason 5 2
+ships_battle 2 5
+treason 6 7
+treason 4 1
+ships_battle 3 4
+treason 10 8
+treason 5 6
+treason 6 1
+treason 9 4
+treason 2 10
+ships_battle 3 1
+ships_battle 6 8
+treason 9 5
+treason 5 2
+ships_battle 1 5
+ships_battle 4 10
+treason 3 1
+ships_battle 4 1
+treason 6 6
+ships_battle 10 9
+ships_battle 6 1
+treason 6 3
+ships_battle 5 9
+treason 3 8
+ships_battle 1 7
+treason 5 3
+treason 3 6
+ships_battle 7 6
+ships_battle 9 7
+treason 4 6
+treason 1 7
+treason 4 1
+ships_battle 8 1
+treason 8 2
+treason 3 6
+ships_battle 6 5
+treason 5 8
+ships_battle 2 5
+treason 3 1
+ships_battle 10 4
+ships_battle 6 6
+ships_battle 4 3
+treason 7 8
+ships_battle 10 2
+ships_battle 10 5
+treason 7 3
+treason 9 6
+ships_battle 2 10
+ships_battle 4 4
+treason 8 10
+ships_battle 1 2
+ships_battle 9 4
+treason 3 2
+ships_battle 9 10
+treason 7 8
+treason 4 3
+ships_battle 9 10
+ships_battle 1 8
+ships_battle 2 1
+ships_battle 3 1
+ships_battle 4 4
+treason 1 8
+ships_battle 7 6
+treason 9 3
+treason 9 4
+treason 1 2
+ships_battle 1 9
+treason 6 2
+ships_battle 2 7
+treason 3 8
+ships_battle 2 5
+treason 3 8
+ships_battle 6 7
+treason 7 7
+ships_battle 6 7
+treason 7 6
+ships_battle 7 9
+ships_battle 8 10
+treason 1 8
+treason 4 5
+treason 2 3
+treason 8 2
+ships_battle 4 3
+treason 7 7
+treason 1 10
+treason 8 10
+ships_battle 5 9
+ships_battle 9 2
+treason 2 8
+treason 1 5
+treason 5 10
+treason 3 2
+ships_battle 7 7
+ships_battle 3 2
+ships_battle 8 6
+ships_battle 8 5
+treason 9 10
+treason 5 5
+ships_battle 9 6
+ships_battle 2 7
+ships_battle 6 7
+treason 9 2
+ships_battle 4 5
+treason 3 9
+ships_battle 8 7
+treason 4 7
+treason 8 3
+ships_battle 3 9
+ships_battle 3 9
+ships_battle 8 3
+treason 2 7
+treason 6 10
+ships_battle 7 1
+ships_battle 2 3
+ships_battle 2 9
+treason 8 9
+treason 9 10
+treason 2 10
+treason 4 5
+ships_battle 9 2
+treason 2 4
+ships_battle 9 9
+ships_battle 4 6
+ships_battle 9 2
+treason 9 1
+ships_battle 7 1
+treason 5 5
+ships_battle 8 7
+ships_battle 4 7
+treason 3 7
+ships_battle 4 6
+treason 6 4
+ships_battle 1 8
+ships_battle 10 10
+treason 6 6
+ships_battle 4 10
+ships_battle 5 10
+ships_battle 5 7
+ships_battle 3 9
+treason 9 2
+ships_battle 1 9
+treason 3 1
+treason 10 1
+treason 8 3
+treason 1 3
+ships_battle 6 9
+ships_battle 10 4
+ships_battle 1 6
+ships_battle 2 3
+treason 5 1
+treason 6 2
+treason 2 5
+ships_battle 4 6
+treason 2 3
+ships_battle 1 4
+ships_battle 9 8
+treason 7 6
+ships_battle 4 1
+treason 7 10
+treason 7 2
+treason 1 9
+treason 3 4
+treason 3 2
+treason 3 5
+ships_battle 10 1
+ships_battle 9 8
+ships_battle 2 2
+treason 3 8
+ships_battle 8 4
+treason 5 3
+treason 4 2
+treason 5 8
+ships_battle 1 6
+ships_battle 1 8
+treason 10 3
+treason 9 5
+ships_battle 3 10
+ships_battle 2 2
+ships_battle 10 2
+ships_battle 9 5
+ships_battle 7 6
+treason 6 1
+ships_battle 6 4
+ships_battle 5 5
+ships_battle 10 10
+treason 8 7
+ships_battle 5 2
+treason 10 2
+treason 8 2
+treason 9 4
+treason 10 3
+treason 9 2
+ships_battle 10 9
+ships_battle 1 3
+treason 6 1
+treason 3 4
+ships_battle 3 9
+ships_battle 5 8
+ships_battle 8 7
+ships_battle 7 10
+treason 3 2
+ships_battle 2 7
+treason 10 6
+treason 5 4
+ships_battle 2 4
+ships_battle 7 1
+treason 5 6
+treason 7 7
+treason 6 1
+ships_battle 2 10
+treason 8 8
+ships_battle 1 4
+treason 7 3
+treason 1 8
+ships_battle 2 7
+treason 4 3
+ships_battle 6 7
+treason 1 6
+treason 10 3
+ships_battle 3 3
+treason 10 9
+ships_battle 4 1
+treason 1 9
+treason 3 8
+ships_battle 6 4
+treason 9 3
+ships_battle 9 1
+ships_battle 9 7
+treason 5 3
+ships_battle 9 3
+ships_battle 8 5
+ships_battle 7 2
+treason 5 5
+treason 7 2
+ships_battle 3 9
+ships_battle 9 2
+ships_battle 8 4
+treason 3 2
+ships_battle 5 1
+ships_battle 6 4
+treason 5 9
+treason 5 6
+treason 4 8
+ships_battle 6 5
+ships_battle 5 5
+ships_battle 3 8
+ships_battle 8 5
+ships_battle 8 2
+ships_battle 6 4
+treason 3 4
+treason 9 5
+treason 4 7
+treason 4 10
+treason 6 5
+ships_battle 2 2
+ships_battle 4 5
+treason 7 7
+treason 8 10
+ships_battle 5 6
+treason 2 8
+ships_battle 8 7
+ships_battle 10 8
+ships_battle 6 2
+ships_battle 6 5
+ships_battle 1 10
+treason 7 6
+treason 5 2
+treason 7 8
+treason 7 1
+treason 3 2
+ships_battle 3 4
+ships_battle 6 3
+treason 2 3
+ships_battle 5 10
+ships_battle 7 2
+ships_battle 4 7
+treason 4 7
+ships_battle 5 10
+treason 8 1
+treason 10 2
+treason 1 6
+ships_battle 2 9
+treason 1 1
+ships_battle 8 8
+treason 10 2
+ships_battle 8 10
+ships_battle 4 7
+treason 5 1
+ships_battle 1 3
+treason 8 3
+treason 8 1
+treason 9 6
+treason 7 9
+treason 4 9
+treason 1 6
+ships_battle 1 1
+ships_battle 1 1
+ships_battle 10 2
+ships_battle 1 6
+ships_battle 8 6
+ships_battle 3 8
+treason 8 8
+treason 9 10
+treason 10 5
+treason 5 5
+treason 2 9
+treason 9 8
+treason 7 9
+treason 9 1
+treason 9 8
+treason 5 4
+ships_battle 3 4
+treason 6 9
+ships_battle 5 3
+treason 6 3
+ships_battle 8 2
+treason 8 4
+ships_battle 2 9
+treason 8 6
+ships_battle 7 1
+ships_battle 1 2
+ships_battle 2 5
+treason 3 3
+treason 1 1
+ships_battle 1 2
+ships_battle 8 5
+treason 2 7
+ships_battle 4 5
+ships_battle 5 2
+treason 6 7
+treason 5 2
+ships_battle 6 5
+treason 1 9
+treason 10 10
+ships_battle 2 1
+treason 5 10
+ships_battle 1 5
+treason 9 5
+treason 3 5
+treason 3 6
+treason 6 8
+treason 4 5
+ships_battle 2 10
+treason 5 4
+ships_battle 3 8
+treason 7 3
+ships_battle 7 3
+treason 2 4
+ships_battle 6 2
+ships_battle 7 2
+treason 2 2
+treason 2 6
+treason 4 5
+ships_battle 1 9
+treason 8 4
+treason 5 5
+ships_battle 10 6
+ships_battle 7 2
+ships_battle 3 8
+ships_battle 8 8
+treason 10 6
+ships_battle 3 2
+ships_battle 8 2
+treason 3 4
+ships_battle 7 6
+treason 8 8
+treason 8 3
+treason 7 4
+ships_battle 1 5
+treason 6 1
+treason 6 10
+ships_battle 2 6
+ships_battle 7 2
+ships_battle 10 2
+ships_battle 9 6
+treason 9 4
+treason 6 5
+treason 4 5
+ships_battle 3 10
+ships_battle 3 4
+ships_battle 10 7
+ships_battle 4 4
+ships_battle 10 2
+ships_battle 1 4
+ships_battle 8 1
+ships_battle 10 8
+ships_battle 1 7
+ships_battle 2 10
+treason 3 5
+ships_battle 2 10
+treason 2 6
+ships_battle 3 2
+ships_battle 9 9
+ships_battle 3 5
+ships_battle 1 4
+ships_battle 10 4
+treason 5 6
+ships_battle 7 8
+treason 9 2
+treason 5 6
+treason 2 9
+ships_battle 8 6
+ships_battle 7 4
+ships_battle 9 1
+treason 10 7
+treason 5 10
+ships_battle 5 1
+ships_battle 10 2
+treason 3 5
+treason 1 9
+ships_battle 5 1
+ships_battle 9 2
+ships_battle 7 8
+treason 4 2
+treason 2 8
+ships_battle 4 1
+ships_battle 4 4
+ships_battle 2 6
+ships_battle 3 1
+treason 9 2
+ships_battle 3 2
+ships_battle 4 8
+ships_battle 1 2
+ships_battle 1 1
+ships_battle 10 1
+treason 1 1
+treason 6 2
+ships_battle 8 8
+ships_battle 6 2
+treason 1 7
+ships_battle 3 7
+ships_battle 6 6
+treason 10 7
+treason 6 6
+treason 10 1
+ships_battle 4 3
+treason 4 3
+treason 10 1
+treason 7 6
+treason 8 2
+treason 3 1
+treason 3 10
+treason 3 10
+treason 5 7
+ships_battle 4 7
+ships_battle 3 4
+treason 4 3
+ships_battle 6 3
+treason 4 1
+ships_battle 3 3
+treason 7 3
+ships_battle 3 3
+ships_battle 4 5
+ships_battle 2 10
+treason 10 10
+ships_battle 10 7
+treason 3 7
+ships_battle 9 4
+treason 1 8
+ships_battle 6 7
+treason 5 9
+treason 1 6
+treason 5 10
+ships_battle 9 2
+ships_battle 4 6
+treason 9 1
+treason 10 5
+treason 4 7
+treason 2 3
+ships_battle 1 8
+treason 2 5
+ships_battle 1 9
+ships_battle 4 6
+ships_battle 3 1
+treason 5 7
+ships_battle 6 7
+treason 6 8
+treason 4 10
+ships_battle 7 8
+treason 5 4
+ships_battle 6 1
+ships_battle 2 3
+ships_battle 6 2
+treason 7 2
+treason 7 3
+ships_battle 8 7
+treason 3 9
+treason 8 10
+ships_battle 7 7
+treason 5 5
+treason 9 9
+ships_battle 9 9
+treason 2 9
+ships_battle 2 7
+treason 1 5
+treason 6 9
+ships_battle 6 7
+ships_battle 3 3
+treason 10 7
+ships_battle 2 8
+ships_battle 3 9
+ships_battle 8 7
+ships_battle 10 4
+ships_battle 4 9
+treason 6 10
+ships_battle 1 3
+treason 1 3
+treason 10 10
+ships_battle 10 1
+ships_battle 1 10
+ships_battle 6 5
+ships_battle 3 9
+treason 1 4
+treason 10 10
+treason 5 7
+ships_battle 7 9
+ships_battle 1 6
+treason 1 6
+ships_battle 3 5
+ships_battle 4 2
+ships_battle 7 2
+ships_battle 8 10
+treason 7 6
+ships_battle 4 9
+treason 1 8
+treason 3 5
+ships_battle 8 9
+treason 8 3
+ships_battle 2 6
+ships_battle 3 7
+treason 10 1
+ships_battle 3 9
+treason 2 5
+treason 3 2
+ships_battle 9 5
+ships_battle 1 5
+ships_battle 3 5
+ships_battle 8 10
+ships_battle 9 6
+ships_battle 8 4
+ships_battle 9 7
+ships_battle 10 7
+treason 5 1
+ships_battle 6 7
+ships_battle 9 6
+ships_battle 9 1
+treason 9 7
+ships_battle 9 2
+ships_battle 3 6
+ships_battle 7 6
+ships_battle 1 1
+ships_battle 10 10
+treason 9 5
+ships_battle 7 8
+treason 2 1
+treason 3 4
+treason 1 5
+treason 1 1
+ships_battle 5 6
+ships_battle 2 6
+treason 3 10
+ships_battle 9 10
+treason 6 2
+treason 9 3
+ships_battle 7 8
+ships_battle 10 9
+treason 7 5
+treason 1 7
+treason 5 3
+ships_battle 8 9
+ships_battle 8 2
+ships_battle 4 3
+treason 10 9
+ships_battle 10 2
+treason 3 5
+treason 8 2
+treason 3 5
+treason 9 4
+ships_battle 5 7
+treason 7 3
+treason 4 1
+ships_battle 10 7
+ships_battle 3 2
+ships_battle 5 7
+treason 6 2
+treason 2 9
+treason 5 10
+treason 5 9
+ships_battle 7 1
+ships_battle 3 4
+treason 10 8
+treason 9 1
+treason 1 3
+treason 7 3
+ships_battle 9 4
+treason 3 6
+ships_battle 4 7
+ships_battle 8 5
+treason 4 6
+ships_battle 2 1
+ships_battle 7 5
+ships_battle 7 6
+ships_battle 10 6
+ships_battle 2 6
+ships_battle 4 2
+ships_battle 8 9
+ships_battle 7 8
+ships_battle 7 10
+treason 7 6
+treason 3 2
+ships_battle 6 3
+ships_battle 9 6
+treason 4 5
+ships_battle 2 10
+treason 10 3
+treason 6 4
+treason 7 3
+ships_battle 2 3
+treason 10 10
+treason 5 5
+treason 2 9
+treason 8 6
+treason 10 3
+ships_battle 10 7
+treason 7 2
+treason 4 9
+treason 9 3
+treason 4 7
+ships_battle 5 6
+ships_battle 5 4
+ships_battle 5 9
+ships_battle 5 10
+treason 5 7
+ships_battle 7 7
+treason 4 5
+ships_battle 8 5
+treason 1 10
+treason 2 9
+ships_battle 10 1
+ships_battle 7 6
+treason 5 6
+treason 4 6
+ships_battle 10 4
+treason 4 2
+ships_battle 3 9
+ships_battle 4 5
+treason 4 10
+treason 6 10
+treason 4 2
+treason 1 10
+treason 4 9
+ships_battle 7 7
+ships_battle 2 7
+ships_battle 2 3
+ships_battle 8 5
+ships_battle 6 4
+treason 3 2
+treason 10 9
+treason 10 9
+treason 1 1
+treason 6 8
+treason 6 2
+treason 5 5
+ships_battle 3 9
+ships_battle 2 7
+treason 10 10
+ships_battle 7 1
+treason 1 4
+ships_battle 9 2
+treason 9 3
+treason 9 7
+treason 4 7
+ships_battle 3 9
+treason 8 3
+treason 10 4
+ships_battle 5 10
+ships_battle 4 8
+ships_battle 4 3
+treason 9 3
+ships_battle 10 10
+ships_battle 2 9
+ships_battle 6 1
+treason 4 7
+treason 4 6
+ships_battle 10 2
+ships_battle 6 7
+ships_battle 5 4
+ships_battle 5 7
+treason 10 8
+treason 2 8
+treason 10 1
+treason 5 1
+ships_battle 3 8
+ships_battle 6 2
+treason 9 5
+treason 6 8
+ships_battle 8 9
+ships_battle 8 1
+treason 10 6
+treason 2 9
+ships_battle 4 6
+ships_battle 2 9
+treason 7 2
+treason 6 7
+treason 10 5
+treason 10 4
+ships_battle 8 1
+treason 5 2
+ships_battle 9 10
+treason 10 3
+treason 1 1
+ships_battle 5 8
+treason 7 4
+ships_battle 7 4
+ships_battle 3 2
+ships_battle 5 2
+treason 8 6
+ships_battle 7 5
+treason 4 1
+ships_battle 5 1
+treason 5 6
+ships_battle 6 6
+ships_battle 6 6
+treason 5 3
+ships_battle 6 2
+ships_battle 5 1
+treason 6 7
+treason 9 6
+treason 1 2
+treason 2 5
+treason 3 3
+ships_battle 7 9
+ships_battle 5 9
+ships_battle 4 2
+treason 2 4
+ships_battle 6 7
+treason 6 2
+treason 10 5
+ships_battle 3 4
+ships_battle 4 2
+ships_battle 3 6
+ships_battle 8 3
+ships_battle 7 5
+ships_battle 1 4
+treason 5 1
+treason 2 9
+ships_battle 10 1
+treason 6 8
+treason 3 5
+treason 10 3
+treason 1 1
+ships_battle 9 8
+treason 2 10
+treason 8 9
+ships_battle 7 5
+ships_battle 2 9
+treason 3 5
+treason 4 8
+treason 8 1
+treason 1 7
+treason 8 9
+ships_battle 1 3
+treason 4 2
+ships_battle 2 10
+ships_battle 1 9
+treason 5 2
+treason 9 5
+ships_battle 10 4
+treason 3 10
+ships_battle 5 8
+ships_battle 1 8
+ships_battle 10 2
+treason 1 6
+treason 7 6
+ships_battle 5 5
+treason 10 7
+treason 7 2
+treason 8 3
+ships_battle 10 10
+treason 4 1
+treason 8 1
+ships_battle 5 8
+treason 10 3
+ships_battle 10 9
+ships_battle 1 3
+treason 8 6
+treason 3 4
+treason 6 2
+treason 10 7
+ships_battle 2 10
+ships_battle 10 4
+ships_battle 4 1
+ships_battle 9 5
+treason 7 8
+ships_battle 5 5
+ships_battle 9 1
+ships_battle 9 2
+ships_battle 4 10
+ships_battle 7 4
+ships_battle 4 9
+ships_battle 7 1
+ships_battle 4 2
+treason 4 7
+ships_battle 1 7
+treason 9 1
+ships_battle 6 4
+ships_battle 8 7
+treason 7 6
+ships_battle 4 9
+treason 9 9
+treason 6 3
+treason 8 10
+ships_battle 1 2
+ships_battle 5 3
+ships_battle 1 6
+ships_battle 6 5
+treason 1 5
+ships_battle 6 5
+treason 10 1
+treason 8 3
+ships_battle 9 10
+ships_battle 3 8
+ships_battle 9 2
+treason 8 2
+ships_battle 5 5
+treason 1 3
+ships_battle 3 8
+treason 6 4
+ships_battle 8 7
+treason 2 8
+treason 5 10
+treason 1 9
+ships_battle 10 6
+treason 7 9
+ships_battle 3 7
+ships_battle 2 9
+ships_battle 9 7
+treason 3 1
+treason 3 7
+ships_battle 1 2
+ships_battle 6 1
+ships_battle 2 1
+treason 4 4
+treason 7 6
+ships_battle 8 7
+ships_battle 6 5
+ships_battle 1 2
+ships_battle 1 6
+treason 2 6
+treason 2 2
+ships_battle 3 5
+treason 6 7
+treason 10 9
+ships_battle 2 1
+treason 1 1
+ships_battle 4 9
+treason 4 9
+treason 1 7
+treason 10 3
+ships_battle 5 9
+treason 3 6
+ships_battle 3 2
+treason 8 8
+treason 1 1
+treason 10 7
+ships_battle 2 2
+treason 1 3
+treason 6 7
+ships_battle 8 1
+ships_battle 6 1
+treason 8 3
+ships_battle 6 7
+treason 7 7
+ships_battle 2 1
+ships_battle 5 5
+ships_battle 6 4
+treason 10 5
+ships_battle 3 5
+ships_battle 10 10
+treason 8 3
+ships_battle 10 10
+treason 4 8
+ships_battle 6 3
+ships_battle 1 7
+treason 8 2
+treason 7 5
+ships_battle 2 1
+treason 5 8
+ships_battle 5 8
+ships_battle 8 9
+ships_battle 1 7
+ships_battle 3 5
+ships_battle 6 8
+treason 3 8
+treason 9 10
+treason 1 4
+treason 6 5
+ships_battle 10 10
+ships_battle 1 3
+treason 8 9
+treason 1 8
+ships_battle 8 5
+treason 7 2
+ships_battle 7 6
+treason 4 4
+treason 1 5
+ships_battle 3 8
+treason 10 5
+ships_battle 4 9
+ships_battle 2 4
+ships_battle 9 3
+ships_battle 2 3
+treason 1 7
+treason 5 5
+treason 3 10
+treason 1 6
+ships_battle 9 4
+treason 4 5
+treason 4 6
+treason 7 3
+treason 8 4
+ships_battle 6 2
+ships_battle 4 9
+ships_battle 10 4
+treason 10 2
+treason 3 4
+ships_battle 5 9
+ships_battle 4 8
+treason 9 4
+treason 8 4
+treason 8 5
+treason 2 4
+ships_battle 7 8
+treason 7 8
+treason 8 2
+ships_battle 10 3
+ships_battle 4 2
+ships_battle 4 3
+ships_battle 5 8
+treason 5 6
+treason 7 4
+treason 5 2
+treason 2 6
+ships_battle 10 3
+treason 10 7
+treason 4 2
+ships_battle 10 6
+ships_battle 2 9
+ships_battle 8 3
+treason 9 5
+treason 9 7
+treason 6 6
+ships_battle 3 6
+treason 5 4
+ships_battle 9 3
+ships_battle 9 6
+treason 4 7
+ships_battle 4 7
+treason 2 2
+ships_battle 10 7
+ships_battle 7 8
+treason 9 7
+ships_battle 2 8
+ships_battle 9 3
+treason 8 9
+treason 10 7
+treason 5 9
+treason 1 3
+treason 2 1
+treason 3 1
+treason 9 6
+ships_battle 4 5
+treason 3 6
+ships_battle 9 3
+treason 1 9
+ships_battle 10 6
+ships_battle 2 7
+ships_battle 1 8
+ships_battle 7 3
+ships_battle 2 8
+ships_battle 3 10
+treason 8 8
+treason 1 10
+treason 4 9
+ships_battle 2 9
+ships_battle 2 9
+treason 5 2
+ships_battle 3 2
+treason 4 6
+treason 4 8
+treason 6 2
+treason 2 8
+treason 7 10
+treason 2 1
+treason 1 2
+ships_battle 3 1
+treason 3 8
+ships_battle 1 9
+treason 10 9
+treason 6 4
+treason 1 4
+ships_battle 8 9
+ships_battle 4 3
+treason 3 6
+treason 3 3
+treason 5 8
+treason 3 7
+ships_battle 4 2
+treason 4 6
+ships_battle 9 9
+ships_battle 5 3
+treason 4 2
+treason 8 5
+ships_battle 10 1
+ships_battle 8 2
+ships_battle 7 6
+treason 9 4
+treason 9 4
+treason 10 10
+ships_battle 6 1
+treason 7 2
+treason 9 9
+ships_battle 4 3
+ships_battle 5 7
+treason 1 7
+ships_battle 9 2
+ships_battle 10 6
+treason 2 10
+treason 2 6
+ships_battle 5 1
+ships_battle 2 3
+ships_battle 1 10
+ships_battle 9 8
+ships_battle 6 5
+ships_battle 8 2
+ships_battle 4 9
+treason 1 10
+treason 9 4
+ships_battle 5 8
+treason 1 9
+ships_battle 7 7
+ships_battle 10 6
+ships_battle 7 5
+treason 5 7
+ships_battle 8 4
+ships_battle 10 3
+treason 4 6
+treason 9 9
+treason 8 7
+treason 1 2
+ships_battle 4 9
+treason 9 10
+treason 5 5
+ships_battle 4 1
+ships_battle 8 7
+ships_battle 8 3
+ships_battle 1 4
+treason 1 7
+ships_battle 8 10
+treason 6 8
+treason 3 3
+ships_battle 4 4
+treason 3 5
+ships_battle 1 1
+treason 4 7
+treason 8 2
+ships_battle 9 10
+ships_battle 7 4
+ships_battle 1 1
+treason 5 1
+treason 4 4
+treason 7 10
+ships_battle 4 5
+ships_battle 8 6
+ships_battle 7 7
+treason 2 3
+treason 7 7
+ships_battle 2 3
+treason 1 1
+treason 8 9
+treason 3 1
+treason 6 2
+treason 5 7
+ships_battle 3 7
+treason 10 2
+treason 10 8
+treason 8 8
+ships_battle 1 6
+ships_battle 9 10
+treason 10 6
+treason 5 3
+ships_battle 6 2
+treason 1 6
+ships_battle 9 1
+ships_battle 3 10
+ships_battle 10 4
+ships_battle 1 8
+ships_battle 3 6
+treason 1 2
+treason 5 9
+ships_battle 9 7
+ships_battle 9 6
+ships_battle 5 7
+treason 6 3
+treason 3 7
+ships_battle 3 9
+treason 4 1
+ships_battle 1 5
+treason 1 6
+treason 6 5
+ships_battle 3 1
+ships_battle 10 8
+treason 2 4
+ships_battle 4 3
+ships_battle 10 10
+ships_battle 9 6
+ships_battle 9 7
+treason 9 6
+treason 4 1
+ships_battle 5 5
+ships_battle 4 8
+treason 8 8
+treason 4 8
+ships_battle 7 7
+treason 4 4
+ships_battle 4 4
+ships_battle 5 1
+ships_battle 6 8
+treason 3 2
+treason 1 10
+treason 7 4
+treason 8 4
+ships_battle 9 2
+treason 3 10
+treason 1 2
+treason 6 9
+treason 8 4
+treason 9 10
+treason 6 3
+ships_battle 8 6
+ships_battle 5 3
+ships_battle 6 4
+treason 3 10
+treason 2 5
+ships_battle 5 3
+ships_battle 7 8
+treason 3 4
+ships_battle 1 8
+ships_battle 6 1
+ships_battle 9 8
+ships_battle 4 9
+ships_battle 10 8
+treason 5 1
+treason 3 8
+ships_battle 1 7
+treason 4 1
+ships_battle 2 7
+ships_battle 4 6
+treason 3 10
+treason 6 5
+ships_battle 1 6
+treason 4 2
+treason 9 1
+treason 10 3
+treason 1 1
+treason 4 3
+ships_battle 8 5
+ships_battle 8 10
+treason 5 9
+ships_battle 8 7
+treason 1 4
+treason 8 6
+treason 2 1
+treason 8 3
+treason 2 6
+ships_battle 5 4
+treason 1 6
+treason 6 5
+treason 6 3
+treason 8 3
+ships_battle 10 10
+ships_battle 1 8
+ships_battle 7 4
+treason 9 7
+treason 7 5
+treason 6 3
+treason 7 8
+ships_battle 8 9
+ships_battle 7 1
+ships_battle 10 4
+treason 1 3
+treason 8 10
+treason 7 5
+treason 2 10
+treason 6 2
+treason 4 2
+treason 6 8
+treason 4 6
+ships_battle 1 2
+ships_battle 1 1
+ships_battle 4 8
+ships_battle 8 6
+ships_battle 5 5
+ships_battle 9 1
+treason 6 5
+ships_battle 6 7
+ships_battle 5 1
+treason 1 2
+treason 4 5
+ships_battle 2 10
+treason 2 8
+treason 5 1
+treason 8 6
+ships_battle 6 8
+treason 3 5
+ships_battle 6 7
+ships_battle 1 7
+treason 9 6
+treason 9 5
+treason 10 7
+treason 1 4
+ships_battle 1 3
+treason 2 2
+ships_battle 7 1
+ships_battle 7 1
+treason 9 2
+treason 7 8
+treason 10 6
+ships_battle 1 6
+treason 4 2
+treason 6 4
+ships_battle 5 1
+treason 9 9
+ships_battle 4 1
+treason 8 8
+ships_battle 5 9
+treason 6 7
+ships_battle 3 7
+treason 2 2
+treason 9 7
+ships_battle 2 1
+treason 10 6
+ships_battle 4 8
+ships_battle 7 1
+treason 5 3
+ships_battle 7 1
+treason 7 1
+ships_battle 9 3
+treason 3 10
+ships_battle 1 4
+treason 7 5
+treason 5 5
+treason 5 2
+ships_battle 2 4
+treason 3 7
+treason 8 5
+treason 8 5
+ships_battle 10 4
+treason 6 5
+treason 3 10
+ships_battle 5 4
+ships_battle 3 9
+treason 2 2
+treason 1 6
+treason 7 2
+ships_battle 1 9
+treason 8 3
+treason 5 5
+treason 8 5
+ships_battle 6 3
+ships_battle 2 2
+treason 9 8
+ships_battle 10 9
+treason 5 1
+treason 1 2
+treason 10 4
+treason 4 7
+ships_battle 4 6
+ships_battle 4 2
+treason 5 2
+treason 8 2
+ships_battle 7 4
+treason 3 1
+ships_battle 6 8
+treason 10 5
+treason 7 2
+ships_battle 7 5
+ships_battle 8 1
+ships_battle 10 5
+ships_battle 9 6
+treason 4 1
+treason 7 8
+ships_battle 3 9
+treason 2 8
+treason 3 5
+ships_battle 10 5
+ships_battle 5 7
+treason 3 2
+ships_battle 9 3
+ships_battle 4 1
+ships_battle 6 4
+ships_battle 10 1
+treason 4 3
+treason 2 5
+treason 8 9
+treason 7 8
+treason 1 8
+treason 7 8
+treason 4 6
+treason 6 8
+ships_battle 10 3
+treason 10 3
+ships_battle 10 1
+treason 5 9
+treason 5 10
+ships_battle 1 3
+treason 9 7
+ships_battle 2 7
+treason 5 2
+treason 1 8
+treason 6 9
+ships_battle 6 4
+ships_battle 8 7
+ships_battle 2 6
+ships_battle 10 5
+ships_battle 5 9
+treason 10 6
+ships_battle 7 2
+ships_battle 4 7
+ships_battle 7 6
+treason 4 2
+ships_battle 7 6
+ships_battle 10 6
+treason 3 7
+ships_battle 4 2
+treason 5 5
+ships_battle 5 3
+treason 5 8
+ships_battle 4 2
+treason 7 9
+treason 4 7
+treason 3 4
+treason 9 1
+ships_battle 4 5
+ships_battle 8 2
+treason 8 8
+ships_battle 1 7
+treason 6 1
+ships_battle 1 10
+treason 6 8
+ships_battle 7 1
+ships_battle 2 9
+treason 5 9
+ships_battle 8 8
+ships_battle 1 7
+treason 3 10
+ships_battle 2 8
+ships_battle 1 1
+ships_battle 7 10
+treason 2 4
+ships_battle 7 9
+treason 1 6
+ships_battle 8 3
+ships_battle 7 8
+treason 2 2
+treason 4 2
+ships_battle 9 8
+treason 7 2
+ships_battle 9 4
+treason 6 2
+ships_battle 6 10
+treason 2 6
+ships_battle 7 9
+ships_battle 3 5
+treason 7 2
+treason 9 1
+ships_battle 2 7
+ships_battle 3 8
+treason 6 2
+ships_battle 6 6
+treason 10 5
+ships_battle 9 10
+treason 10 5
+ships_battle 4 6
+ships_battle 2 5
+ships_battle 1 9
+ships_battle 9 2
+ships_battle 8 3
+treason 5 2
+treason 10 3
+treason 1 5
+treason 10 2
+treason 6 5
+treason 6 6
+ships_battle 9 6
+ships_battle 10 10
+ships_battle 3 4
+ships_battle 6 10
+treason 10 5
+ships_battle 9 5
+ships_battle 1 4
+ships_battle 9 6
+ships_battle 10 2
+treason 7 2
+ships_battle 2 5
+treason 9 1
+treason 8 3
+treason 4 8
+treason 4 4
+ships_battle 3 8
+ships_battle 1 6
+treason 9 3
+treason 10 5
+treason 3 4
+ships_battle 3 3
+treason 6 4
+treason 9 1
+ships_battle 4 9
+treason 8 3
+ships_battle 1 10
+treason 3 7
+treason 3 8
+treason 8 4
+treason 8 7
+ships_battle 3 1
+ships_battle 3 2
+treason 8 9
+ships_battle 9 5
+treason 10 4
+treason 5 4
+ships_battle 5 3
+treason 1 3
+ships_battle 10 3
+treason 9 3
+ships_battle 2 2
+ships_battle 4 10
+treason 9 9
+ships_battle 9 10
+treason 5 10
+treason 8 9
+ships_battle 9 5
+ships_battle 2 6
+treason 1 1
+ships_battle 5 4
+ships_battle 7 3
+ships_battle 10 1
+treason 10 10
+treason 5 5
+ships_battle 9 6
+ships_battle 7 3
+treason 7 4
+treason 6 5
+ships_battle 6 1
+ships_battle 3 9
+ships_battle 9 10
+treason 10 10
+ships_battle 6 3
+ships_battle 3 10
+ships_battle 10 7
+treason 7 2
+ships_battle 3 1
+treason 9 2
+treason 8 9
+treason 7 7
+ships_battle 6 4
+treason 10 6
+treason 2 6
+ships_battle 2 6
+ships_battle 2 7
+treason 7 10
+treason 5 6
+ships_battle 1 3
+treason 9 9
+treason 8 4
+ships_battle 10 8
+treason 8 5
+treason 7 7
+treason 3 10
+treason 8 9
+treason 7 5
+treason 10 6
+ships_battle 6 3
+ships_battle 6 3
+treason 10 9
+treason 8 6
+ships_battle 9 5
+ships_battle 5 3
+treason 1 5
+treason 5 1
+treason 3 4
+ships_battle 10 3
+ships_battle 4 8
+ships_battle 8 5
+ships_battle 7 2
+treason 3 3
+ships_battle 5 7
+treason 2 3
+add_pirate 195 33 221
+add_pirate 152 47 456
+add_pirate 154 0 576
+add_pirate 78 1 571
+add_pirate 96 53 136
+add_pirate 153 46 793
+add_pirate 138 29 495
+add_pirate 157 48 839
+add_pirate 57 -4 898
+add_pirate 27 21 769
+add_pirate 188 60 812
+add_pirate 182 48 15
+add_pirate 69 22 393
+add_pirate 143 6 620
+add_pirate 111 28 924
+add_pirate 176 3 229
+add_pirate 27 -8 833
+add_pirate 61 51 253
+add_pirate 104 20 252
+add_pirate 111 29 -75
+add_pirate 198 22 28
+add_pirate 148 46 383
+add_pirate 184 26 -24
+add_pirate 66 44 971
+add_pirate 56 10 60
+add_pirate 80 3 368
+add_pirate 21 26 969
+add_pirate 115 1 228
+add_pirate 84 38 -44
+add_pirate 165 29 620
+add_pirate 48 38 753
+add_pirate -6 7 191
+add_pirate 187 26 234
+add_pirate 14 29 7
+add_pirate 158 55 128
+add_pirate 152 35 -100
+add_pirate -2 27 885
+add_pirate 71 7 291
+add_pirate 112 26 510
+add_pirate 148 7 851
+add_pirate 153 47 122
+add_pirate 40 22 470
+add_pirate 51 -1 5
+add_pirate 147 23 -2
+add_pirate 152 35 141
+add_pirate 82 35 888
+add_pirate 102 40 24
+add_pirate 21 44 856
+add_pirate 127 52 338
+update_pirate_treasure -1 129
+get_treasure 54
+get_richest_pirate 34
+add_pirate 167 35 26
+get_cannons 16
+add_pirate 17 -19 798
+get_cannons -8
+add_ship -29 -95
+get_cannons 33
+update_pirate_treasure -27 704
+treason -9 627
+get_treasure 22
+update_pirate_treasure 29 -176
+remove_ship -9
+update_pirate_treasure 44 -196
+get_richest_pirate 4
+treason 43 450
+get_richest_pirate 20
+update_pirate_treasure 39 820
+get_treasure 32
+add_pirate 126 -7 329
+get_richest_pirate 14
+remove_pirate 11
+remove_ship 33
+get_treasure 21
+add_ship 4 130
+add_pirate -20 4 342
+add_ship -10 748
+update_pirate_treasure 37 164
+get_treasure -12
+get_treasure 39
+update_pirate_treasure 4 900
+remove_pirate -2
+treason 6 764
+ships_battle 6 942
+update_pirate_treasure 42 980
+ships_battle 42 290
+remove_ship 32
+get_cannons 32
+add_ship 33 896
+ships_battle 33 631
+remove_pirate -13
+add_pirate 78 -4 313
+remove_pirate -2
+add_pirate 13 -1 166
+get_richest_pirate -9
+remove_pirate 34
+remove_ship 55
+get_treasure -6
+get_cannons 32
+update_pirate_treasure -9 576
+add_pirate 6 -15 284
+get_treasure 1
+get_treasure 45
+ships_battle 6 341
+get_richest_pirate -4
+get_treasure 36
+add_pirate 98 0 -172
+get_cannons 23
+remove_pirate 45
+remove_pirate 46
+add_pirate 38 45 617
+get_cannons 7
+ships_battle 38 249
+get_treasure 53
+get_cannons 22
+treason -7 101
+remove_pirate -11
+remove_ship -11
+get_treasure 41
+get_treasure 51
+remove_pirate 14
+get_treasure 30
+add_pirate -19 47 761
+get_cannons 44
+treason 35 574
+remove_ship 45
+remove_pirate 19
+add_ship -36 590
+get_treasure -12
+add_ship 34 -140
+get_cannons 0
+ships_battle 34 163
+treason 31 -53
+update_pirate_treasure 29 725
+remove_ship 17
+get_treasure -19
+get_richest_pirate -4
+add_ship -28 841
+update_pirate_treasure -36 884
+get_treasure 11
+get_cannons 0
+remove_pirate 24
+get_cannons 48
+remove_pirate 19
+ships_battle -36 904
+get_cannons 12
+add_pirate 60 13 287
+ships_battle 60 904
+remove_pirate -6
+add_pirate 189 18 822
+remove_ship 9
+ships_battle 189 932
+get_richest_pirate 22
+update_pirate_treasure -37 -86
+get_richest_pirate -9
+remove_pirate 32
+get_treasure 20
+remove_pirate -11
+ships_battle -37 659
+get_cannons 48
+get_cannons 37
+ships_battle -37 480
+remove_pirate -4
+update_pirate_treasure -22 972
+get_richest_pirate -10
+treason 32 784
+get_cannons 28
+update_pirate_treasure -15 634
+add_pirate 84 47 227
+get_treasure 33
+ships_battle 84 208
+get_richest_pirate -2
+remove_pirate 47
+remove_ship 2
+remove_ship -9
+remove_ship 53
+add_pirate 147 27 124
+update_pirate_treasure -17 908
+remove_pirate -7
+add_pirate 33 35 579
+treason -39 209
+ships_battle -39 204
+get_cannons -11
+get_richest_pirate 34
+ships_battle -39 825
+add_pirate -95 18 792
+add_ship -14 136
+get_cannons 0
+treason -23 791
+get_richest_pirate 34
+ships_battle -23 139
+update_pirate_treasure -9 926
+get_cannons 25
+remove_pirate 16
+add_pirate 118 48 281
+get_cannons 20
+get_treasure -9
+add_ship -25 945
+get_richest_pirate 3
+update_pirate_treasure -34 946
+treason 47 -9
+add_pirate 147 -8 917
+remove_ship 9
+get_cannons 4
+update_pirate_treasure -39 183
+add_pirate 187 -9 -74
+add_pirate 122 43 925
+get_cannons 21
+remove_pirate 51
+treason 46 66
+treason -3 761
+remove_pirate 47
+get_richest_pirate 0
+get_cannons -11
+treason -36 879
+remove_pirate -1
+get_richest_pirate -17
+get_cannons 36
+remove_ship -15
+get_treasure 52
+update_pirate_treasure -34 987
+remove_pirate -16
+treason 49 901
+get_treasure 46
+get_cannons -20
+ships_battle 49 650
+remove_ship -5
+ships_battle 49 812
+add_pirate 198 0 736
+treason -32 333
+get_treasure -2
+add_ship 26 541
+add_pirate -39 21 202
+update_pirate_treasure 4 690
+remove_ship 3
+treason 50 836
+add_ship 8 600
+treason 35 -165
+remove_ship 41
+get_richest_pirate -16
+get_richest_pirate 50
+add_ship 38 46
+add_ship 33 836
+treason -11 -58
+remove_ship 43
+get_richest_pirate 50
+treason -20 509
+get_cannons 36
+add_ship 45 238
+add_pirate -63 -20 -45
+add_ship 48 873
+get_cannons -19
+add_ship 43 590
+get_cannons 6
+ships_battle 43 566
+ships_battle 43 508
+ships_battle 43 133
+get_cannons 11
+ships_battle 43 140
+remove_pirate 37
+remove_pirate 50
+ships_battle 43 509
+remove_ship -14
+ships_battle 43 866
+update_pirate_treasure 19 366
+update_pirate_treasure -31 -174
+get_cannons -11
+ships_battle -31 233
+ships_battle -31 428
+get_treasure -2
+remove_ship -16
+update_pirate_treasure -36 -145
+remove_ship -9
+update_pirate_treasure -24 -192
+remove_pirate 13
+get_treasure 8
+remove_ship 18
+add_ship 15 924
+remove_pirate -18
+add_ship 22 -57
+add_pirate 190 30 441
+treason 46 142
+treason -22 -47
+add_pirate 34 43 -68
+remove_pirate 3
+remove_ship 23
+get_richest_pirate -20
+remove_pirate -14
+update_pirate_treasure 5 556
+add_pirate -33 4 136
+update_pirate_treasure -26 -65
+treason -31 257
+update_pirate_treasure 35 505
+update_pirate_treasure 3 495
+get_cannons 9
+update_pirate_treasure -19 933
+remove_pirate 3
+add_pirate 135 38 476
+ships_battle 135 -6
+add_ship 37 907
+update_pirate_treasure 21 841
+remove_ship 21
+get_richest_pirate 49
+add_pirate 135 -17 929
+update_pirate_treasure -23 758
+get_cannons 39
+add_ship -26 -115
+get_richest_pirate -12
+ships_battle -26 496
+remove_ship 42
+remove_ship -19
+ships_battle -26 701
+remove_pirate 30
+treason -23 -79
+get_richest_pirate -2
+remove_ship 49
+get_cannons 52
+treason 30 508
+ships_battle 30 50
+add_ship -9 293
+remove_pirate 43
+add_ship -28 332
+get_richest_pirate 43
+add_pirate 77 19 882
+get_treasure -6
+get_richest_pirate 31
+add_pirate 115 26 -187
+update_pirate_treasure 18 275
+add_ship 47 225
+remove_pirate 22
+ships_battle 47 985
+remove_pirate 14
+update_pirate_treasure 28 13
+add_pirate 150 27 899
+treason 23 522
+add_ship -38 162
+add_pirate 23 48 728
+treason 18 327
+add_pirate -23 48 513
+ships_battle -23 436
+get_treasure 13
+add_ship 33 635
+remove_pirate -16
+ships_battle 33 137
+add_ship -40 214
+remove_ship -19
+update_pirate_treasure 34 -106
+get_treasure -10
+get_cannons -14
+update_pirate_treasure -21 315
+add_ship -39 485
+treason -12 184
+remove_pirate 36
+get_cannons 1
+get_treasure 38
+ships_battle -12 817
+get_cannons 40
+add_pirate 0 8 -165
+remove_pirate 14
+get_richest_pirate 9
+ships_battle 0 727
+remove_ship 47
+remove_pirate -1
+treason -15 419
+remove_pirate 42
+get_treasure 27
+update_pirate_treasure 31 283
+remove_ship 47
+get_cannons -14
+get_richest_pirate 41
+remove_ship 15
+get_treasure 42
+ships_battle 31 525
+add_pirate -63 13 17
+update_pirate_treasure 10 735
+get_richest_pirate 19
+remove_pirate -5
+remove_pirate 3
+get_richest_pirate 24
+remove_pirate 37
+treason -33 415
+add_pirate 190 -8 29
+update_pirate_treasure -17 161
+add_ship 47 -55
+update_pirate_treasure -18 169
+get_cannons 2
+remove_ship -2
+get_treasure -9
+remove_pirate 0
+update_pirate_treasure 33 104
+get_treasure 23
+treason -23 197
+add_pirate -22 36 578
+remove_ship 44
+get_cannons 42
+get_cannons 7
+remove_pirate 39
+update_pirate_treasure -14 82
+add_ship 16 -38
+get_treasure -11
+remove_ship -8
+treason 16 952
+add_pirate 131 39 686
+add_pirate 72 9 634
+remove_pirate 13
+update_pirate_treasure -33 207
+add_ship -39 359
+add_pirate -20 -20 767
+remove_ship 25
+ships_battle -20 566
+get_richest_pirate 7
+add_ship -10 904
+remove_pirate 44
+get_cannons -14
+get_cannons -13
+remove_ship 30
+add_pirate 180 1 784
+update_pirate_treasure -17 -193
+ships_battle -17 257
+get_treasure -18
+get_treasure -15
+ships_battle -17 486
+ships_battle -17 273
+add_pirate -11 1 34
+get_treasure 2
+remove_ship -4
+add_pirate -75 12 61
+get_treasure 38
+get_richest_pirate -8
+get_cannons 41
+treason -17 811
+remove_pirate 43
+get_treasure 23
+add_pirate 98 11 8
+ships_battle 98 642
+get_cannons 31
+add_pirate 3 9 572
+update_pirate_treasure -30 201
+get_treasure 27
+add_ship 15 -51
+add_ship -34 173
+get_treasure 26
+add_pirate -13 21 388
+get_treasure 0
+get_cannons -2
+treason 1 757
+treason 7 488
+treason 39 654
+get_richest_pirate 12
+treason 38 151
+remove_pirate 42
+get_cannons -15
+ships_battle 38 60
+get_richest_pirate 18
+ships_battle 38 902
+add_ship 5 270
+get_cannons 52
+remove_ship 22
+ships_battle 5 79
+add_ship 20 788
+get_treasure 43
+ships_battle 20 937
+get_richest_pirate 52
+add_ship -39 30
+get_richest_pirate 29
+get_cannons 22
+get_richest_pirate 0
+add_pirate 51 46 984
+ships_battle 51 541
+add_pirate 27 -14 -164
+get_cannons -2
+get_richest_pirate 14
+get_cannons 2
+remove_pirate 17
+get_cannons 17
+add_pirate 82 35 948
+add_pirate -30 20 700
+update_pirate_treasure 16 75
+add_ship 25 0
+add_pirate 31 39 149
+add_ship 42 205
+get_treasure -19
+treason 17 961
+ships_battle 17 414
+get_richest_pirate 7
+get_richest_pirate 34
+get_cannons -20
+remove_pirate -17
+ships_battle 17 883
+remove_ship -1
+remove_pirate -1
+get_cannons 37
+remove_ship -4
+treason 32 154
+get_cannons -19
+add_ship 3 644
+treason 15 306
+ships_battle 15 685
+update_pirate_treasure -7 945
+treason -27 790
+get_cannons -1
+add_pirate -30 21 -67
+update_pirate_treasure -25 -28
+get_richest_pirate 9
+get_treasure 36
+add_ship 36 745
+get_cannons 44
+get_treasure 1
+treason 47 950
+treason 8 418
+add_pirate -89 -11 766
+add_pirate -14 9 813
+update_pirate_treasure 28 470
+ships_battle 28 29
+add_pirate 114 0 706
+get_cannons 2
+add_ship 3 704
+add_ship -37 272
+add_pirate 7 32 600
+add_pirate 69 49 774
+get_cannons 30
+update_pirate_treasure -29 -58
+get_treasure 34
+ships_battle -29 220
+get_cannons -19
+add_ship -34 872
+add_ship 27 729
+get_richest_pirate -11
+add_pirate 45 -16 841
+get_treasure 9
+get_treasure -2
+remove_pirate 38
+remove_ship 24
+update_pirate_treasure -8 275
+remove_pirate 31
+ships_battle -8 335
+get_richest_pirate 20
+get_richest_pirate 48
+remove_ship 34
+ships_battle -8 3
+remove_ship 28
+remove_pirate -10
+add_pirate -94 30 -151
+ships_battle -94 525
+get_cannons 15
+treason 37 896
+ships_battle 37 488
+add_ship 24 8
+add_ship 1 77
+update_pirate_treasure 27 35
+update_pirate_treasure 8 780
+get_richest_pirate 1
+remove_pirate 19
+add_pirate 110 -19 928
+add_ship 28 464
+ships_battle 28 286
+remove_ship -18
+get_richest_pirate 33
+treason -22 -27
+get_cannons 24
+ships_battle -22 399
+update_pirate_treasure 24 -8
+treason -32 -2
+add_pirate 116 -13 -150
+ships_battle 116 -6
+get_richest_pirate 49
+treason 7 732
+treason 31 377
+get_richest_pirate 22
+get_richest_pirate -7
+get_treasure 49
+ships_battle 31 109
+get_treasure 11
+update_pirate_treasure 18 528
+add_ship 26 -60
+add_pirate 45 2 351
+get_cannons 14
+treason -8 539
+treason 2 703
+treason 3 795
+get_treasure 50
+remove_ship 37
+remove_pirate 1
+update_pirate_treasure 6 339
+update_pirate_treasure -26 113
+get_cannons 53
+get_cannons 35
+update_pirate_treasure 38 770
+get_cannons 11
+add_ship 41 222
+remove_ship 52
+get_cannons 42
+get_cannons 41
+ships_battle 41 53
+remove_pirate -16
+ships_battle 41 669
+get_treasure -7
+get_cannons 14
+get_cannons 45
+update_pirate_treasure -14 763
+add_ship 10 201
+treason 50 999
+add_pirate -8 31 -113
+get_richest_pirate 35
+remove_ship 49
+get_richest_pirate -12
+add_ship -30 193
+remove_ship 55
+remove_pirate 47
+treason 42 175
+get_richest_pirate 12
+remove_ship -8
+remove_ship -20
+remove_ship 26
+add_pirate -98 30 738
+add_ship 2 -49
+remove_ship 43
+get_cannons 16
+add_pirate -80 45 103
+remove_pirate 0
+treason 31 320
+update_pirate_treasure 23 90
+remove_ship -10
+ships_battle 23 2
+remove_ship 27
+update_pirate_treasure 16 246
+remove_pirate 19
+get_cannons -15
+get_treasure -5
+get_richest_pirate -15
+remove_pirate 25
+add_pirate 2 25 -96
+get_richest_pirate 42
+get_cannons -6
+ships_battle 2 99
+get_treasure 25
+get_richest_pirate 44
+get_treasure -9
+get_treasure 20
+add_pirate 132 13 819
+get_cannons 34
+get_treasure 26
+remove_ship -7
+get_richest_pirate 42
+add_ship -14 -54
+remove_pirate -9
+add_ship 14 732
+get_richest_pirate 27
+treason -1 263
+remove_ship 41
+remove_ship 51
+get_treasure 40
+treason -7 745
+get_treasure -2
+remove_pirate 26
+add_ship -11 4
+remove_ship -5
+get_cannons -8
+treason -25 183
+add_pirate 107 21 -128
+treason -19 796
+get_cannons 43
+ships_battle -19 286
+add_pirate 179 -5 689
+treason -1 243
+treason 31 448
+remove_ship 55
+update_pirate_treasure -1 518
+ships_battle -1 60
+ships_battle -1 216
+remove_ship 22
+get_richest_pirate 50
+add_pirate 91 1 648
+get_cannons 47
+get_richest_pirate -10
+add_ship 16 -155
+update_pirate_treasure 1 403
+remove_ship -8
+get_richest_pirate 9
+remove_ship 30
+update_pirate_treasure 6 466
+add_pirate 12 -15 341
+remove_pirate 19
+remove_ship 21
+update_pirate_treasure -38 675
+remove_pirate 19
+remove_ship -2
+remove_pirate 31
+treason 4 0
+get_treasure 47
+treason -29 822
+remove_ship 46
+update_pirate_treasure 5 607
+add_ship 50 650
+get_cannons -4
+get_richest_pirate 53
+update_pirate_treasure -35 206
+remove_ship 26
+add_pirate 82 -6 206
+add_ship 37 610
+get_richest_pirate 16
+get_cannons 30
+get_cannons 24
+treason 27 898
+get_richest_pirate 49
+ships_battle 27 521
+add_pirate 30 11 97
+treason 31 -99
+treason 12 771
+add_ship -25 535
+get_treasure 44
+treason -24 -31
+add_pirate 172 36 969
+get_cannons -7
+add_pirate -2 -6 240
+add_ship -36 245
+update_pirate_treasure 23 555
+update_pirate_treasure -22 140
+get_richest_pirate 17
+update_pirate_treasure 48 466
+get_cannons 36
+treason 21 -197
+remove_ship 32
+get_treasure 51
+add_pirate -39 7 827
+remove_pirate 3
+get_treasure 50
+ships_battle -39 818
+get_cannons -20
+add_pirate -7 20 384
+remove_pirate 23
+get_richest_pirate 21
+add_pirate 121 1 238
+treason 9 2
+get_treasure -10
+remove_ship -18
+add_ship -6 -46
+add_pirate 67 53 421
+get_treasure 49
+ships_battle 67 46
+get_treasure 24
+add_pirate -26 16 69
+add_ship -13 -71
+get_cannons 30
+get_richest_pirate 25
+update_pirate_treasure 39 -94
+remove_pirate 13
+get_cannons -3
+remove_pirate -12
+remove_ship -8
+remove_ship 32
+add_pirate 111 37 846
+remove_pirate 54
+add_ship -39 433
+get_treasure 6
+get_treasure 36
+get_treasure -12
+get_treasure -6
+add_pirate 152 55 847
+get_cannons 35
+add_pirate 50 2 669
+get_treasure 27
+get_richest_pirate 39
+add_ship 18 522
+get_richest_pirate 18
+remove_ship 21
+remove_pirate 7
+get_cannons 46
+treason -30 -197
+remove_ship 31
+ships_battle -30 154
+update_pirate_treasure -17 258
+remove_pirate 26
+get_cannons 52
+remove_ship 0
+treason 22 -75
+remove_ship 46
+remove_ship 10
+update_pirate_treasure -16 797
+treason -36 -108
+remove_ship 35
+get_richest_pirate -1
+add_pirate 120 34 -122
+get_treasure 42
+add_ship -33 -80
+add_ship 12 678
+add_ship 20 948
+update_pirate_treasure 6 326
+get_cannons 4
+ships_battle 6 343
+add_ship -31 863
+add_ship 34 -42
+remove_ship 21
+add_pirate 164 25 507
+update_pirate_treasure 39 58
+get_richest_pirate -9
+remove_ship 38
+get_richest_pirate 11
+get_cannons 12
+get_richest_pirate -10
+ships_battle 39 475
+update_pirate_treasure 1 514
+get_cannons 32
+remove_ship 25
+add_pirate 61 1 722
+update_pirate_treasure 4 874
+add_pirate 175 -11 940
+remove_pirate 19
+get_cannons 29
+get_cannons 35
+get_treasure 54
+get_cannons 15
+get_treasure 38
+add_pirate 109 11 491
+ships_battle 109 735
+ships_battle 109 311
+add_pirate 179 31 896
+remove_ship -17
+ships_battle 179 662
+add_pirate 18 -7 -134
+add_pirate -71 32 482
+get_treasure -20
+remove_pirate 9
+remove_pirate 23
+get_cannons 35
+remove_pirate 16
+get_cannons 6
+add_ship -21 128
+get_richest_pirate 11
+get_cannons 40
+get_richest_pirate 29
+add_pirate 84 24 597
+get_treasure -4
+add_pirate 117 1 908
+add_pirate 174 20 84
+add_pirate 2 20 526
+update_pirate_treasure 33 845
+ships_battle 33 730
+treason -27 28
+add_pirate 145 47 894
+add_pirate 73 9 951
+update_pirate_treasure 20 585
+get_cannons -20
+remove_pirate 28
+remove_ship -6
+update_pirate_treasure 16 949
+get_cannons 2
+treason 26 519
+treason 1 70
+remove_pirate -8
+add_ship -30 560
+add_ship 46 671
+get_richest_pirate 6
+ships_battle 46 750
+update_pirate_treasure 50 -33
+treason 20 -84
+get_treasure 55
+add_pirate -44 22 626
+get_richest_pirate 7
+update_pirate_treasure 38 -9
+get_richest_pirate 36
+get_treasure 51
+get_cannons 17
+ships_battle 38 208
+treason -12 131
+treason 30 17
+get_treasure -2
+update_pirate_treasure -3 -74
+add_pirate 169 16 4
+remove_pirate -10
+treason 47 764
+add_ship 50 349
+remove_pirate 44
+get_richest_pirate -18
+get_treasure -16
+add_ship -7 572
+add_pirate -64 53 -28
+get_cannons 25
+get_cannons -10
+remove_ship -8
+get_cannons 47
+get_treasure -16
+get_treasure -14
+remove_ship -19
+add_ship -24 476
+ships_battle -24 605
+get_richest_pirate 0
+get_treasure 26
+remove_pirate 42
+get_richest_pirate -6
+add_pirate -82 15 709
+remove_ship 0
+get_richest_pirate 3
+ships_battle -82 469
+add_ship -8 9
+remove_ship -6
+add_pirate 144 39 339
+ships_battle 144 189
+update_pirate_treasure -5 811
+treason -22 412
+treason -23 462
+ships_battle -23 86
+add_pirate 165 -4 937
+add_pirate -38 39 118
+add_ship -35 234
+remove_ship 9
+get_treasure 46
+get_cannons -13
+remove_ship -7
+ships_battle -35 423
+add_ship -21 904
+add_ship 3 987
+get_cannons 33
+add_ship -24 538
+remove_pirate -10
+update_pirate_treasure -22 877
+treason 13 154
+treason 34 926
+get_cannons 10
+ships_battle 34 339
+get_richest_pirate 26
+update_pirate_treasure -34 247
+update_pirate_treasure -13 -98
+remove_pirate 9
+ships_battle -13 691
+add_pirate 79 -12 -161
+treason -12 513
+add_pirate -73 -16 -10
+remove_ship 7
+treason -27 744
+ships_battle -27 499
+remove_pirate 44
+get_richest_pirate 51
+remove_pirate 39
+remove_pirate 32
+add_pirate 158 -2 794
+ships_battle 158 628
+ships_battle 158 470
+update_pirate_treasure 22 858
+get_richest_pirate -12
+ships_battle 22 223
+get_richest_pirate -5
+treason 45 585
+get_richest_pirate 44
+add_pirate 98 -15 546
+update_pirate_treasure 31 448
+treason -18 245
+remove_pirate -4
+add_ship 12 86
+get_cannons 31
+get_richest_pirate -12
+update_pirate_treasure 46 281
+get_treasure 54
+get_treasure 13
+get_richest_pirate 16
+remove_pirate 7
+get_cannons 55
+get_richest_pirate -20
+add_pirate -43 5 886
+add_ship 27 745
+add_ship 32 591
+ships_battle 32 308
+ships_battle 32 625
+get_treasure 19
+treason 7 902
+get_richest_pirate -20
+remove_ship -9
+get_richest_pirate 19
+remove_pirate 42
+add_pirate 83 46 83
+remove_ship 34
+update_pirate_treasure -26 116
+remove_ship -20
+treason -25 450
+add_pirate 191 2 683
+remove_ship -3
+ships_battle 191 103
+remove_ship -18
+treason 23 354
+remove_ship 53
+add_pirate 86 39 820
+remove_ship 11
+get_richest_pirate 10
+add_pirate 17 34 169
+remove_pirate 0
+update_pirate_treasure 11 188
+remove_ship 39
+ships_battle 11 28
+remove_ship 7
+update_pirate_treasure -39 132
+add_ship 28 202
+get_cannons 53
+get_richest_pirate -17
+ships_battle 28 156
+remove_pirate 2
+get_richest_pirate 32
+treason 46 -145
+remove_pirate 24
+get_cannons 36
+add_ship 18 170
+ships_battle 18 879
+update_pirate_treasure -2 -16
+add_pirate -30 -11 717
+add_pirate 40 28 -69
+update_pirate_treasure 8 650
+get_treasure 39
+get_richest_pirate 43
+ships_battle 8 597
+get_cannons -13
+treason 21 145
+get_treasure 42
+get_richest_pirate -16
+add_ship -12 442
+add_pirate -79 22 -183
+remove_ship 39
+update_pirate_treasure 12 108
+remove_pirate 22
+add_pirate -8 17 546
+get_richest_pirate -14
+update_pirate_treasure -1 -44
+ships_battle -1 833
+get_treasure 33
+update_pirate_treasure -20 318
+add_ship 26 779
+remove_ship 47
+ships_battle 26 512
+update_pirate_treasure -23 78
+update_pirate_treasure 6 113
+get_cannons -10
+get_richest_pirate 49
+add_pirate 87 8 160
+remove_pirate 32
+remove_pirate 5
+get_cannons 22
+get_cannons -15
+remove_pirate 28
+remove_pirate 30
+remove_pirate 42
+remove_pirate 11
+remove_pirate 5
+add_pirate -56 38 435
+treason 10 693
+remove_ship 17
+treason 21 239
+get_cannons -5
+add_ship -18 122
+remove_pirate 29
+remove_ship 20
+add_pirate -63 47 206
+ships_battle -63 842
+add_pirate -10 19 121
+ships_battle -10 93
+get_cannons 27
+get_treasure -18
+ships_battle -10 705
+remove_pirate 5
+get_treasure 20
+get_treasure -5
+treason -32 324
+get_richest_pirate 38
+remove_pirate 46
+remove_ship -15
+remove_ship 14
+update_pirate_treasure 49 220
+update_pirate_treasure -4 572
+get_cannons -2
+remove_pirate 20
+remove_pirate 30
+treason 26 558
+get_treasure -16
+ships_battle 26 407
+add_pirate -40 2 391
+update_pirate_treasure -40 956
+ships_battle -40 615
+add_pirate 78 22 398
+update_pirate_treasure -40 -54
+get_richest_pirate -7
+remove_ship 19
+remove_pirate -2
+add_ship -16 697
+get_richest_pirate 30
+add_ship 44 314
+add_pirate -73 48 -183
+ships_battle -73 833
+get_richest_pirate 31
+treason 44 585
+ships_battle 44 329
+treason 22 588
+ships_battle 22 350
+get_treasure 54
+get_cannons 44
+update_pirate_treasure 42 405
+remove_pirate 47
+update_pirate_treasure -25 45
+get_cannons 36
+update_pirate_treasure 36 -86
+get_treasure -1
+ships_battle 36 79
+add_ship -4 729
+update_pirate_treasure 28 15
+add_ship 50 -105
+ships_battle 50 144
+get_richest_pirate 8
+get_treasure -9
+get_cannons 9
+remove_pirate -9
+get_treasure 27
+add_pirate 200 -18 759
+add_pirate 169 -9 -135
+update_pirate_treasure 27 387
+remove_pirate -4
+remove_pirate 22
+remove_pirate 37
+remove_ship -16
+get_treasure 7
+ships_battle 27 521
+get_treasure 10
+add_ship -32 462
+get_richest_pirate 2
+update_pirate_treasure 37 822
+get_richest_pirate 22
+get_cannons 27
+get_treasure 34
+add_pirate -8 -13 661
+remove_pirate 21
+remove_pirate 16
+treason -38 584
+add_ship 26 910
+update_pirate_treasure -12 -39
+add_ship 2 576
+remove_pirate 5
+ships_battle 2 416
+remove_ship -19
+get_cannons -15
+ships_battle 2 608
+get_cannons -11
+get_cannons 28
+remove_pirate 21
+update_pirate_treasure 20 985
+add_ship 33 -139
+remove_pirate 50
+add_ship 40 83
+treason -1 184
+get_treasure -19
+remove_ship -9
+remove_ship 23
+remove_ship 7
+add_ship -38 481
+add_pirate -93 10 195
+treason 13 494
+treason 38 -88
+get_richest_pirate 36
+add_pirate -71 13 910
+treason -40 464
+treason -38 -186
+ships_battle -38 619
+add_ship -1 565
+get_richest_pirate 43
+remove_ship 32
+treason 30 597
+add_pirate -29 49 235
+add_pirate 2 -13 175
+update_pirate_treasure 6 275
+get_treasure -7
+remove_ship 37
+get_cannons -13
+remove_ship 17
+ships_battle 6 513
+add_ship 44 668
+add_ship 25 -38
+get_richest_pirate 0
+remove_ship -2
+update_pirate_treasure 9 -36
+update_pirate_treasure 24 137
+remove_ship 26
+add_ship 1 -185
+treason 44 718
+add_pirate 38 -11 711
+update_pirate_treasure 10 222
+add_ship -29 474
+add_ship 29 750
+get_treasure -2
+ships_battle 29 388
+remove_pirate -2
+add_pirate 75 -11 831
+ships_battle 75 105
+remove_ship 9
+ships_battle 75 29
+update_pirate_treasure -35 826
+remove_pirate 41
+remove_pirate 13
+update_pirate_treasure 48 625
+remove_ship 27
+ships_battle 48 517
+get_treasure 31
+remove_ship 6
+add_ship -15 232
+add_pirate -2 43 967
+remove_pirate -14
+get_treasure 21
+add_ship 11 938
+get_richest_pirate 52
+remove_ship 51
+remove_pirate 20
+remove_ship 35
+remove_pirate -8
+ships_battle 11 918
+ships_battle 11 326
+add_ship 15 661
+get_richest_pirate 37
+get_treasure 28
+treason -2 997
+remove_ship 20
+add_ship 10 572
+add_ship 13 172
+remove_pirate 38
+add_pirate 129 18 173
+remove_ship 53
+get_treasure 24
+update_pirate_treasure 22 832
+ships_battle 22 790
+get_cannons 44
+remove_pirate 5
+add_ship 37 608
+remove_ship 9
+remove_pirate -2
+remove_ship -1
+get_cannons 29
+treason -26 568
+add_pirate -23 17 355
+add_pirate 96 -20 -142
+treason 50 838
+get_cannons 42
+get_richest_pirate 27
+update_pirate_treasure 37 714
+ships_battle 37 2
+remove_ship 38
+ships_battle 37 811
+add_ship -12 853
+add_ship 25 306
+treason -30 759
+get_treasure 42
+get_cannons 15
+add_pirate 200 -14 -117
+add_ship -11 265
+ships_battle -11 184
+add_ship -13 841
+remove_pirate 3
+treason 6 -110
+get_treasure -9
+get_cannons 24
+update_pirate_treasure -37 824
+remove_ship 37
+remove_pirate -6
+get_cannons -2
+remove_ship 37
+ships_battle -37 808
+add_ship 31 77
+get_treasure 24
+remove_pirate 55
+ships_battle 31 598
+get_treasure 30
+remove_ship 51
+treason -3 911
+get_treasure 47
+remove_ship 49
+remove_ship 10
+treason 37 844
+remove_ship 14
+update_pirate_treasure -30 118
+remove_pirate 33
+ships_battle -30 784
+remove_ship 42
+add_pirate -74 54 818
+ships_battle -74 805
+ships_battle -74 966
+remove_pirate -14
+add_pirate 31 -16 33
+ships_battle 31 210
+get_richest_pirate 48
+get_richest_pirate 54
+treason -40 945
+get_richest_pirate -7
+get_treasure 34
+get_cannons 45
+remove_ship 53
+add_pirate 124 13 264
+get_cannons -15
+get_cannons 18
+remove_ship 31
+remove_ship 0
+add_pirate -54 32 413
+add_ship -6 953
+get_cannons 48
+remove_ship 34
+treason 3 940
+ships_battle 3 472
+add_pirate -53 -2 271
+ships_battle -53 213
+get_treasure -4
+get_cannons -10
+treason -38 -20
+update_pirate_treasure 25 -162
+get_richest_pirate 47
+remove_ship 21
+add_ship 38 148
+get_cannons 46
+get_treasure 16
+update_pirate_treasure -37 221
+get_cannons 19
+remove_ship -1
+get_treasure 49
+remove_ship 49
+remove_ship 19
+remove_pirate -17
+remove_pirate 42
+add_ship -6 566
+get_cannons 36
+add_pirate 32 12 114
+ships_battle 32 22
+update_pirate_treasure 28 187
+update_pirate_treasure 1 488
+treason 0 626
+get_treasure -12
+treason 27 619
+treason 25 983
+remove_ship 18
+treason -40 23
+remove_ship -2
+remove_pirate 2
+add_pirate -48 28 190
+treason 19 -113
+remove_ship -20
+remove_ship -16
+ships_battle 19 289
+treason -10 57
+update_pirate_treasure 19 -124
+ships_battle 19 986
+ships_battle 19 845
+get_treasure -2
+add_ship 42 754
+ships_battle 42 659
+add_ship 45 -67
+add_pirate 121 25 106
+add_pirate -69 10 278
+ships_battle -69 353
+treason 29 20
+add_pirate 54 17 564
+add_ship -16 65
+update_pirate_treasure 41 298
+get_cannons 9
+remove_pirate 12
+remove_pirate 33
+get_cannons 3
+get_cannons 26
+update_pirate_treasure 10 632
+get_cannons 25
+add_pirate -51 25 965
+remove_pirate -19
+ships_battle -51 667
+get_treasure 1
+get_cannons 34
+get_treasure 7
+update_pirate_treasure 5 718
+treason 39 -37
+add_pirate 0 -6 -191
+update_pirate_treasure -5 356
+get_treasure 38
+update_pirate_treasure -12 490
+treason 21 668
+add_pirate 160 -4 975
+get_cannons -20
+update_pirate_treasure -25 -1
+treason -7 315
+add_ship 12 902
+get_richest_pirate 13
+get_cannons 51
+update_pirate_treasure 19 -55
+remove_pirate 16
+add_ship 12 970
+add_ship 46 12
+remove_pirate 10
+ships_battle 46 993
+get_richest_pirate 14
+get_cannons -17
+remove_pirate 49
+ships_battle 46 993
+add_ship 30 161
+treason 45 919
+get_treasure 29
+treason -27 580
+get_treasure 24
+ships_battle -27 141
+remove_ship 0
+update_pirate_treasure 26 803
+remove_ship 24
+ships_battle 26 895
+treason 31 481
+add_pirate -80 34 126
+remove_ship 8
+get_richest_pirate -12
+get_cannons 11
+remove_pirate 29
+get_richest_pirate 49
+add_ship -4 954
+add_ship -3 -47
+ships_battle -3 474
+get_richest_pirate 27
+update_pirate_treasure 42 282
+treason -36 101
+get_richest_pirate -1
+treason 35 552
+treason -17 595
+get_richest_pirate 32
+get_cannons 30
+get_treasure 30
+get_richest_pirate 26
+remove_ship -9
+remove_ship -17
+get_richest_pirate 36
+remove_pirate 19
+add_pirate -26 17 461
+update_pirate_treasure -30 204
+ships_battle -30 -8
+remove_pirate 49
+get_richest_pirate -15
+add_ship 33 -129
+add_ship -3 555
+add_ship -14 81
+treason 50 530
+add_ship 22 489
+add_ship -29 80
+remove_pirate 52
+get_cannons -16
+remove_pirate 38
+update_pirate_treasure 2 770
+remove_ship -1
+add_ship 44 661
+remove_ship -3
+treason 24 82
+add_pirate -29 31 519
+update_pirate_treasure 2 552
+add_ship 39 707
+get_treasure 3
+add_pirate 89 31 223
+ships_battle 89 165
+add_pirate -14 35 411
+remove_ship 55
+remove_pirate 29
+get_richest_pirate 50
+update_pirate_treasure -12 -3
+remove_ship 36
+add_ship 49 509
+update_pirate_treasure 25 655
+remove_ship 2
+remove_ship 11
+get_richest_pirate 51
+get_richest_pirate 51
+get_richest_pirate -11
+get_cannons -11
+add_ship -36 980
+get_richest_pirate 20
+add_ship 37 941
+treason 14 36
+ships_battle 14 567
+add_pirate 17 -15 -189
+add_ship 44 813
+add_pirate 184 50 774
+ships_battle 184 71
+get_treasure 51
+get_cannons 41
+get_richest_pirate 4
+add_ship 14 957
+remove_ship 26
+get_treasure 19
+treason 8 762
+get_cannons -4
+update_pirate_treasure 40 444
+get_treasure 14
+remove_ship 17
+add_pirate -54 6 517
+treason -21 961
+get_cannons 14
+ships_battle -21 909
+add_pirate -99 50 -155
+add_ship -17 -77
+add_pirate 108 54 878
+ships_battle 108 42
+update_pirate_treasure -16 555
+get_cannons 9
+get_richest_pirate 1
+add_ship -17 538
+remove_ship 7
+add_ship -2 -171
+get_treasure 17
+update_pirate_treasure 11 168
+remove_pirate -9
+remove_ship 11
+get_cannons 46
+treason -5 625
+update_pirate_treasure -38 403
+treason -15 -90
+treason -16 954
+get_cannons 50
+get_cannons -11
+add_pirate -17 26 389
+add_ship -10 306
+get_treasure -13
+remove_ship 18
+get_treasure 52
+remove_pirate -4
+get_richest_pirate 40
+remove_pirate 31
+treason -40 940
+update_pirate_treasure 47 474
+update_pirate_treasure 39 716
+add_pirate -49 16 124
+add_pirate 76 12 594
+get_richest_pirate 14
+get_treasure 27
+get_cannons 41
+get_treasure 23
+add_ship -34 322
+get_cannons -16
+treason 31 510
+remove_ship 52
+get_cannons 12
+get_richest_pirate 19
+add_ship -37 557
+remove_pirate 18
+add_ship 28 906
+ships_battle 28 311
+get_treasure -3
+get_cannons 11
+add_ship 9 603
+remove_pirate 42
+add_ship -37 434
+get_cannons 53
+add_pirate 162 20 516
+update_pirate_treasure -35 75
+treason 43 818
+get_richest_pirate -16
+add_ship -19 787
+remove_pirate 15
+remove_ship 9
+add_ship -31 275
+treason -33 896
+get_cannons 41
+get_richest_pirate -12
+remove_pirate 31
+update_pirate_treasure -38 616
+add_ship -2 389
+add_ship 32 533
+update_pirate_treasure -27 914
+add_pirate -98 41 436
+ships_battle -98 659
+remove_ship -4
+get_cannons 1
+update_pirate_treasure 35 -134
+add_ship 32 177
+remove_ship -8
+remove_ship 34
+ships_battle 32 135
+get_treasure 47
+add_pirate -22 -8 783
+add_ship 11 54
+remove_ship 16
+get_treasure 29
+remove_ship 54
+get_cannons 1
+ships_battle 11 367
+treason -9 -28
+remove_pirate 20
+get_treasure 17
+treason -25 147
+add_pirate 8 39 886
+update_pirate_treasure 6 -105
+get_cannons 28
+get_cannons -6
+remove_ship 31
+add_pirate 138 -6 451
+remove_ship 45
+remove_ship 2
+get_cannons -19
+remove_pirate -17
+ships_battle 138 339
+get_treasure 41
+get_cannons 0
+update_pirate_treasure -29 270
+remove_ship 18
+update_pirate_treasure -24 46
+remove_pirate 7
+get_richest_pirate 50
+add_pirate 55 5 790
+get_cannons 13
+ships_battle 55 711
+get_treasure 47
+ships_battle 55 744
+get_richest_pirate -15
+get_cannons -8
+add_ship 47 -11
+get_richest_pirate -12
+remove_ship 18
+remove_ship 37
+get_treasure 19
+ships_battle 47 561
+get_treasure 26
+get_cannons 26
+remove_ship -6
+update_pirate_treasure 23 -166
+treason 27 763
+get_treasure 11
+get_treasure 4
+ships_battle 27 588
+remove_pirate 14
+get_treasure 55
+treason -21 442
+treason 16 652
+get_treasure 42
+remove_ship 46
+ships_battle 16 578
+remove_ship 29
+update_pirate_treasure -21 -10
+update_pirate_treasure -37 697
+add_ship 28 -175
+add_pirate 161 18 686
+get_richest_pirate -13
+get_cannons -17
+get_treasure 27
+add_ship 29 -134
+remove_ship 18
+get_richest_pirate 18
+ships_battle 29 301
+get_cannons 46
+add_pirate 73 -1 421
+update_pirate_treasure -15 526
+add_pirate -78 11 315
+get_richest_pirate 41
+get_richest_pirate 44
+remove_ship -12
+add_ship 25 462
+remove_ship 7
+get_treasure 5
+treason -33 363
+get_treasure 37
+treason 3 138
+add_pirate 113 53 466
+add_pirate -16 14 953
+remove_pirate 40
+ships_battle -16 329
+remove_pirate 0
+remove_ship 47
+ships_battle -16 971
+get_cannons 47
+get_richest_pirate 33
+remove_ship 55
+ships_battle -16 282
+get_richest_pirate 2
+add_pirate 3 -5 -63
+get_richest_pirate 43
+add_pirate 104 0 20
+get_treasure 50
+add_pirate -77 19 489
+add_pirate 191 52 506
+remove_ship -13
+remove_pirate -19
+add_ship -11 819
+get_cannons 50
+ships_battle -11 745
+remove_ship -8
+add_ship 26 798
+remove_ship 34
+treason 19 457
+add_pirate 195 -11 286
+ships_battle 195 -7
+remove_ship 40
+get_richest_pirate -2
+update_pirate_treasure 0 -79
+add_ship 9 -114
+remove_ship 12
+update_pirate_treasure 41 482
+get_cannons 7
+get_richest_pirate -3
+remove_pirate 29
+add_ship 2 526
+ships_battle 2 234
+get_richest_pirate 30
+get_richest_pirate 42
+add_ship 10 754
+add_pirate -8 27 780
+update_pirate_treasure -27 247
+update_pirate_treasure -11 228
+add_pirate -29 54 65
+add_ship 6 112
+update_pirate_treasure -26 119
+add_pirate 159 -19 757
+get_cannons 3
+treason -10 576
+ships_battle -10 675
+treason -10 744
+update_pirate_treasure -7 775
+add_pirate -40 27 509
+remove_ship 17
+get_cannons 40
+get_treasure 32
+get_treasure -9
+get_richest_pirate 8
+get_cannons 54
+get_cannons 34
+add_pirate 123 18 918
+get_richest_pirate 28
+get_treasure 30
+ships_battle 123 174
+remove_ship 18
+get_richest_pirate 45
+treason 15 885
+remove_ship 10
+treason -26 931
+ships_battle -26 253
+remove_ship 30
+ships_battle -26 69
+treason -21 587
+ships_battle -21 -9
+add_pirate 70 51 377
+remove_pirate -8
+remove_pirate 14
+treason 21 189
+ships_battle 21 403
+add_ship 28 695
+remove_ship 21
+add_ship -29 56
+get_cannons 14
+remove_ship 34
+add_pirate 144 0 181
+get_richest_pirate -9
+remove_pirate 3
+remove_ship 15
+update_pirate_treasure 13 226
+add_ship -7 423
+update_pirate_treasure -3 160
+get_treasure 26
+update_pirate_treasure 32 550
+add_pirate 44 -1 286
+get_richest_pirate -13
+get_treasure 19
+update_pirate_treasure -18 957
+ships_battle -18 242
+ships_battle -18 798
+get_treasure 39
+remove_ship 26
+get_richest_pirate 14
+get_treasure 7
+get_richest_pirate 44
+add_pirate 94 -2 574
+add_ship -37 -142
+remove_pirate -9
+add_pirate 52 3 441
+get_treasure 32
+ships_battle 52 903
+add_ship -33 -109
+treason 49 -82
+treason -40 -196
+get_treasure 34
+get_richest_pirate 29
+remove_ship -17
+update_pirate_treasure 28 134
+add_pirate 86 -8 923
+add_ship -31 200
+get_richest_pirate -13
+get_treasure 17
+add_ship 45 -163
+get_treasure 33
+get_treasure 7
+get_richest_pirate -7
+ships_battle 45 295
+remove_pirate 41
+get_treasure 23
+treason 2 89
+remove_pirate -14
+remove_ship 11
+add_pirate 151 21 -150
+ships_battle 151 967
+update_pirate_treasure 44 -199
+remove_pirate 24
+remove_ship 27
+get_treasure 16
+get_treasure 26
+get_richest_pirate -19
+treason 48 354
+ships_battle 48 483
+add_ship -1 123
+add_pirate -71 -20 -26
+treason -12 52
+ships_battle -12 210
+get_treasure 41
+remove_pirate -16
+remove_pirate -2
+get_cannons 7
+get_treasure 8
+ships_battle -12 245
+get_richest_pirate 20
+update_pirate_treasure 16 438
+remove_ship 45
+update_pirate_treasure -22 734
+add_ship -15 666
+ships_battle -15 626
+add_ship 3 811
+get_richest_pirate 23
+treason 31 348
+treason 38 197
+remove_pirate -9
+treason -24 65
+add_ship 3 514
+add_pirate 20 8 222
+remove_ship -14
+add_ship 47 568
+add_ship 44 314
+remove_pirate 39
+remove_pirate 16
+add_ship -6 56
+add_ship 8 318
+remove_pirate -17
+update_pirate_treasure -27 882
+get_richest_pirate -1
+get_richest_pirate 12
+get_cannons -5
+get_treasure 5
+update_pirate_treasure 35 604
+get_cannons -2
+add_ship -24 558
+remove_pirate 5
+add_pirate 51 31 667
+get_treasure -15
+add_ship -25 480
+treason -6 64
+add_pirate 162 8 -88
+get_treasure 1
+add_pirate -75 -6 88
+treason 46 30
+get_cannons 39
+add_ship 40 293
+get_cannons 7
+add_ship 13 548
+get_treasure 18
+add_pirate 164 32 14
+add_ship 3 -163
+remove_ship 1
+treason 22 438
+get_richest_pirate 55
+add_pirate -91 -17 84
+treason 31 288
+remove_ship -16
+add_pirate 17 -11 670
+treason 3 539
+update_pirate_treasure -5 704
+ships_battle -5 923
+remove_ship 54
+add_pirate 152 44 363
+update_pirate_treasure 1 757
+ships_battle 1 373
+get_richest_pirate -2
+add_ship 15 770
+remove_ship 2
+remove_pirate 29
+remove_pirate 53
+get_cannons -8
+update_pirate_treasure 34 732
+get_cannons 11
+add_pirate 146 28 679
+remove_pirate 28
+get_cannons -14
+get_treasure 39
+add_pirate 18 29 -198
+get_cannons 10
+get_treasure 46
+add_pirate 56 15 679
+remove_ship -1
+get_cannons 53
+ships_battle 56 947
+get_richest_pirate 51
+add_ship 27 -192
+get_treasure -2
+remove_ship 52
+get_treasure -16
+get_richest_pirate 52
+remove_ship 16
+get_richest_pirate -15
+treason 44 -47
+add_ship 45 822
+ships_battle 45 66
+update_pirate_treasure -16 836
+remove_ship 34
+add_pirate 46 9 263
+remove_ship 33
+get_treasure 43
+add_pirate 105 4 34
+treason 39 378
+get_richest_pirate -8
+update_pirate_treasure -1 25
+add_ship -33 -179
+add_pirate -95 12 -92
+get_richest_pirate 29
+ships_battle -95 511
+ships_battle -95 220
+treason 48 411
+ships_battle 48 621
+add_pirate 143 -20 -146
+add_pirate -53 19 764
+add_ship -19 719
+add_ship 8 615
+remove_pirate 44
+treason -3 584
+remove_pirate 29
+add_pirate 135 6 917
+get_treasure -10
+get_treasure 4
+add_pirate 7 48 236
+get_cannons 14
+get_richest_pirate 54
+treason -38 419
+remove_ship 50
+get_treasure 41
+treason -24 406
+ships_battle -24 902
+get_richest_pirate 28
+get_richest_pirate 10
+add_pirate 141 -11 226
+get_cannons 43
+get_richest_pirate 24
+add_pirate -77 -7 -130
+get_cannons 22
+remove_ship -1
+update_pirate_treasure 16 10
+update_pirate_treasure -17 504
+ships_battle -17 36
+ships_battle -17 673
+add_ship -33 3
+ships_battle -33 589
+add_ship 43 673
+remove_pirate -3
+get_cannons -19
+remove_pirate 6
+get_cannons -13
+get_cannons -2
+get_treasure 48
+get_treasure 55
+add_pirate -91 22 380
+add_ship -2 216
+ships_battle -2 222
+remove_ship 35
+ships_battle -2 901
+update_pirate_treasure 5 860
+remove_ship -19
+remove_pirate 15
+remove_ship 38
+get_richest_pirate 8
+add_pirate 187 -13 901
+add_ship 46 627
+update_pirate_treasure -37 484
+get_treasure 46
+add_ship -1 492
+get_richest_pirate 13
+add_pirate -93 0 114
+treason -34 -117
+get_cannons 16
+add_pirate -20 8 930
+get_cannons -11
+add_pirate 130 40 944
+add_pirate 191 25 627
+add_pirate -100 13 100
+remove_ship -4
+add_pirate 127 51 574
+ships_battle 127 815
+ships_battle 127 294
+get_cannons -9
+get_cannons -4
+get_cannons -5
+get_cannons 55
+remove_pirate -12
+add_pirate 10 28 395
+get_cannons -16
+remove_pirate 30
+treason -33 739
+treason 21 493
+get_cannons 19
+get_treasure -12
+add_ship 19 374
+treason 12 629
+get_richest_pirate 13
+remove_ship -13
+get_richest_pirate 46
+add_ship 36 582
+remove_pirate -9
+get_richest_pirate -2
+treason -5 105
+add_ship 37 799
+get_treasure -1
+ships_battle 37 458
+get_cannons 20
+get_cannons 17
+get_cannons -4
+add_ship 23 956
+get_treasure 22
+get_cannons 35
+get_cannons -14
+get_cannons -5
+get_richest_pirate 23
+update_pirate_treasure 8 321
+treason 37 210
+remove_pirate 45
+update_pirate_treasure -14 186
+get_cannons 49
+add_ship 15 226
+get_cannons 19
+add_pirate 49 -1 551
+get_richest_pirate -6
+add_ship 47 704
+get_richest_pirate -6
+remove_ship 55
+update_pirate_treasure 8 431
+ships_battle 8 747
+update_pirate_treasure 23 207
+ships_battle 23 392
+get_cannons -13
+treason -25 320
+get_richest_pirate -5
+remove_pirate 27
+add_ship -30 258
+remove_ship -8
+ships_battle -30 918
+remove_pirate 12
+get_treasure 8
+remove_pirate -16
+add_ship -39 -95
+get_cannons 1
+remove_ship 53
+get_cannons 23
+treason 22 -124
+get_richest_pirate -2
+get_treasure 27
+get_richest_pirate 30
+add_ship 48 730
+get_cannons -13
+get_richest_pirate -16
+treason 11 305
+treason 47 -86
+get_richest_pirate 41
+ships_battle 47 75
+remove_pirate 17
+ships_battle 47 935
+remove_ship -3
+add_pirate 70 26 116
+remove_pirate 54
+add_pirate 41 28 806
+get_cannons 47
+ships_battle 41 171
+add_ship 48 201
+remove_ship 19
+ships_battle 48 790
+ships_battle 48 115
+ships_battle 48 926
+treason -29 407
+add_ship -18 644
+treason 47 279
+get_treasure 40
+ships_battle 47 155
+ships_battle 47 850
+ships_battle 47 605
+ships_battle 47 568
+treason -7 358
+get_richest_pirate 37
+get_richest_pirate 17
+remove_ship -15
+add_pirate 192 -1 334
+add_ship -25 852
+remove_pirate -14
+treason 1 500
+remove_pirate -4
+update_pirate_treasure 20 684
+add_pirate 61 -17 88
+update_pirate_treasure 49 188
+add_pirate 144 -6 886
+add_pirate 129 20 832
+get_treasure -2
+add_pirate 154 1 -123
+get_richest_pirate 41
+remove_ship 25
+remove_ship 16
+update_pirate_treasure 35 805
+get_cannons -3
+get_richest_pirate 4
+treason 0 321
+update_pirate_treasure -9 994
+add_pirate 39 22 945
+remove_pirate -18
+add_pirate -18 -18 221
+get_cannons 6
+get_richest_pirate 31
+remove_pirate 16
+remove_ship 46
+update_pirate_treasure -1 250
+add_ship 35 183
+ships_battle 35 15
+update_pirate_treasure -17 186
+get_richest_pirate 48
+add_pirate 190 8 675
+add_ship 41 117
+add_ship 48 36
+add_ship -1 -142
+get_treasure -14
+remove_ship 52
+update_pirate_treasure 0 369
+get_treasure 34
+treason 4 171
+ships_battle 4 696
+ships_battle 4 157
+get_richest_pirate -7
+treason -20 657
+remove_pirate 52
+get_treasure 35
+add_pirate 98 16 -124
+add_ship -32 789
+get_richest_pirate -16
+treason 33 -191
+treason 33 620
+get_richest_pirate 41
+add_ship -15 794
+remove_ship 22
+get_treasure 32
+ships_battle -15 653
+get_treasure 46
+remove_ship 40
+get_cannons 50
+add_pirate 49 43 258
+ships_battle 49 757
+remove_pirate 22
+ships_battle 49 579
+remove_pirate -10
+remove_ship 49
+treason 48 696
+remove_pirate -1
+add_pirate 186 1 485
+remove_pirate 53
+update_pirate_treasure -35 624
+get_cannons 30
+add_ship -30 998
+get_cannons -11
+treason -8 369
+get_cannons 19
+update_pirate_treasure -8 206
+ships_battle -8 751
+ships_battle -8 595
+get_richest_pirate 15
+remove_pirate 30
+treason 45 989
+remove_pirate 25
+add_pirate 158 -20 80
+get_treasure 51
+remove_pirate 55
+get_richest_pirate 18
+get_treasure -20
+get_treasure 40
+remove_ship 31
+update_pirate_treasure 38 527
+remove_pirate -15
+add_pirate 77 13 179
+add_pirate 98 52 14
+remove_ship -9
+get_richest_pirate -20
+get_cannons 6
+ships_battle 98 950
+get_treasure 25
+get_cannons -10
+get_treasure 50
+treason 43 819
+add_ship 19 328
+get_cannons -19
+get_richest_pirate -4
+ships_battle 19 844
+ships_battle 19 777
+add_ship -12 723
+add_pirate 58 37 578
+get_cannons 5
+get_richest_pirate -1
+ships_battle 58 758
+remove_ship -3
+ships_battle 58 67
+get_treasure 20
+ships_battle 58 819
+add_pirate 110 37 22
+treason -16 570
+remove_ship 48
+get_richest_pirate 4
+get_richest_pirate -20
+add_ship -3 740
+ships_battle -3 642
+ships_battle -3 619
+ships_battle -3 298
+get_cannons 53
+remove_pirate 33
+get_richest_pirate 29
+remove_pirate 52
+remove_ship 34
+add_ship 15 873
+get_richest_pirate 14
+get_richest_pirate 30
+ships_battle 15 772
+get_richest_pirate 53
+get_treasure -20
+add_pirate -73 53 212
+add_pirate -84 53 88
+remove_pirate -11
+treason -29 683
+remove_pirate 1
+get_treasure 8
+get_cannons 19
+ships_battle -29 130
+remove_pirate 8
+remove_pirate -17
+get_cannons 20
+get_cannons 29
+update_pirate_treasure 19 245
+get_treasure -8
+update_pirate_treasure -13 456
+get_treasure 12
+remove_pirate -1
+get_cannons 11
+update_pirate_treasure 43 430
+get_treasure -14
+remove_pirate 54
+get_treasure 33
+add_ship -32 -8
+add_pirate 141 24 434
+get_treasure 24
+get_cannons 0
+remove_ship 44
+update_pirate_treasure 43 6
+update_pirate_treasure -14 680
+treason -24 30
+ships_battle -24 803
+add_ship 20 603
+get_richest_pirate 40
+get_treasure -10
+remove_ship 7
+treason -4 -91
+update_pirate_treasure 45 849
+ships_battle 45 602
+ships_battle 45 93
+add_ship 20 516
+add_ship 26 664
+update_pirate_treasure 5 729
+ships_battle 5 970
+add_ship 7 734
+update_pirate_treasure -35 -159
+ships_battle -35 953
+get_treasure 54
+add_pirate 105 9 186
+add_pirate 36 1 319
+get_cannons 11
+add_ship 30 441
+update_pirate_treasure -25 672
+get_treasure 15
+ships_battle -25 923
+add_ship -26 37
+add_ship -4 566
+ships_battle -4 421
+add_pirate 29 55 595
+get_treasure -9
+ships_battle 29 417
+remove_pirate -13
+treason 8 959
+update_pirate_treasure -35 230
+add_ship -10 723
+get_treasure 13
+get_treasure 2
+get_cannons 17
+add_ship 41 165
+ships_battle 41 565
+add_pirate 121 21 345
+ships_battle 121 958
+add_ship 16 -56
+add_pirate 163 -4 129
+get_cannons -1
+treason -6 7
+ships_battle -6 938
+get_richest_pirate 39
+treason 4 635
+treason 27 575
+update_pirate_treasure 47 201
+ships_battle 47 495
+get_treasure 38
+remove_pirate 28
+get_cannons 40
+remove_pirate 12
+treason 49 920
+treason -22 980
+remove_pirate 46
+get_treasure 21
+add_ship -2 427
+get_richest_pirate 44
+get_treasure -11
+remove_pirate -18
+get_cannons 31
+remove_pirate 52
+update_pirate_treasure -19 773
+treason -33 50
+update_pirate_treasure -1 940
+add_pirate -89 25 168
+add_pirate 109 33 849
+ships_battle 109 671
+get_cannons -10
+add_pirate 79 6 535
+get_richest_pirate 14
+remove_ship -14
+remove_ship 11
+remove_ship 40
+add_ship -31 615
+get_treasure 43
+get_cannons 22
+treason 37 83
+update_pirate_treasure 13 179
+get_treasure 17
+add_ship -20 360
+get_cannons 47
+add_pirate -94 -4 384
+remove_pirate -2
+add_ship -2 883
+get_treasure -19
+get_treasure 42
+get_richest_pirate 9
+ships_battle -2 79
+add_ship 7 2
+remove_pirate 33
+add_pirate -14 -18 -79
+add_pirate 46 11 603
+get_treasure 18
+remove_pirate 5
+add_ship 46 235
+update_pirate_treasure 5 447
+add_ship 28 -165
+update_pirate_treasure 42 244
+get_treasure -13
+remove_ship -4
+treason -22 743
+remove_ship 41
+remove_pirate -13
+remove_ship 54
+update_pirate_treasure -5 335
+add_pirate 153 -3 57
+remove_ship -18
+get_cannons 53
+get_richest_pirate 48
+treason -19 -21
+remove_pirate -17
+update_pirate_treasure 13 293
+update_pirate_treasure -13 -168
+get_treasure 46
+add_ship -39 372
+ships_battle -39 958
+ships_battle -39 228
+get_treasure 20
+get_richest_pirate 37
+add_ship 23 72
+get_treasure 13
+get_cannons -17
+get_treasure -10
+get_treasure 2
+get_cannons 26
+get_richest_pirate -1
+treason -10 -45
+add_pirate -49 30 513
+ships_battle -49 366
+get_cannons 7
+get_treasure 50
+update_pirate_treasure -37 325
+treason 26 872
+remove_ship -10
+get_treasure 51
+ships_battle 26 39
+add_ship -2 308
+get_treasure 42
+get_cannons 1
+remove_pirate -1
+remove_pirate 36
+add_pirate -41 18 177
+remove_ship -15
+ships_battle -41 860
+add_pirate 60 -2 790
+remove_pirate 6
+add_pirate -29 35 222
+update_pirate_treasure -15 184
+get_richest_pirate 42
+add_pirate -79 -6 428
+add_pirate 105 -10 972
+remove_pirate 25
+get_richest_pirate -14
+remove_pirate 35
+update_pirate_treasure 26 984
+get_treasure 8
+update_pirate_treasure 7 164
+get_treasure -20
+treason 33 -147
+get_treasure -14
+remove_pirate 48
+add_ship 32 726
+ships_battle 32 291
+get_treasure 15
+get_cannons 39
+get_richest_pirate 14
+remove_pirate 26
+add_pirate -70 41 325
+remove_pirate 22
+remove_pirate 18
+add_pirate 168 27 183
+get_richest_pirate 45
+add_ship -25 971
+add_ship 12 390
+get_richest_pirate 29
+update_pirate_treasure -20 -102
+ships_battle -20 490
+remove_ship 21
+ships_battle -20 414
+ships_battle -20 624
+get_treasure -20
+treason 44 95
+update_pirate_treasure -27 195
+ships_battle -27 297
+update_pirate_treasure 20 938
+get_richest_pirate 28
+get_cannons 10
+add_ship 27 901
+add_ship 19 354
+update_pirate_treasure 39 974
+remove_pirate 27
+update_pirate_treasure -6 823
+ships_battle -6 868
+get_cannons -19
+get_cannons -4
+treason 35 586
+remove_ship 44
+treason 40 491
+add_ship -31 469
+add_pirate 18 -12 -116
+remove_ship 18
+add_ship -6 756
+remove_pirate -15
+get_richest_pirate -9
+get_cannons 29
+get_cannons 7
+get_treasure 35
+get_treasure 0
+update_pirate_treasure 26 933
+get_richest_pirate 18
+treason -2 885
+add_pirate -6 21 907
+treason -4 373
+remove_pirate -9
+update_pirate_treasure -26 697
+add_pirate -47 -2 550
+get_richest_pirate 33
+ships_battle -47 427
+ships_battle -47 714
+treason -34 574
+get_richest_pirate -1
+ships_battle -34 261
+remove_pirate 22
+ships_battle -34 38
+add_pirate 103 49 341
+remove_pirate 45
+treason -25 -95
+update_pirate_treasure -6 -191
+get_treasure 12
+get_cannons 21
+remove_pirate 4
+remove_pirate 37
+add_ship -14 559
+get_treasure -1
+remove_ship 55
+get_richest_pirate 50
+add_ship -36 120
+get_treasure 2
+remove_ship 43
+update_pirate_treasure -12 289
+get_cannons 35
+remove_pirate 26
+add_pirate 180 -13 647
+remove_ship -2
+add_ship 1 -116
+get_richest_pirate 17
+get_richest_pirate 5
+ships_battle 1 888
+get_richest_pirate 5
+get_richest_pirate 55
+get_cannons 51
+get_cannons 21
+get_cannons 13
+add_ship -4 103
+ships_battle -4 9
+remove_pirate 14
+ships_battle -4 723
+get_richest_pirate 41
+remove_ship 36
+get_richest_pirate 47
+ships_battle -4 558
+ships_battle -4 372
+add_ship 36 85
+get_cannons 49
+remove_pirate 18
+remove_ship 51
+remove_ship 30
+get_richest_pirate -1
+add_ship -4 108
+remove_pirate 2
+add_ship -35 743
+get_richest_pirate 48
+remove_pirate -6
+remove_ship -15
+get_cannons 13
+add_ship 15 887
+get_cannons -16
+update_pirate_treasure 22 631
+treason 10 -141
+remove_ship 50
+get_treasure 23
+remove_pirate -6
+ships_battle 10 60
+get_treasure 20
+add_pirate -42 46 586
+ships_battle -42 635
+ships_battle -42 715
+get_treasure 46
+remove_ship 47
+remove_ship 3
+ships_battle -42 231
+treason 27 962
+remove_ship 54
+treason -21 543
+ships_battle -21 984
+remove_ship 32
+get_richest_pirate 3
+get_cannons 29
+treason -28 116
+get_cannons 26
+ships_battle -28 64
+remove_pirate 31
+get_richest_pirate 50
+treason -18 678
+ships_battle -18 209
+treason -39 548
+add_ship -16 422
+remove_ship 1
+get_cannons 53
+update_pirate_treasure 7 639
+remove_pirate 7
+treason -35 -53
+treason -5 483
+add_pirate 27 5 499
+get_cannons 15
+remove_ship 6
+get_cannons 53
+treason -20 779
+get_treasure 17
+get_treasure -19
+get_treasure 8
+remove_ship 54
+add_ship -14 780
+update_pirate_treasure -24 102
+treason 14 368
+get_cannons 7
+add_ship -19 -39
+update_pirate_treasure 46 580
+update_pirate_treasure 38 928
+remove_ship -20
+remove_ship 48
+remove_ship 47
+remove_ship 51
+remove_pirate -14
+get_cannons 24
+update_pirate_treasure -24 114
+remove_pirate -7
+get_cannons 25
+treason 8 57
+add_ship -5 757
+remove_ship 40
+get_richest_pirate -1
+add_ship 9 -158
+get_cannons 3
+remove_pirate 37
+get_treasure -3
+remove_pirate -14
+treason -2 245
+treason 34 -32
+get_treasure 15
+get_richest_pirate -6
+get_cannons -15
+treason 19 34
+treason 13 -161
+ships_battle 13 604
+remove_ship -15
+add_ship 49 376
+get_richest_pirate 48
+add_pirate 149 -2 127
+update_pirate_treasure -17 50
+remove_ship -14
+get_cannons 34
+get_richest_pirate 17
+remove_ship -18
+remove_pirate 18
+get_treasure 47
+add_pirate 29 3 -82
+remove_ship 29
+get_richest_pirate -12
+remove_pirate 34
+get_treasure -3
+update_pirate_treasure -12 -61
+get_treasure 45
+remove_pirate 30
+ships_battle -12 538
+get_richest_pirate 42
+get_richest_pirate 34
+get_treasure 4
+add_pirate 7 32 996
+update_pirate_treasure -35 240
+ships_battle -35 412
+get_cannons 28
+update_pirate_treasure -39 989
+remove_pirate 42
+treason 26 265
+treason 10 -90
+get_treasure 50
+add_pirate -21 -7 232
+remove_pirate -13
+add_ship -4 459
+ships_battle -4 911
+get_cannons 49
+get_treasure 37
+remove_pirate 12
+remove_ship 49
+get_cannons -5
+remove_pirate -18
+ships_battle -4 787
+remove_ship -14
+get_cannons 22
+add_pirate 198 16 -128
+get_richest_pirate 19
+add_ship 14 682
+ships_battle 14 456
+get_cannons 26
+ships_battle 14 115
+ships_battle 14 102
+get_treasure 28
+ships_battle 14 491
+update_pirate_treasure 2 12
+treason -8 -95
+get_treasure 51
+remove_ship -3
+add_pirate -94 -15 411
+remove_ship -6
+remove_ship 23
+update_pirate_treasure -29 747
+remove_pirate 38
+get_cannons 22
+get_cannons -14
+get_cannons 32
+get_richest_pirate 15
+add_pirate 7 48 552
+get_cannons 37
+remove_pirate -16
+ships_battle 7 438
+get_treasure -19
+treason 43 290
+remove_ship -11
+get_cannons 15
+ships_battle 43 27
+get_treasure 32
+get_treasure -12
+get_treasure 32
+remove_pirate 22
+add_pirate 93 6 134
+get_cannons 28
+ships_battle 93 162
+add_pirate -68 -2 637
+add_pirate 123 -11 676
+treason 42 641
+remove_pirate -13
+get_treasure 40
+get_richest_pirate 31
+add_pirate 184 45 398
+add_pirate 33 -10 36
+get_treasure 10
+get_treasure 29
+remove_pirate -13
+get_cannons 32
+get_cannons 29
+get_cannons 37
+remove_ship -7
+get_treasure 15
+remove_ship -10
+update_pirate_treasure 10 42
+get_richest_pirate 4
+add_pirate 122 -2 624
+treason -27 943
+update_pirate_treasure 46 957
+ships_battle 46 716
+ships_battle 46 853
+update_pirate_treasure -28 775
+treason -2 891
+update_pirate_treasure -28 142
+remove_ship 19
+add_pirate -24 17 670
+update_pirate_treasure -16 904
+ships_battle -16 856
+update_pirate_treasure 34 386
+remove_pirate 16
+ships_battle 34 861
+remove_pirate -20
+update_pirate_treasure -34 202
+add_pirate 56 31 198
+update_pirate_treasure 45 713
+remove_ship 8
+get_treasure -14
+remove_pirate -6
+add_ship -12 460
+remove_pirate 50
+remove_pirate 39
+get_richest_pirate -15
+get_richest_pirate 14
+add_pirate -50 50 411
+treason 7 -182
+add_pirate 24 45 135
+ships_battle 24 749
+remove_ship 50
+remove_ship 54
+get_richest_pirate -9
+get_richest_pirate 3
+get_cannons 0
+get_cannons -10
+treason 0 -103
+treason 24 960
+update_pirate_treasure -4 -48
+get_cannons 34
+add_pirate -34 25 126
+remove_ship 31
+add_pirate 118 42 222
+get_treasure -16
+treason 25 -192
+add_pirate -12 52 -14
+ships_battle -12 382
+get_cannons 1
+remove_ship 41
+update_pirate_treasure -7 608
+update_pirate_treasure 17 -110
+ships_battle 17 530
+update_pirate_treasure 22 900
+remove_ship 18
+remove_ship 13
+treason 26 232
+get_treasure -6
+remove_ship -4
+update_pirate_treasure 2 -78
+ships_battle 2 685
+treason 11 708
+get_treasure 3
+get_richest_pirate 14
+add_ship 26 912
+get_richest_pirate 26
+treason -37 374
+update_pirate_treasure -1 308
+get_richest_pirate 11
+ships_battle -1 816
+add_ship 22 937
+remove_ship -3
+get_cannons 48
+remove_ship 44
+update_pirate_treasure -20 681
+add_pirate 41 25 35
+ships_battle 41 114
+ships_battle 41 668
+get_richest_pirate 54
+remove_pirate 3
+add_pirate 25 51 654
+add_pirate 52 12 226
+get_cannons 15
+remove_ship 0
+remove_ship 44
+add_ship 10 -27
+treason 35 521
+update_pirate_treasure -13 753
+get_richest_pirate 27
+get_richest_pirate -18
+treason 27 165
+get_richest_pirate 10
+ships_battle 27 736
+add_pirate 8 44 -52
+get_cannons -9
+remove_pirate 53
+add_pirate 72 -19 130
+get_cannons 13
+remove_pirate 39
+ships_battle 72 551
+get_treasure 50
+get_richest_pirate 46
+get_treasure 17
+treason -7 -100
+get_treasure 4
+get_cannons -19
+treason 5 774
+add_ship -15 804
+get_richest_pirate 19
+remove_ship 23
+get_treasure -13
+update_pirate_treasure 19 52
+remove_ship 42
+add_ship -25 221
+add_ship 2 195
+remove_pirate 13
+add_ship -30 601
+get_cannons -11
+get_treasure 46
+get_treasure -16
+remove_pirate 54
+remove_pirate 29
+ships_battle -30 264
+add_pirate -50 49 -198
+add_ship 43 600
+get_cannons -6
+add_ship -30 107
+ships_battle -30 158
+update_pirate_treasure -13 783
+ships_battle -13 0
+remove_pirate 39
+remove_pirate 54
+get_treasure 52
+ships_battle -13 58
+get_richest_pirate 46
+update_pirate_treasure -23 425
+get_cannons 29
+get_cannons 51
+add_ship -12 -56
+remove_ship 30
+ships_battle -12 366
+add_ship 44 163
+ships_battle 44 226
+get_cannons 8
+remove_ship 49
+add_pirate -21 15 204
+treason 49 850
+ships_battle 49 178
+get_treasure 42
+get_treasure 36
+get_richest_pirate -13
+get_treasure -14
+add_pirate 200 -3 336
+update_pirate_treasure -5 -151
+add_pirate 89 44 160
+treason 19 15
+remove_ship 45
+update_pirate_treasure -22 21
+remove_pirate -1
+remove_pirate 50
+get_richest_pirate 45
+remove_ship 40
+add_pirate 92 11 813
+add_pirate -69 -18 712
+treason 13 324
+get_cannons -5
+get_cannons 46
+get_cannons 2
+get_treasure -6
+ships_battle 13 832
+add_pirate 58 15 325
+get_treasure 54
+ships_battle 58 905
+get_cannons 1
+ships_battle 58 251
+get_treasure -18
+add_pirate 191 52 556
+get_cannons -20
+add_ship 19 1000
+get_treasure 48
+get_treasure -14
+remove_pirate -16
+update_pirate_treasure 1 -170
+get_cannons 51
+get_cannons -8
+update_pirate_treasure 39 206
+ships_battle 39 562
+treason 15 461
+get_richest_pirate -8
+update_pirate_treasure 0 -88
+ships_battle 0 458
+add_pirate -94 -4 244
+remove_ship 55
+add_ship -1 776
+get_richest_pirate 44
+ships_battle -1 610
+add_pirate 160 49 418
+remove_pirate 45
+remove_pirate -2
+remove_ship 18
+get_cannons 44
+ships_battle 160 3
+add_pirate -55 -18 889
+add_ship -36 526
+add_ship -19 279
+get_richest_pirate 4
+get_cannons 29
+update_pirate_treasure 45 284
+remove_ship -16
+remove_ship -17
+remove_pirate 17
+remove_pirate 6
+treason -17 398
+remove_pirate 54
+get_cannons 55
+update_pirate_treasure 11 293
+treason -24 658
+update_pirate_treasure 10 270
+remove_pirate 2
+get_richest_pirate -10
+remove_pirate -1
+update_pirate_treasure -40 388
+ships_battle -40 50
+add_ship -16 475
+remove_ship 42
+update_pirate_treasure -25 170
+remove_pirate 47
+get_cannons 18
+add_ship -38 586
+ships_battle -38 832
+update_pirate_treasure -15 590
+remove_pirate -10
+remove_pirate 8
+remove_ship 24
+ships_battle -15 310
+update_pirate_treasure -7 845
+treason 46 487
+ships_battle 46 288
+add_pirate -20 -8 935
+add_pirate 83 28 233
+add_ship -20 -153
+get_treasure 31
+treason -36 64
+remove_ship -9
+get_cannons -13
+ships_battle -36 582
+remove_pirate 30
+get_treasure 52
+remove_pirate 54
+get_treasure -20
+ships_battle -36 26
+get_treasure 51
+add_ship 25 527
+remove_ship 14
+get_cannons 15
+get_cannons -19
+get_treasure 15
+get_richest_pirate 29
+remove_pirate 17
+remove_pirate 17
+get_treasure 37
+remove_ship 36
+get_richest_pirate 39
+add_ship 32 266
+add_ship 11 -39
+update_pirate_treasure -27 -115
+remove_ship 15
+remove_pirate 10
+add_pirate 114 -4 663
+get_cannons -15
+get_richest_pirate -7
+treason 9 269
+get_cannons -11
+treason 10 252
+remove_ship 14
+get_cannons 8
+remove_pirate -8
+get_treasure 38
+remove_pirate -13
+remove_pirate 37
+add_ship 44 148
+get_treasure 41
+add_pirate 111 32 532
+get_cannons -2
+remove_ship 36
+add_pirate 10 35 832
+update_pirate_treasure 50 108
+get_cannons 47
+ships_battle 50 54
+add_ship 41 854
+ships_battle 41 137
+remove_pirate 26
+update_pirate_treasure 41 43
+add_pirate 94 43 78
+ships_battle 94 548
+add_pirate 120 6 651
+remove_ship 25
+add_ship -21 0
+get_richest_pirate 36
+get_richest_pirate -20
+get_treasure 3
+add_pirate 47 -19 37
+treason 36 934
+remove_pirate -2
+get_cannons 46
+remove_pirate 7
+remove_ship 17
+add_pirate -30 -6 905
+remove_ship 11
+get_richest_pirate -10
+treason -31 764
+remove_ship -1
+get_cannons 9
+add_ship -17 -118
+add_pirate -68 47 390
+get_cannons -7
+get_cannons 19
+treason 39 48
+ships_battle 39 895
+get_cannons 33
+ships_battle 39 634
+get_richest_pirate 0
+remove_pirate -5
+get_richest_pirate 3
+add_pirate 95 31 962
+add_pirate 154 38 167
+get_cannons 4
+add_ship -36 613
+update_pirate_treasure 1 937
+treason -3 312
+ships_battle -3 233
+add_pirate 28 29 375
+get_richest_pirate 30
+update_pirate_treasure 45 15
+update_pirate_treasure 43 280
+get_richest_pirate 38
+add_ship 22 735
+update_pirate_treasure -40 567
+get_treasure -14
+remove_pirate -6
+get_richest_pirate 2
+add_pirate 160 11 749
+remove_pirate -20
+get_cannons -14
+add_pirate -65 40 907
+add_ship -9 329
+update_pirate_treasure -8 259
+add_ship 7 153
+ships_battle 7 823
+remove_pirate 22
+get_cannons 36
+add_pirate -6 44 753
+get_treasure -9
+add_pirate -9 39 -91
+ships_battle -9 328
+get_treasure -14
+add_ship -4 51
+treason 40 257
+get_richest_pirate 17
+ships_battle 40 537
+get_cannons 21
+get_treasure 7
+add_ship 20 789
+update_pirate_treasure 20 443
+get_treasure 26
+ships_battle 20 946
+add_pirate -86 -2 467
+get_cannons 23
+update_pirate_treasure -40 414
+get_richest_pirate -17
+get_richest_pirate 31
+remove_ship -19
+treason -31 683
+remove_pirate 46
+get_richest_pirate 40
+get_cannons -20
+get_cannons 34
+ships_battle -31 276
+add_ship 32 593
+update_pirate_treasure -10 252
+add_pirate 174 54 -132
+remove_ship 38
+get_treasure -5
+remove_pirate 46
+get_richest_pirate 51
+add_pirate 19 46 -177
+add_ship 4 -186
+update_pirate_treasure 43 902
+add_ship -30 474
+add_pirate -94 -4 -177
+get_richest_pirate 36
+treason -24 137
+remove_ship 46
+add_pirate -83 32 981
+remove_ship 18
+get_treasure 41
+remove_ship -2
+add_pirate 157 8 504
+ships_battle 157 12
+ships_battle 157 259
+add_ship 35 381
+add_ship 37 -155
+get_cannons 21
+remove_ship 35
+get_treasure 51
+add_ship 26 741
+add_pirate 144 33 285
+treason 29 361
+ships_battle 29 956
+update_pirate_treasure -38 64
+treason -1 709
+treason 4 537
+ships_battle 4 722
+get_richest_pirate 35
+add_ship -13 309
+remove_ship 19
+remove_pirate -14
+get_richest_pirate 33
+remove_pirate 42
+ships_battle -13 259
+get_cannons 41
+remove_ship 46
+update_pirate_treasure -24 547
+get_richest_pirate 2
+get_richest_pirate 45
+add_ship 50 472
+remove_pirate 2
+ships_battle 50 885
+add_pirate 116 46 -55
+get_richest_pirate 19
+get_treasure 51
+update_pirate_treasure -27 24
+add_ship 0 149
+get_treasure -8
+add_ship -28 -5
+remove_pirate -14
+remove_ship 44
+get_treasure 39
+get_treasure 21
+add_pirate -79 31 -63
+add_ship -37 400
+ships_battle -37 879
+treason -16 74
+add_pirate 151 -1 893
+get_cannons -15
+add_pirate 185 -4 206
+update_pirate_treasure -32 988
+get_richest_pirate 35
+add_ship 48 715
+ships_battle 48 479
+update_pirate_treasure -32 612
+remove_pirate 1
+add_ship -35 -20
+get_cannons -14
+add_pirate -16 -15 660
+update_pirate_treasure 50 -151
+update_pirate_treasure -16 -16
+remove_ship -12
+add_pirate -70 25 291
+update_pirate_treasure 30 916
+get_cannons -10
+remove_pirate 41
+get_richest_pirate 45
+remove_ship 20
+update_pirate_treasure -9 615
+remove_ship 4
+add_ship 2 181
+remove_pirate -5
+get_treasure 53
+remove_ship 43
+get_cannons 21
+ships_battle 2 815
+add_pirate -76 8 -187
+get_cannons 25
+get_cannons 17
+update_pirate_treasure -13 -188
+update_pirate_treasure 24 419
+ships_battle 24 881
+remove_ship 10
+update_pirate_treasure 5 560
+get_richest_pirate -13
+update_pirate_treasure -38 -110
+add_ship -3 -173
+get_richest_pirate -10
+get_cannons 9
+add_pirate 46 2 678
+treason 44 241
+add_pirate 196 8 20
+get_cannons 34
+get_treasure 24
+get_treasure 1
+remove_ship 37
+ships_battle 196 957
+add_pirate -36 24 -111
+add_ship -2 310
+remove_ship 10
+update_pirate_treasure 46 947
+get_richest_pirate 37
+add_ship 16 917
+add_pirate -41 19 733
+remove_pirate 10
+treason -10 753
+ships_battle -10 834
+treason 30 561
+remove_ship 48
+ships_battle 30 869
+get_treasure -12
+add_pirate -90 1 -180
+remove_ship 20
+get_cannons 22
+remove_pirate 46
+add_ship -1 909
+treason -39 26
+get_richest_pirate 20
+ships_battle -39 504
+remove_ship -20
+get_cannons 8
+update_pirate_treasure 9 516
+get_cannons 47
+add_pirate 173 -7 193
+add_pirate -84 -13 938
+get_richest_pirate 37
+update_pirate_treasure -25 985
+remove_ship 11
+ships_battle -25 957
+remove_pirate 52
+get_richest_pirate 34
+ships_battle -25 957
+add_pirate -47 55 982
+update_pirate_treasure 1 959
+get_cannons 4
+ships_battle 1 134
+ships_battle 1 423
+add_ship 19 344
+remove_pirate -16
+update_pirate_treasure 50 451
+remove_pirate 9
+remove_pirate 2
+add_pirate -74 0 847
+get_treasure -10
+get_cannons 53
+treason 7 145
+add_pirate -20 6 601
+remove_ship 11
+remove_pirate 17
+get_richest_pirate 15
+remove_pirate 44
+ships_battle -20 475
+get_richest_pirate 9
+add_pirate -42 45 958
+remove_pirate -6
+remove_ship 40
+update_pirate_treasure 34 531
+add_pirate 107 14 585
+ships_battle 107 367
+get_richest_pirate 28
+add_ship 32 60
+remove_pirate 41
+add_ship -35 470
+add_ship 50 488
+ships_battle 50 818
+update_pirate_treasure 50 -162
+remove_pirate 1
+get_richest_pirate -14
+get_cannons 33
+treason 3 905
+get_cannons -19
+get_richest_pirate 13
+get_richest_pirate -15
+treason 10 507
+get_treasure -1
+treason -8 130
+update_pirate_treasure -31 -48
+treason -5 872
+treason -23 -40
+treason 3 -73
+get_treasure 19
+update_pirate_treasure -12 0
+add_pirate -28 51 166
+get_richest_pirate 4
+add_pirate 161 14 629
+treason 2 528
+get_cannons -13
+get_richest_pirate 44
+get_treasure -2
+remove_pirate -15
+get_cannons 29
+get_cannons 6
+ships_battle 2 289
+get_richest_pirate -9
+ships_battle 2 681
+remove_ship 38
+add_ship 36 921
+get_richest_pirate -1
+remove_ship 42
+update_pirate_treasure 6 -87
+remove_pirate -19
+treason -26 312
+add_ship -25 880
+add_ship -13 537
+get_treasure 10
+ships_battle -13 533
+get_cannons -1
+get_richest_pirate 2
+remove_ship 32
+get_treasure 24
+get_cannons 24
+get_treasure 12
+get_cannons 41
+add_ship -7 993
+treason 38 921
+add_ship -25 417
+get_richest_pirate 50
+add_ship -9 545
+get_treasure -19
+treason 1 -126
+get_richest_pirate 45
+get_cannons -8
+treason 22 405
+add_ship 38 914
+remove_ship 55
+get_cannons 33
+get_cannons 0
+remove_pirate 33
+remove_pirate 48
+add_pirate 72 -4 150
+add_ship 7 603
+ships_battle 7 909
+treason -8 887
+get_richest_pirate 16
+add_pirate 147 0 262
+get_richest_pirate 40
+add_ship -31 969
+add_ship -19 -68
+get_cannons 7
+remove_ship -12
+remove_pirate 38
+add_ship 18 676
+remove_pirate 25
+ships_battle 18 430
+remove_ship -16
+get_cannons 19
+add_pirate 121 -8 23
+remove_pirate 28
+treason -35 825
+treason 17 620
+remove_pirate 13
+remove_ship -7
+get_treasure 13
+remove_ship 19
+add_pirate 5 21 12
+get_treasure 38
+update_pirate_treasure 31 262
+update_pirate_treasure 6 707
+add_pirate 151 25 -42
+remove_ship 50
+get_richest_pirate 2
+add_ship -2 527
+get_cannons -10
+ships_battle -2 771
+add_pirate 50 48 315
+treason 3 856
+add_pirate -16 -5 460
+add_ship 45 885
+get_treasure 25
+get_treasure 23
+get_richest_pirate 10
+remove_ship 49
+update_pirate_treasure -21 95
+update_pirate_treasure 12 346
+update_pirate_treasure 17 896
+get_richest_pirate -16
+get_richest_pirate 33
+treason 32 887
+get_richest_pirate 24
+remove_ship 37
+remove_pirate 38
+remove_ship -10
+remove_pirate 17
+update_pirate_treasure -28 622
+remove_ship 40
+add_ship 7 781
+ships_battle 7 803
+get_cannons 15
+ships_battle 7 291
+treason 15 48
+remove_ship 17
+get_cannons -8
+get_treasure -16
+remove_pirate 20
+get_richest_pirate -20
+add_pirate 66 27 194
+get_treasure 0
+remove_pirate 31
+treason -6 -194
+add_ship 7 430
+ships_battle 7 957
+get_cannons 24
+add_ship 34 -28
+update_pirate_treasure -31 809
+get_cannons 1
+get_richest_pirate 40
+get_cannons 25
+get_treasure 15
+remove_ship 23
+add_pirate -87 41 705
+get_cannons -8
+get_treasure 27
+get_richest_pirate 4
+remove_pirate 34
+get_cannons 11
+ships_battle -87 802
+add_ship 19 -193
+add_pirate -95 -18 -56
+get_richest_pirate 32
+get_treasure 1
+add_pirate 11 24 849
+get_richest_pirate 46
+add_pirate 174 16 476
+treason -29 23
+get_cannons 27
+ships_battle -29 38
+ships_battle -29 255
+get_treasure 37
+add_pirate 20 25 206
+ships_battle 20 856
+add_pirate 84 44 9
+get_treasure 42
+ships_battle 84 371
+ships_battle 84 482
+remove_pirate 11
+remove_pirate 22
+treason 19 867
+treason 6 766
+get_richest_pirate -9
+treason -36 773
+get_richest_pirate 48
+get_cannons -14
+add_ship 41 915
+remove_pirate 17
+remove_pirate 7
+get_richest_pirate 0
+treason -7 554
+get_treasure 17
+add_ship 10 803
+remove_pirate 24
+ships_battle 10 321
+get_richest_pirate -1
+ships_battle 10 302
+update_pirate_treasure 37 433
+treason -23 -84
+get_treasure 19
+add_ship 22 818
+remove_ship -20
+get_treasure -14
+get_cannons 29
+update_pirate_treasure 31 350
+update_pirate_treasure -5 399
+add_ship -16 570
+add_pirate 36 6 934
+add_ship -24 133
+treason -14 410
+treason 47 967
+get_richest_pirate 1
+get_treasure -3
+ships_battle 47 628
+get_cannons 19
+add_pirate 137 49 771
+get_richest_pirate -19
+add_pirate 177 47 985
+treason 13 852
+add_ship 4 898
+remove_pirate 45
+ships_battle 4 389
+ships_battle 4 231
+get_richest_pirate 2
+ships_battle 4 221
+treason 45 308
+remove_ship 3
+get_treasure 29
+get_richest_pirate 41
+get_treasure 50
+add_ship 5 37
+remove_ship 54
+get_treasure 32
+remove_pirate -14
+get_treasure 44
+add_pirate 194 30 936
+remove_pirate 29
+remove_pirate -3
+update_pirate_treasure -20 142
+get_treasure -3
+get_cannons 0
+add_pirate 95 27 687
+get_cannons 22
+update_pirate_treasure 35 344
+remove_pirate 33
+get_richest_pirate 4
+ships_battle 35 294
+treason -15 -188
+get_richest_pirate 33
+get_cannons 33
+get_treasure 48
+add_pirate -59 17 -9
+remove_ship 38
+update_pirate_treasure -27 -93
+remove_ship -15
+add_ship 21 384
+update_pirate_treasure -23 691
+add_ship -15 538
+remove_pirate -17
+treason 29 993
+add_ship -16 134
+update_pirate_treasure 30 555
+treason 6 31
+remove_ship 46
+remove_pirate 2
+add_ship -30 661
+update_pirate_treasure -18 246
+remove_ship 43
+remove_ship -8
+get_richest_pirate 2
+update_pirate_treasure -20 829
+update_pirate_treasure -4 783
+get_richest_pirate 9
+ships_battle -4 457
+get_treasure -3
+ships_battle -4 159
+get_richest_pirate -6
+add_ship -31 -169
+update_pirate_treasure 18 994
+get_treasure 38
+ships_battle 18 426
+remove_pirate 41
+remove_pirate -17
+update_pirate_treasure -21 41
+get_richest_pirate 30
+add_ship 8 -19
+add_pirate 93 38 -156
+get_treasure 17
+get_cannons -8
+get_richest_pirate 28
+treason 7 999
+ships_battle 7 981
+add_ship 14 -99
+remove_pirate 37
+get_richest_pirate 30
+get_cannons 18
+remove_ship 33
+get_cannons 14
+get_cannons -3
+remove_ship 11
+update_pirate_treasure -15 -28
+get_richest_pirate 35
+remove_ship 23
+remove_pirate 25
+get_cannons -12
+ships_battle -15 77
+ships_battle -15 402
+add_ship 8 555
+ships_battle 8 42
+get_treasure 43
+treason 3 645
+add_ship 0 -1
+add_ship 15 -25
+ships_battle 15 641
+update_pirate_treasure -17 294
+get_treasure 21
+remove_pirate -19
+update_pirate_treasure -37 610
+get_richest_pirate 45
+update_pirate_treasure 25 716
+get_cannons -2
+treason 40 764
+get_richest_pirate 17
+update_pirate_treasure 42 -72
+get_treasure 14
+remove_ship 44
+get_richest_pirate 51
+update_pirate_treasure 43 460
+get_richest_pirate 38
+add_ship 38 643
+update_pirate_treasure 27 776
+get_richest_pirate -2
+remove_ship 48
+get_richest_pirate -1
+remove_ship 46
+get_richest_pirate 30
+get_cannons 38
+add_ship 41 -53
+add_ship 35 345
+remove_ship 30
+get_treasure 11
+add_ship 40 572
+get_treasure 37
+treason 6 313
+update_pirate_treasure 48 648
+ships_battle 48 222
+get_treasure -14
+add_pirate 16 -13 350
+get_richest_pirate 45
+add_pirate 140 48 886
+get_treasure -2
+get_cannons 40
+add_ship -31 639
+add_pirate 17 39 143
+get_richest_pirate 33
+remove_pirate 13
+remove_ship 28
+update_pirate_treasure -18 731
+remove_ship 41
+get_cannons 22
+remove_pirate -12
+remove_pirate -14
+get_richest_pirate -10
+ships_battle -18 914
+remove_pirate 44
+add_pirate 22 -14 920
+get_cannons 16
+ships_battle 22 827
+update_pirate_treasure 5 -24
+treason -35 241
+add_ship -11 945
+treason -6 919
+add_pirate 102 -1 939
+get_treasure 17
+add_ship 41 -31
+get_cannons 41
+update_pirate_treasure -14 931
+ships_battle -14 597
+ships_battle -14 287
+update_pirate_treasure 32 365
+get_richest_pirate 41
+remove_ship 54
+get_treasure 37
+get_treasure 34
+get_richest_pirate 48
+remove_ship 35
+get_richest_pirate 19
+remove_pirate 37
+get_treasure 29
+treason -24 846
+add_ship 2 340
+treason -32 565
+remove_pirate -16
+treason 16 434
+add_ship 42 79
+add_pirate 6 15 16
+get_richest_pirate 37
+add_ship 36 972
+get_cannons 32
+get_treasure -16
+add_pirate 188 5 585
+get_treasure 14
+ships_battle 188 504
+remove_ship 0
+update_pirate_treasure 3 -129
+treason -17 -4
+get_richest_pirate 6
+remove_pirate 10
+add_pirate -37 50 27
+get_treasure 50
+remove_pirate 6
+update_pirate_treasure -14 -38
+add_pirate 195 44 293
+update_pirate_treasure 22 438
+get_treasure 28
+add_ship -24 267
+get_richest_pirate -12
+remove_pirate 20
+get_treasure 13
+ships_battle -24 670
+add_pirate 195 49 749
+remove_ship 29
+get_cannons -13
+add_pirate 106 54 31
+update_pirate_treasure -12 461
+add_pirate 80 34 254
+get_treasure 24
+remove_ship 5
+get_treasure 50
+remove_pirate 17
+add_pirate -78 -13 966
+get_treasure 38
+treason 38 84
+update_pirate_treasure 0 917
+ships_battle 0 917
+get_treasure 4
+treason 13 -30
+update_pirate_treasure -23 36
+treason -25 863
+get_richest_pirate 1
+get_treasure 50
+treason -35 232
+treason 21 919
+add_ship 19 -173
+treason -35 263
+update_pirate_treasure -40 -132
+get_richest_pirate -4
+remove_pirate 3
+remove_pirate 5
+add_ship -25 498
+ships_battle -25 765
+add_ship 4 692
+update_pirate_treasure 3 284
+ships_battle 3 580
+get_richest_pirate -1
+add_pirate -33 38 714
+get_richest_pirate 34
+remove_pirate 11
+get_richest_pirate 49
+ships_battle -33 227
+update_pirate_treasure -18 307
+ships_battle -18 874
+ships_battle -18 325
+get_cannons 1
+add_ship 35 -118
+get_treasure 1
+get_richest_pirate 21
+get_treasure -8
+add_pirate 101 30 620
+remove_ship 41
+get_treasure 36
+treason 49 644
+get_treasure -12
+treason 44 648
+update_pirate_treasure 31 80
+get_richest_pirate 27
+get_treasure 36
+add_ship 8 363
+get_cannons -9
+add_ship 48 391
+add_ship -10 756
+remove_pirate 3
+remove_pirate 22
+update_pirate_treasure 43 570
+add_pirate 170 14 362
+get_treasure 41
+update_pirate_treasure 2 307
+add_pirate 185 24 -63
+ships_battle 185 79
+get_cannons -8
+add_ship 42 366
+get_richest_pirate 36
+remove_ship 18
+treason 48 193
+ships_battle 48 650
+ships_battle 48 497
+update_pirate_treasure 14 410
+update_pirate_treasure 2 456
+ships_battle 2 533
+add_pirate 143 42 -136
+add_pirate 25 54 162
+add_ship 10 692
+get_richest_pirate -1
+treason 23 794
+add_ship 10 172
+get_richest_pirate 54
+treason -4 543
+remove_pirate 32
+ships_battle -4 585
+get_cannons 40
+treason 15 681
+get_cannons -18
+remove_ship 25
+get_treasure 55
+add_ship 1 765
+get_treasure 20
+add_pirate 107 27 570
+remove_pirate -18
+update_pirate_treasure -10 -83
+get_cannons 20
+get_cannons 24
+add_ship -10 712
+remove_pirate 47
+add_ship 26 329
+update_pirate_treasure 49 192
+add_ship 43 624
+remove_pirate 49
+add_pirate 5 -5 -1
+remove_pirate 18
+get_treasure 47
+get_richest_pirate -17
+get_treasure 26
+update_pirate_treasure 3 811
+remove_pirate -19
+add_pirate 17 31 790
+remove_pirate 43
+ships_battle 17 102
+remove_pirate -9
+remove_pirate 19
+get_richest_pirate -16
+update_pirate_treasure -34 600
+treason 0 28
+remove_pirate -1
+treason 4 170
+get_cannons 32
+get_treasure -14
+remove_ship 42
+ships_battle 4 58
+remove_ship 51
+get_treasure 15
+ships_battle 4 812
+add_ship -34 651
+get_cannons -6
+remove_pirate 2
+get_treasure 9
+get_richest_pirate -4
+get_richest_pirate 32
+remove_ship 28
+add_ship -27 468
+add_ship -9 120
+add_pirate -62 -3 574
+ships_battle -62 47
+get_cannons 48
+get_cannons 25
+get_richest_pirate 0
+remove_ship -6
+remove_ship -12
+ships_battle -62 552
+get_cannons 30
+add_pirate 78 1 939
+treason -15 -67
+add_pirate 168 30 -144
+remove_pirate 22
+update_pirate_treasure 49 283
+get_richest_pirate -4
+get_treasure -10
+get_treasure 52
+add_ship 15 447
+add_pirate 1 -4 993
+get_cannons 8
+get_richest_pirate 53
+add_ship 20 -176
+remove_pirate 35
+remove_pirate -12
+get_cannons 25
+get_richest_pirate 43
+get_cannons 48
+add_pirate -70 5 443
+get_treasure 43
+get_richest_pirate 5
+add_pirate -68 44 331
+add_pirate -7 -16 685
+add_ship 7 902
+ships_battle 7 270
+add_ship 24 546
+get_richest_pirate 14
+add_ship 12 412
+remove_ship 43
+remove_pirate 29
+remove_pirate 29
+get_treasure 25
+update_pirate_treasure 48 -46
+add_ship 2 67
+remove_ship 24
+get_cannons 0
+remove_pirate 14
+ships_battle 2 925
+ships_battle 2 607
+update_pirate_treasure -40 999
+remove_pirate -20
+remove_ship 53
+get_richest_pirate 14
+update_pirate_treasure -17 170
+add_ship 45 -94
+update_pirate_treasure -11 957
+add_ship 7 154
+get_cannons 38
+treason 2 211
+remove_pirate 11
+treason -36 36
+remove_ship 16
+get_cannons 29
+treason -8 800
+add_ship 29 362
+get_cannons -17
+add_ship -30 137
+get_treasure -9
+get_richest_pirate 34
+update_pirate_treasure -33 616
+ships_battle -33 987
+update_pirate_treasure -22 32
+add_pirate -91 32 62
+remove_ship 36
+ships_battle -91 489
+add_ship -23 609
+treason -6 256
+get_cannons -10
+treason 22 641
+ships_battle 22 374
+treason 17 -5
+get_treasure 35
+ships_battle 17 84
+update_pirate_treasure 18 935
+add_pirate 142 37 211
+add_ship -2 -181
+remove_pirate 2
+treason 47 421
+add_ship -2 59
+update_pirate_treasure -8 854
+treason 39 -127
+update_pirate_treasure 11 92
+update_pirate_treasure 43 127
+treason 14 -56
+add_ship -27 990
+add_pirate 152 51 924
+add_pirate 107 44 889
+get_richest_pirate 8
+get_cannons 13
+ships_battle 107 687
+treason -39 -96
+add_pirate 167 33 497
+get_richest_pirate 52
+treason 16 238
+get_richest_pirate 34
+treason 35 879
+remove_pirate -12
+get_treasure 38
+get_richest_pirate 26
+add_pirate 101 25 105
+remove_ship 35
+ships_battle 101 6
+get_cannons 12
+add_ship -31 550
+remove_pirate 19
+get_cannons 49
+update_pirate_treasure -23 388
+get_richest_pirate 41
+get_cannons -14
+remove_ship 28
+ships_battle -23 782
+get_cannons 32
+get_cannons 50
+add_pirate 10 10 383
+remove_pirate 55
+get_treasure 3
+get_richest_pirate 39
+remove_ship -3
+get_treasure -7
+treason 48 458
+remove_ship 33
+get_cannons 36
+ships_battle 48 250
+treason -23 296
+ships_battle -23 267
+get_treasure 12
+treason 6 655
+remove_pirate 0
+treason 16 283
+remove_ship 9
+get_richest_pirate -8
+get_richest_pirate -11
+get_richest_pirate -3
+get_cannons -2
+remove_ship 23
+remove_pirate 39
+add_pirate 140 17 757
+remove_ship 7
+remove_ship -4
+ships_battle 140 905
+remove_ship 45
+ships_battle 140 319
+ships_battle 140 230
+remove_ship -5
+add_pirate 96 -19 110
+ships_battle 96 411
+get_richest_pirate 19
+add_ship 26 769
+remove_ship 39
+remove_pirate -17
+get_treasure -3
+treason -16 -115
+update_pirate_treasure -9 609
+add_ship 30 -145
+treason 42 8
+add_ship 15 201
+get_cannons 55
+treason 41 643
+get_cannons -11
+get_cannons 50
+remove_ship 35
+remove_pirate 27
+remove_ship 32
+ships_battle 41 120
+get_treasure 51
+update_pirate_treasure 9 933
+remove_ship 28
+add_ship 23 274
+add_pirate 47 -10 277
+get_treasure 21
+add_pirate 112 51 42
+add_pirate -17 55 134
+get_treasure 28
+get_richest_pirate -10
+get_richest_pirate 26
+add_ship 21 788
+get_richest_pirate -2
+add_pirate -86 -2 796
+add_pirate -12 -17 -154
+add_pirate -41 34 -68
+remove_pirate -20
+treason 37 984
+get_richest_pirate 46
+add_pirate 74 34 837
+get_richest_pirate 30
+remove_ship -9
+get_treasure 38
+add_ship 3 595
+remove_pirate 8
+update_pirate_treasure 14 382
+update_pirate_treasure 6 367
+remove_pirate -18
+add_ship -12 312
+remove_ship -14
+add_pirate 142 -15 767
+update_pirate_treasure 14 381
+get_cannons -19
+get_treasure 27
+treason -4 -81
+remove_pirate -18
+treason 44 385
+get_cannons 3
+add_ship 15 -175
+add_ship 7 231
+get_richest_pirate 12
+update_pirate_treasure -3 127
+get_cannons -1
+add_pirate -22 19 728
+get_treasure -11
+get_cannons 52
+remove_ship 34
+get_richest_pirate -17
+remove_ship 26
+remove_pirate 32
+add_pirate 71 4 638
+get_richest_pirate 22
+get_richest_pirate 8
+get_cannons 24
+remove_pirate -19
+get_richest_pirate -8
+add_ship -7 687
+ships_battle -7 156
+add_pirate -92 2 -57
+get_richest_pirate -12
+ships_battle -92 961
+add_pirate 158 18 999
+ships_battle 158 12
+remove_ship 54
+remove_pirate -13
+update_pirate_treasure 29 268
+ships_battle 29 647
+treason 5 830
+add_pirate 191 -2 72
+add_ship 35 790
+update_pirate_treasure 16 -72
+add_ship -14 -135
+get_richest_pirate 47
+add_pirate -94 -7 154
+get_treasure 53
+add_ship -29 779
+get_richest_pirate -15
+update_pirate_treasure -19 431
+remove_ship 26
+get_richest_pirate 5
+treason 1 856
+ships_battle 1 171
+get_richest_pirate 25
+remove_ship -15
+add_pirate -59 6 651
+get_cannons 43
+add_pirate 83 44 -23
+add_ship 22 587
+add_ship 14 90
+add_pirate 3 55 547
+treason 6 -4
+get_treasure -18
+get_richest_pirate 39
+get_treasure 35
+update_pirate_treasure 30 -98
+get_treasure 26
+remove_ship 19
+treason 3 677
+treason -17 706
+add_pirate 30 25 291
+add_pirate 125 -15 400
+add_pirate 38 45 772
+get_richest_pirate 52
+get_richest_pirate 7
+add_pirate -52 48 468
+get_cannons 14
+remove_pirate 45
+get_cannons 44
+remove_ship 44
+update_pirate_treasure 24 322
+remove_pirate 32
+update_pirate_treasure -25 401
+add_pirate 83 24 912
+update_pirate_treasure -30 333
+remove_ship 28
+get_cannons 10
+get_treasure 31
+remove_ship 38
+get_treasure 33
+treason 10 689
+remove_ship 30
+get_cannons 53
+add_pirate 7 20 441
+get_cannons -6
+add_pirate 6 -11 475
+treason 48 -117
+remove_ship -5
+add_pirate 189 13 -191
+get_richest_pirate -19
+ships_battle 189 637
+treason -22 168
+update_pirate_treasure 9 493
+ships_battle 9 807
+remove_ship 43
+update_pirate_treasure 43 824
+update_pirate_treasure -7 881
+get_richest_pirate 7
+get_richest_pirate 3
+get_cannons -1
+update_pirate_treasure 41 -122
+add_ship 9 493
+get_cannons -16
+get_richest_pirate 19
+add_pirate 163 21 161
+add_pirate 23 -17 492
+remove_pirate 16
+get_richest_pirate -10
+remove_ship 42
+remove_ship -6
+get_treasure 49
+treason 42 -12
+get_cannons -16
+get_richest_pirate 48
+get_cannons 47
+add_ship 23 340
+treason -12 -74
+remove_ship -16
+get_richest_pirate -4
+get_richest_pirate 19
+get_cannons 47
+get_cannons 47
+treason -37 -7
+get_richest_pirate 27
+add_ship 27 926
+get_richest_pirate 42
+remove_ship 41
+get_richest_pirate 3
+get_treasure 24
+get_richest_pirate 23
+remove_pirate -20
+get_treasure -15
+treason -30 645
+get_richest_pirate 19
+get_richest_pirate 1
+get_richest_pirate 55
+get_cannons -7
+add_pirate 11 12 582
+get_treasure 5
+get_treasure -1
+get_richest_pirate -18
+treason -23 153
+remove_pirate 55
+treason -6 760
+remove_pirate 25
+remove_pirate 16
+get_richest_pirate -11
+get_cannons -18
+add_pirate 161 11 450
+ships_battle 161 423
+ships_battle 161 113
+ships_battle 161 897
+get_richest_pirate -10
+update_pirate_treasure 24 404
+add_ship -37 328
+get_treasure 11
+add_pirate 67 47 394
+get_cannons 15
+add_pirate 77 13 28
+add_pirate -72 15 -17
+update_pirate_treasure -13 732
+remove_ship -3
+get_treasure -12
+get_treasure 50
+get_richest_pirate 27
+add_ship 24 -81
+remove_ship 38
+remove_pirate 25
+get_richest_pirate 6
+update_pirate_treasure 34 300
+update_pirate_treasure 26 16
+treason 39 -20
+add_pirate 175 25 428
+remove_pirate 25
+remove_pirate 54
+update_pirate_treasure 11 632
+treason -12 -59
+remove_pirate 13
+add_ship 7 12
+update_pirate_treasure -40 674
+ships_battle -40 317
+get_treasure 50
+update_pirate_treasure 21 894
+get_treasure -18
+treason -40 387
+remove_ship -17
+remove_pirate 6
+add_pirate 169 49 641
+add_ship 11 396
+ships_battle 11 214
+update_pirate_treasure 11 333
+treason -11 311
+get_treasure 41
+ships_battle -11 311
+get_cannons -3
+add_pirate 71 9 536
+get_richest_pirate 8
+add_pirate -41 9 -171
+update_pirate_treasure 22 -16
+get_treasure 10
+remove_pirate 54
+add_pirate -3 48 456
+get_cannons 8
+get_richest_pirate -9
+get_cannons 5
+update_pirate_treasure 27 443
+treason 18 440
+remove_pirate -11
+get_cannons -4
+get_cannons 39
+get_richest_pirate 18
+get_cannons 12
+update_pirate_treasure 43 185
+get_treasure -10
+treason 21 -149
+add_pirate 195 22 946
+get_treasure -20
+add_ship -2 825
+get_richest_pirate 4
+add_ship 28 -135
+remove_pirate 12
+ships_battle 28 528
+remove_pirate -18
+add_pirate 89 1 145
+add_ship 34 -59
+ships_battle 34 975
+get_treasure -6
+add_pirate 104 43 301
+treason 39 92
+add_ship -39 561
+ships_battle -39 856
+update_pirate_treasure 24 700
+get_cannons 33
+add_pirate 25 36 780
+get_richest_pirate -15
+get_richest_pirate -20
+add_pirate -21 50 410
+get_richest_pirate 55
+get_cannons 19
+add_pirate 9 31 448
+treason 35 -96
+get_treasure -18
+ships_battle 35 851
+remove_pirate -9
+get_cannons 36
+remove_ship 0
+add_pirate -14 53 718
+update_pirate_treasure 15 851
+get_treasure 50
+add_ship -33 648
+remove_pirate 21
+add_ship 16 226
+get_richest_pirate -12
+remove_ship 32
+update_pirate_treasure 8 739
+ships_battle 8 197
+add_pirate -12 -17 976
+remove_ship 14
+add_ship 26 -154
+remove_ship 46
+remove_pirate 38
+update_pirate_treasure 15 567
+update_pirate_treasure -17 53
+update_pirate_treasure 15 882
+update_pirate_treasure -6 418
+get_richest_pirate 30
+remove_pirate 43
+treason 38 413
+add_pirate 167 25 116
+add_ship 39 738
+update_pirate_treasure 24 582
+remove_ship 6
+add_ship -36 939
+get_treasure -8
+ships_battle -36 224
+get_cannons 39
+get_treasure 13
+get_treasure 50
+get_treasure -6
+remove_pirate 29
+add_pirate -44 13 -77
+get_cannons -1
+remove_ship 39
+add_pirate 165 -2 551
+update_pirate_treasure -13 404
+remove_ship 33
+remove_pirate 54
+treason 16 -181
+get_richest_pirate 10
+get_cannons 11
+get_richest_pirate -14
+get_richest_pirate 17
+get_treasure 11
+remove_ship -4
+update_pirate_treasure 14 -196
+treason 23 432
+remove_pirate 29
+get_cannons 27
+ships_battle 23 233
+get_richest_pirate -11
+add_ship -39 493
+remove_pirate 52
+get_treasure -2
+get_cannons 42
+update_pirate_treasure -10 398
+get_treasure -7
+add_ship 13 -113
+remove_pirate -9
+add_pirate -3 17 762
+remove_ship -5
+get_cannons -13
+ships_battle -3 307
+get_cannons 1
+ships_battle -3 646
+treason 6 372
+treason 1 534
+add_ship -25 -92
+remove_ship 22
+get_richest_pirate 21
+ships_battle -25 65
+add_ship -25 298
+get_cannons 5
+remove_ship 11
+get_treasure 27
+add_ship 4 522
+remove_ship -9
+add_ship 9 834
+update_pirate_treasure 10 842
+ships_battle 10 264
+get_richest_pirate 46
+get_cannons 27
+add_pirate 198 -17 -78
+add_pirate -60 14 432
+get_richest_pirate 46
+ships_battle -60 475
+get_richest_pirate -2
+ships_battle -60 -8
+update_pirate_treasure -11 326
+remove_pirate 13
+treason 10 25
+update_pirate_treasure -13 647
+update_pirate_treasure 27 284
+add_ship 39 779
+remove_ship 46
+remove_ship 42
+remove_ship 44
+get_cannons 36
+add_pirate 3 52 -113
+treason 16 654
+treason 32 497
+update_pirate_treasure 2 621
+add_pirate 120 9 733
+update_pirate_treasure 20 608
+add_pirate 196 14 387
+add_ship 2 322
+ships_battle 2 471
+update_pirate_treasure -26 197
+update_pirate_treasure -6 232
+get_cannons 48
+remove_ship -19
+get_richest_pirate -14
+add_pirate 49 28 -25
+update_pirate_treasure 44 290
+ships_battle 44 259
+ships_battle 44 337
+treason -35 952
+get_treasure 54
+get_cannons 9
+add_ship -36 615
+get_cannons -11
+get_treasure 39
+remove_ship -20
+add_ship -30 833
+treason -26 206
+ships_battle -26 115
+remove_pirate 25
+get_cannons 21
+remove_ship 11
+get_treasure 5
+remove_pirate 30
+ships_battle -26 748
+treason 43 862
+add_ship 6 409
+update_pirate_treasure -24 691
+add_pirate -12 34 -74
+add_pirate -56 36 -26
+add_ship -18 286
+get_treasure 43
+add_ship 38 614
+remove_ship -2
+add_pirate 23 17 405
+get_richest_pirate 17
+add_pirate 76 7 405
+update_pirate_treasure 15 36
+get_cannons 38
+remove_ship 17
+get_treasure 37
+treason 25 524
+ships_battle 25 13
+remove_ship -14
+remove_ship 30
+remove_pirate 2
+treason -21 266
+remove_ship -13
+add_ship 21 490
+add_ship 43 -179
+ships_battle 43 810
+get_cannons 33
+get_treasure 2
+add_ship 41 218
+get_treasure 35
+remove_pirate 26
+remove_pirate 17
+get_treasure 52
+get_treasure 30
+get_treasure 2
+ships_battle 41 315
+treason -4 616
+remove_ship 27
+get_cannons -20
+remove_pirate 4
+ships_battle -4 869
+remove_pirate 18
+get_richest_pirate 53
+add_ship -5 218
+add_pirate 13 13 394
+get_cannons -5
+ships_battle 13 408
+ships_battle 13 374
+ships_battle 13 814
+remove_pirate 54
+remove_ship -13
+get_treasure 16
+treason -1 42
+add_pirate -19 -16 -43
+remove_pirate 41
+ships_battle -19 68
+remove_ship -6
+get_richest_pirate 21
+add_pirate -39 -18 980
+get_cannons 45
+get_richest_pirate 22
+remove_pirate 26
+remove_pirate 36
+treason -25 29
+remove_ship -7
+get_treasure 1
+remove_pirate 34
+get_cannons 8
+treason 27 477
+remove_pirate 4
+update_pirate_treasure -31 -60
+remove_ship -3
+ships_battle -31 793
+add_ship 19 -185
+update_pirate_treasure -33 927
+add_pirate -100 -1 842
+remove_pirate 49
+remove_pirate 31
+add_ship -40 21
+treason -21 157
+remove_ship 4
+treason -35 365
+add_pirate 133 -1 -155
+get_richest_pirate 48
+treason 20 -73
+add_pirate 196 7 206
+get_cannons 8
+treason 29 120
+get_treasure 49
+ships_battle 29 736
+ships_battle 29 368
+add_pirate 111 -3 671
+add_ship 30 929
+remove_ship 36
+treason -39 836
+get_richest_pirate -4
+remove_ship 50
+update_pirate_treasure -26 132
+get_richest_pirate 36
+add_pirate -85 -3 251
+remove_pirate -5
+treason -17 -46
+treason 7 -171
+get_cannons 23
+ships_battle 7 368
+remove_ship -8
+remove_pirate 28
+ships_battle 7 233
+treason -3 -36
+add_pirate -47 29 941
+get_treasure 48
+update_pirate_treasure -26 128
+get_richest_pirate 22
+update_pirate_treasure -29 261
+update_pirate_treasure 42 238
+get_cannons 17
+get_treasure 7
+treason 12 991
+remove_pirate -11
+ships_battle 12 797
+update_pirate_treasure 12 178
+remove_ship 48
+get_cannons -19
+update_pirate_treasure 45 21
+get_cannons -3
+get_treasure -11
+remove_ship -1
+get_treasure 20
+treason 39 916
+treason -37 -180
+get_richest_pirate 4
+treason 27 660
+get_cannons -18
+remove_ship 0
+get_cannons 17
+add_pirate 92 37 81
+remove_ship 50
+get_cannons -10
+get_cannons 45
+get_treasure 26
+remove_ship 2
+treason -15 -40
+add_ship 7 422
+get_cannons 35
+add_pirate 5 23 996
+ships_battle 5 919
+ships_battle 5 59
+add_ship -35 283
+ships_battle -35 476
+ships_battle -35 952
+get_treasure -8
+add_pirate -87 1 222
+get_treasure 24
+update_pirate_treasure 21 469
+update_pirate_treasure 5 14
+treason -36 -33
+add_ship -1 -195
+remove_pirate 45
+treason 24 434
+ships_battle 24 199
+remove_pirate -8
+get_treasure 55
+remove_ship 7
+get_cannons 21
+remove_pirate -16
+add_ship 9 810
+get_treasure -3
+get_cannons 9
+remove_ship -7
+get_treasure 11
+remove_ship 12
+get_cannons -20
+get_cannons -15
+get_richest_pirate 33
+ships_battle 9 715
+remove_pirate -11
+get_treasure 12
+get_cannons -13
+add_pirate -95 50 -169
+add_pirate -92 53 769
+get_richest_pirate -4
+get_richest_pirate 6
+get_cannons -11
+get_treasure 46
+add_ship -9 342
+get_richest_pirate 10
+remove_pirate 48
+treason 38 883
+get_cannons 35
+ships_battle 38 235
+add_ship -39 487
+add_ship 13 -63
+get_richest_pirate 30
+get_treasure -1
+add_pirate 171 -4 -96
+add_ship 40 15
+ships_battle 40 711
+remove_ship 14
+get_treasure 3
+ships_battle 40 630
+remove_pirate 32
+remove_pirate 0
+treason 24 653
+treason 3 673
+remove_ship -19
+get_cannons 27
+add_ship 5 368
+remove_pirate 9
+remove_pirate 25
+get_treasure 29
+get_treasure 24
+add_pirate 23 28 753
+remove_ship 27
+get_richest_pirate -9
+get_treasure 40
+treason -10 33
+get_treasure 18
+get_cannons -4
+get_treasure -6
+get_richest_pirate 6
+add_pirate 48 -11 871
+remove_pirate 54
+remove_pirate 37
+treason -30 882
+treason -26 594
+get_cannons 18
+remove_pirate 32
+get_richest_pirate 19
+remove_ship 45
+remove_pirate 53
+remove_pirate 28
+update_pirate_treasure -23 656
+add_ship -37 936
+remove_ship 37
+get_treasure -4
+treason 39 553
+get_treasure 19
+get_treasure 0
+get_cannons -17
+remove_ship 40
+ships_battle 39 527
+treason -1 663
+get_treasure 15
+get_richest_pirate 28
+update_pirate_treasure -20 -49
+remove_ship 23
+add_ship -39 704
+remove_ship 49
+remove_ship 13
+update_pirate_treasure -34 523
+remove_ship 21
+remove_pirate 18
+update_pirate_treasure 34 777
+remove_pirate 53
+add_ship 13 963
+remove_ship 38
+remove_ship 47
+get_cannons 1
+get_treasure -8
+treason -19 355
+remove_ship 29
+add_pirate -12 21 -75
+treason -27 137
+remove_pirate 16
+get_treasure 52
+get_treasure 2
+get_richest_pirate -13
+get_richest_pirate 38
+treason 20 723
+update_pirate_treasure 48 -4
+get_treasure 44
+get_treasure 10
+update_pirate_treasure 14 21
+get_cannons 31
+get_treasure 48
+get_treasure 50
+remove_pirate 2
+treason 19 -144
+add_pirate 4 -18 149
+get_cannons 12
+add_pirate -91 41 -178
+get_richest_pirate 38
+get_richest_pirate -11
+add_pirate 170 -10 609
+remove_ship 19
+add_ship -38 -19
+get_treasure 26
+ships_battle -38 975
+remove_ship 6
+get_cannons -17
+remove_ship -13
+get_cannons 44
+get_treasure -18
+get_treasure 11
+get_richest_pirate -5
+get_richest_pirate 44
+add_ship -19 228
+get_richest_pirate 50
+update_pirate_treasure -14 336
+remove_ship 19
+add_ship -22 859
+ships_battle -22 -3
+get_cannons 52
+update_pirate_treasure 13 -144
+add_pirate 21 48 684
+get_treasure 33
+add_ship 5 852
+remove_pirate -14
+ships_battle 5 416
+treason 40 872
+get_richest_pirate 5
+ships_battle 40 411
+update_pirate_treasure 26 12
+treason 25 368
+remove_pirate 3
+remove_pirate 43
+remove_pirate 0
+get_richest_pirate 24
+add_pirate 60 -12 55
+add_ship -39 418
+update_pirate_treasure -13 605
+update_pirate_treasure 4 989
+add_ship 45 536
+get_richest_pirate 3
+ships_battle 45 205
+get_cannons -12
+remove_pirate 5
+get_richest_pirate 52
+remove_ship -7
+get_treasure -19
+add_pirate 0 -4 -188
+update_pirate_treasure 48 226
+update_pirate_treasure 24 523
+update_pirate_treasure -26 175
+get_cannons -6
+ships_battle -26 944
+add_pirate -55 55 310
+get_richest_pirate 51
+get_richest_pirate 55
+remove_ship 8
+get_treasure 53
+update_pirate_treasure 43 609
+add_ship -27 790
+remove_ship 15
+treason 43 245
+ships_battle 43 604
+treason 37 -103
+add_ship 48 995
+remove_pirate 23
+get_richest_pirate 45
+get_richest_pirate 6
+remove_pirate 0
+remove_ship 28
+add_ship 42 146
+ships_battle 42 806
+get_treasure 40
+add_pirate -86 55 751
+ships_battle -86 613
+get_richest_pirate 28
+update_pirate_treasure -31 1
+get_richest_pirate -13
+remove_pirate 24
+get_richest_pirate -2
+treason 8 644
+get_treasure -11
+add_pirate 69 27 141
+update_pirate_treasure -9 992
+get_cannons -7
+add_pirate 60 8 770
+get_cannons 21
+get_richest_pirate 21
+ships_battle 60 91
+treason 46 -119
+get_richest_pirate -1
+get_cannons 35
+ships_battle 46 406
+ships_battle 46 539
+add_ship -28 303
+get_treasure 32
+treason -38 274
+remove_pirate 48
+add_pirate 17 19 490
+get_cannons 42
+get_richest_pirate 18
+remove_ship 14
+ships_battle 17 268
+remove_ship 33
+get_richest_pirate 14
+get_treasure 47
+treason -8 749
+treason 31 323
+remove_ship -9
+remove_pirate 48
+add_ship -12 95
+ships_battle -12 874
+add_ship -5 274
+add_pirate -40 -9 323
+add_pirate 99 26 151
+get_treasure 37
+get_richest_pirate 11
+treason -4 305
+get_cannons -16
+treason -37 985
+add_ship -17 178
+get_richest_pirate 47
+get_richest_pirate -5
+get_cannons 28
+remove_ship 23
+get_richest_pirate 53
+update_pirate_treasure -9 540
+ships_battle -9 491
+add_ship -18 650
+remove_ship 48
+ships_battle -18 687
+get_cannons 36
+remove_ship -11
+add_ship 41 226
+get_richest_pirate 21
+remove_pirate 26
+get_cannons -3
+update_pirate_treasure -25 874
+add_pirate -10 13 336
+add_pirate 123 -14 -81
+add_pirate 116 34 929
+remove_pirate 5
+add_pirate 127 36 770
+remove_pirate 22
+add_ship 1 966
+ships_battle 1 321
+add_ship 43 -124
+treason -24 499
+remove_pirate 31
+update_pirate_treasure 14 34
+remove_pirate 34
+update_pirate_treasure -18 479
+treason -23 724
+remove_pirate 47
+add_ship -8 798
+ships_battle -8 334
+update_pirate_treasure -35 -92
+remove_pirate -15
+treason 2 895
+remove_ship 15
+add_pirate 32 45 638
+remove_pirate 3
+add_ship 47 698
+remove_pirate 0
+get_treasure 36
+get_cannons 29
+add_pirate 117 -13 -197
+remove_ship 44
+get_richest_pirate -12
+get_treasure -10
+remove_ship -18
+remove_pirate -17
+update_pirate_treasure 49 59
+get_treasure -7
+ships_battle 49 855
+get_treasure 53
+get_richest_pirate 45
+get_richest_pirate 0
+remove_pirate 34
+remove_pirate 45
+get_cannons 0
+get_richest_pirate -9
+update_pirate_treasure 21 816
+get_cannons 20
+get_treasure 50
+treason 3 -55
+remove_ship -16
+update_pirate_treasure -9 340
+get_cannons -12
+get_treasure 12
+get_richest_pirate 9
+get_cannons -11
+ships_battle -9 570
+treason -5 507
+ships_battle -5 300
+add_pirate 117 20 605
+get_richest_pirate 22
+get_treasure -4
+remove_pirate 36
+treason 18 458
+update_pirate_treasure 8 317
+add_pirate 150 51 129
+add_ship -16 393
+get_treasure 28
+get_treasure 22
+update_pirate_treasure -38 357
+treason 45 339
+update_pirate_treasure -26 284
+get_richest_pirate 48
+add_ship -4 790
+get_cannons 42
+update_pirate_treasure 8 454
+add_pirate 142 35 988
+add_pirate 182 -3 197
+ships_battle 182 30
+get_treasure -20
+add_pirate 141 22 398
+get_richest_pirate 55
+treason 34 791
+get_richest_pirate 20
+ships_battle 34 901
+get_treasure 43
+treason -7 15
+remove_pirate 7
+remove_pirate 47
+get_cannons 5
+treason -30 -34
+get_richest_pirate 40
+ships_battle -30 424
+update_pirate_treasure -22 327
+get_treasure 36
+update_pirate_treasure 24 -93
+get_cannons 27
+add_pirate -99 6 944
+remove_ship 26
+update_pirate_treasure 29 624
+remove_ship 3
+add_ship -35 51
+treason 42 201
+remove_ship -3
+remove_ship 37
+get_cannons 22
+remove_ship 28
+ships_battle 42 289
+ships_battle 42 185
+add_pirate -65 44 461
+treason 15 25
+get_cannons 2
+remove_ship 34
+get_treasure 0
+treason -9 90
+get_richest_pirate 47
+get_richest_pirate -12
+get_richest_pirate -19
+treason 47 235
+get_treasure -19
+ships_battle 47 705
+get_treasure 18
+treason 30 172
+add_pirate 4 48 26
+get_richest_pirate 39
+ships_battle 4 732
+add_pirate 139 31 -93
+get_richest_pirate 9
+get_treasure 26
+update_pirate_treasure -36 389
+get_richest_pirate 32
+get_treasure 43
+treason -17 894
+add_ship 48 224
+add_ship -34 886
+get_richest_pirate 46
+add_ship -6 32
+ships_battle -6 551
+get_richest_pirate 1
+get_treasure 14
+update_pirate_treasure -30 837
+get_richest_pirate 14
+ships_battle -30 255
+get_treasure 49
+remove_pirate 18
+update_pirate_treasure -19 642
+remove_pirate 11
+get_cannons 4
+add_pirate 84 36 550
+update_pirate_treasure 18 124
+get_richest_pirate 29
+ships_battle 18 359
+add_pirate -76 45 103
+get_cannons 0
+get_cannons 0
+get_richest_pirate 32
+treason 0 557
+get_richest_pirate -19
+get_richest_pirate 38
+remove_ship 40
+add_pirate 25 1 -186
+add_ship -28 422
+get_richest_pirate 25
+add_ship -20 674
+remove_ship 10
+add_ship 23 25
+add_pirate 45 39 122
+get_treasure -16
+update_pirate_treasure 49 689
+add_ship 3 552
+remove_pirate -19
+ships_battle 3 568
+remove_ship 42
+treason -37 -57
+remove_pirate 55
+get_cannons 21
+ships_battle -37 157
+get_treasure 6
+add_pirate 161 7 140
+get_cannons 38
+update_pirate_treasure -15 655
+get_treasure 18
+ships_battle -15 228
+add_pirate 60 11 846
+add_ship -6 757
+remove_pirate 5
+treason -9 -137
+get_cannons -1
+update_pirate_treasure -2 530
+update_pirate_treasure -37 -123
+update_pirate_treasure -14 322
+update_pirate_treasure -29 156
+ships_battle -29 91
+get_treasure -3
+get_richest_pirate 36
+remove_pirate 12
+add_ship 1 143
+get_treasure -16
+get_treasure -15
+remove_pirate 32
+remove_ship 3
+remove_ship -11
+add_pirate -31 14 873
+ships_battle -31 926
+remove_ship 48
+add_ship -33 -143
+get_cannons 31
+get_cannons -6
+add_ship 33 31
+update_pirate_treasure 19 -92
+get_treasure 34
+get_richest_pirate 44
+get_cannons 25
+add_ship -8 886
+ships_battle -8 606
+add_ship -13 273
+treason 45 803
+get_richest_pirate 27
+remove_pirate 51
+treason -5 314
+add_pirate 55 41 518
+add_ship -12 -60
+update_pirate_treasure -37 -166
+remove_pirate -5
+get_treasure 5
