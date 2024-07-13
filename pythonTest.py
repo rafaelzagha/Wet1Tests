@@ -60,11 +60,11 @@ def run_levelAPlus(exe_path):
 def run_levelB(exe_path):
     timeout = 15
     for i in range(1, 101):
-        input_prefix = "input/testLevelB"
+        input_prefix = "input2/testLevelB"
         output_prefix = "output/TestLevelB"
         input_path = f"{input_prefix}{i}.in"
         output_path = f"{output_prefix}{i}.out"
-        test_output_path = f"testOutput/testLevelB{i}.out"
+        test_output_path = f"testOutput2/TestLevelB{i}.out"
         valgrind_output_path = f"valgrindOutput/testLevelB{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
@@ -73,11 +73,11 @@ def run_levelB(exe_path):
 def run_levelC(exe_path):
     timeout = 15
     for i in range(1, 51):
-        input_prefix = "input/testLevelC"
+        input_prefix = "input3/testLevelC"
         output_prefix = "output/TestLevelC"
         input_path = f"{input_prefix}{i}.in"
         output_path = f"{output_prefix}{i}.out"
-        test_output_path = f"testOutput/testLevelC{i}.out"
+        test_output_path = f"testOutput3/TestLevelC{i}.out"
         valgrind_output_path = f"valgrindOutput/testLevelC{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
@@ -86,11 +86,11 @@ def run_levelC(exe_path):
 def run_levelD(exe_path):
     timeout = 30
     for i in range(1, 21):
-        input_prefix = "input/testLevelD"
+        input_prefix = "input3/testLevelD"
         output_prefix = "output/TestLevelD"
         input_path = f"{input_prefix}{i}.in"
         output_path = f"{output_prefix}{i}.out"
-        test_output_path = f"testOutput/testLevelD{i}.out"
+        test_output_path = f"testOutput3/TestLevelD{i}.out"
         valgrind_output_path = f"valgrindOutput/testLevelD{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
@@ -99,11 +99,11 @@ def run_levelD(exe_path):
 def run_levelZ(exe_path):
     timeout = 60
     for i in range(1, 11):
-        input_prefix = "input/testLevelZ"
+        input_prefix = "input3/testLevelZ"
         output_prefix = "output/TestLevelZ"
         input_path = f"{input_prefix}{i}.in"
         output_path = f"{output_prefix}{i}.out"
-        test_output_path = f"testOutput/testLevelZ{i}.out"
+        test_output_path = f"testOutput3/TestLevelZ{i}.out"
         valgrind_output_path = f"valgrindOutput/testLevelZ{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
