@@ -9,7 +9,7 @@ def run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, 
                 subprocess.run([exe_path], stdin=input_file, stdout=output_file, timeout=timeout)
                 valgrind_process = subprocess.run(['valgrind', '--leak-check=full', '--log-file=' + valgrind_output_path, exe_path], stdin=input_file, stderr=subprocess.PIPE, timeout=timeout)
     except subprocess.TimeoutExpired:
-        print(f"{os.path.basename(input_path)}: TIMED OUT")
+        print(f"{os.path.basename(input_path)}: \033[91mTIMED OUT\033[0m")
         return False, False
 
     output_passed = filecmp.cmp(test_output_path, output_path)
@@ -20,6 +20,16 @@ def run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, 
     memory_passed = "ERROR SUMMARY: 0 errors" in valgrind_output
 
     return output_passed, memory_passed
+
+def print_result(test_name, index, output_passed, memory_passed):
+    if output_passed and memory_passed:
+        print(f"{test_name} {index}: \033[92mPASSED\033[0m, MEMORY: \033[92mPASSED\033[0m")
+    elif output_passed:
+        print(f"{test_name} {index}: \033[92mPASSED\033[0m, MEMORY: \033[91mFAILED\033[0m")
+    elif memory_passed:
+        print(f"{test_name} {index}: \033[91mFAILED\033[0m, MEMORY: \033[92mPASSED\033[0m")
+    else:
+        print(f"{test_name} {index}: \033[91mFAILED\033[0m, MEMORY: \033[91mFAILED\033[0m")
 
 def run_levelA(exe_path):
     timeout = 10
@@ -32,14 +42,7 @@ def run_levelA(exe_path):
         valgrind_output_path = f"valgrindOutput/TestLevelA{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelA {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelA {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelA {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelA {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelA", i, output_passed, memory_passed)
 
 def run_levelAPlus(exe_path):
     timeout = 15
@@ -52,14 +55,7 @@ def run_levelAPlus(exe_path):
         valgrind_output_path = f"valgrindOutput/TestLevelAPlus{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelAPlus {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelAPlus {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelAPlus {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelAPlus {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelAPlus", i, output_passed, memory_passed)
 
 def run_levelB(exe_path):
     timeout = 15
@@ -72,14 +68,7 @@ def run_levelB(exe_path):
         valgrind_output_path = f"valgrindOutput/testLevelB{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelB {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelB {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelB {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelB {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelB", i, output_passed, memory_passed)
 
 def run_levelC(exe_path):
     timeout = 15
@@ -92,14 +81,7 @@ def run_levelC(exe_path):
         valgrind_output_path = f"valgrindOutput/testLevelC{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelC {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelC {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelC {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelC {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelC", i, output_passed, memory_passed)
 
 def run_levelD(exe_path):
     timeout = 30
@@ -112,14 +94,7 @@ def run_levelD(exe_path):
         valgrind_output_path = f"valgrindOutput/testLevelD{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelD {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelD {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelD {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelD {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelD", i, output_passed, memory_passed)
 
 def run_levelZ(exe_path):
     timeout = 60
@@ -132,14 +107,7 @@ def run_levelZ(exe_path):
         valgrind_output_path = f"valgrindOutput/testLevelZ{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testLevelZ {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testLevelZ {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testLevelZ {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testLevelZ {i}: FAILED, MEMORY: FAILED")
+        print_result("testLevelZ", i, output_passed, memory_passed)
 
 def run_BattleTreason(exe_path):
     timeout = 5
@@ -152,17 +120,10 @@ def run_BattleTreason(exe_path):
         valgrind_output_path = f"valgrindOutput/testBattleTreason{i}.log"
 
         output_passed, memory_passed = run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout)
-        if output_passed and memory_passed:
-            print(f"testBattleTreason {i}: PASSED, MEMORY: PASSED")
-        elif output_passed:
-            print(f"testBattleTreason {i}: PASSED, MEMORY: FAILED")
-        elif memory_passed:
-            print(f"testBattleTreason {i}: FAILED, MEMORY: PASSED")
-        else:
-            print(f"testBattleTreason {i}: FAILED, MEMORY: FAILED")
+        print_result("testBattleTreason", i, output_passed, memory_passed)
 
 if __name__ == "__main__":
-    exe_path = "a.exe"
+    exe_path = "./a.out"
     output_directory = "output"
     valgrind_output_directory = "valgrindOutput"
 
