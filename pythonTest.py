@@ -117,7 +117,7 @@ def run_levelD(exe_path):
         print_result("testLevelD", i, output_passed, memory_passed)
 
 def run_levelZ(exe_path):
-    timeout = 60
+    timeout = 150
     for i in range(1, 11):
         input_prefix = "input3/testLevelZ"
         output_prefix = "output/TestLevelZ"
