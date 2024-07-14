@@ -145,5 +145,5 @@ if __name__ == "__main__":
     run_levelD(exe_path)
     print("************************** Tests Level Z (IDK at this point?) **************************")
     run_levelZ(exe_path)
-    print("************************** EXTRA battle+ treason Test (Special)  **************************")
+    print("************************** Dracarys Level threat. thanks to abbuss, first of his name, king of the andals and the first men...)  **************************")
     run_BattleTreason(exe_path)
