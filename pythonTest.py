@@ -20,7 +20,6 @@ def run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, 
     memory_passed = "ERROR SUMMARY: 0 errors" in valgrind_output
 
     return output_passed, memory_passed
-
 def print_result(test_name, index, output_passed, memory_passed):
     if output_passed and memory_passed:
         print(f"{test_name} {index}: \033[92mPASSED\033[0m, MEMORY: \033[92mPASSED\033[0m")
@@ -145,5 +144,5 @@ if __name__ == "__main__":
     run_levelD(exe_path)
     print("************************** Tests Level Z (IDK at this point?) **************************")
     run_levelZ(exe_path)
-    print("************************** Dracarys Level threat. thanks to abbuss, first of his name, king of the andals and the first men...)  **************************")
+    print("****************************  @mabusalieh Special, King of the Andals and the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm. Rider of Khalisee of the great grass sea,the Unburnt, Queen of Meereen, Breaker of Chains and Mother of Dragons.  *****************************")
     run_BattleTreason(exe_path)
