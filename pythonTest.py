@@ -2,12 +2,32 @@ import subprocess
 import filecmp
 import os
 
+import subprocess
+import filecmp
+import os
+
 def run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, valgrind_output_path, timeout):
     try:
         with open(input_path, 'r') as input_file:
             with open(output_path, 'w') as output_file:
-                subprocess.run([exe_path], stdin=input_file, stdout=output_file, timeout=timeout)
-                valgrind_process = subprocess.run(['valgrind', '--leak-check=full', '--log-file=' + valgrind_output_path, exe_path], stdin=input_file, stderr=subprocess.PIPE, timeout=timeout)
+                # Run the executable and redirect input and output
+                subprocess.run(
+                    [exe_path],
+                    stdin=input_file,
+                    stdout=output_file,
+                    stderr=subprocess.DEVNULL,  # Suppress stderr
+                    timeout=timeout
+                )
+
+            # Reset input file pointer and run Valgrind with the same input file
+            input_file.seek(0)
+            valgrind_process = subprocess.run(
+                ['valgrind', '--leak-check=full', '--log-file=' + valgrind_output_path, exe_path],
+                stdin=input_file,
+                stdout=subprocess.DEVNULL,  # Suppress stdout
+                stderr=subprocess.DEVNULL,  # Suppress stderr
+                timeout=timeout
+            )
     except subprocess.TimeoutExpired:
         print(f"{os.path.basename(input_path)}: \033[91mTIMED OUT\033[0m")
         return False, False
@@ -20,6 +40,7 @@ def run_test_with_valgrind(exe_path, input_path, output_path, test_output_path, 
     memory_passed = "ERROR SUMMARY: 0 errors" in valgrind_output
 
     return output_passed, memory_passed
+
 def print_result(test_name, index, output_passed, memory_passed):
     if output_passed and memory_passed:
         print(f"{test_name} {index}: \033[92mPASSED\033[0m, MEMORY: \033[92mPASSED\033[0m")
