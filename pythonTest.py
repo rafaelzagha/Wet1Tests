@@ -159,7 +159,7 @@ if __name__ == "__main__":
     run_levelAPlus(exe_path)
     print("****************************  The Companion Bebo (Medium) ****************************")
     run_levelB(exe_path)
-    print("***************************** Tests Level C (Hard) *****************************")
+    print("***************************** Shadi BTMN (Hard) *****************************")
     run_levelC(exe_path)
     print("***************************** The one and only 2pifeeq (Impossible) *****************************")
     run_levelD(exe_path)
