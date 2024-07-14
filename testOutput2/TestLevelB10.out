@@ -1,0 +1,1060 @@
+add_ship: SUCCESS
+add_ship: SUCCESS
+add_ship: SUCCESS
+add_pirate: FAILURE
+add_ship: SUCCESS
+add_ship: SUCCESS
+add_ship: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_ship: SUCCESS
+add_pirate: SUCCESS
+add_ship: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_ship: SUCCESS
+add_pirate: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+get_richest_pirate: FAILURE
+get_treasure: SUCCESS, 62
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_treasure: SUCCESS, 56
+remove_pirate: SUCCESS
+remove_pirate: FAILURE
+remove_ship: SUCCESS
+remove_ship: FAILURE
+get_cannons: SUCCESS, 849
+get_cannons: SUCCESS, 849
+add_pirate: SUCCESS
+add_pirate: FAILURE
+get_richest_pirate: SUCCESS, 8
+add_ship: SUCCESS
+remove_ship: FAILURE
+add_ship: SUCCESS
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+remove_ship: FAILURE
+get_cannons: SUCCESS, 609
+treason: FAILURE
+remove_pirate: SUCCESS
+get_treasure: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+add_pirate: SUCCESS
+get_richest_pirate: FAILURE
+add_pirate: SUCCESS
+get_cannons: FAILURE
+get_treasure: SUCCESS, 56
+remove_ship: FAILURE
+update_pirate_treasure: FAILURE
+treason: INVALID_INPUT
+get_cannons: SUCCESS, 609
+add_pirate: SUCCESS
+remove_pirate: SUCCESS
+add_ship: SUCCESS
+update_pirate_treasure: FAILURE
+add_ship: SUCCESS
+add_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_cannons: SUCCESS, 826
+remove_ship: FAILURE
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 609
+get_cannons: FAILURE
+get_richest_pirate: SUCCESS, 36
+get_treasure: FAILURE
+treason: FAILURE
+get_richest_pirate: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 7
+remove_pirate: SUCCESS
+add_pirate: FAILURE
+add_ship: SUCCESS
+treason: FAILURE
+remove_pirate: SUCCESS
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 978
+get_treasure: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: FAILURE
+remove_pirate: FAILURE
+add_pirate: FAILURE
+add_ship: SUCCESS
+get_treasure: SUCCESS, 130
+get_treasure: SUCCESS, 95
+add_ship: SUCCESS
+get_richest_pirate: FAILURE
+add_pirate: FAILURE
+add_ship: SUCCESS
+add_ship: SUCCESS
+get_richest_pirate: SUCCESS, 36
+remove_pirate: SUCCESS
+get_treasure: FAILURE
+add_ship: SUCCESS
+add_pirate: FAILURE
+get_cannons: SUCCESS, 83
+get_treasure: FAILURE
+add_pirate: SUCCESS
+get_treasure: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 978
+update_pirate_treasure: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+get_cannons: FAILURE
+add_pirate: SUCCESS
+remove_ship: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: SUCCESS, 130
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 978
+get_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 609
+add_ship: SUCCESS
+treason: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 37
+add_pirate: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 42
+treason: FAILURE
+update_pirate_treasure: FAILURE
+get_richest_pirate: SUCCESS, 39
+get_cannons: SUCCESS, 609
+get_richest_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+remove_ship: SUCCESS
+remove_ship: FAILURE
+treason: SUCCESS
+get_cannons: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+treason: FAILURE
+get_cannons: SUCCESS, 13
+update_pirate_treasure: FAILURE
+add_pirate: SUCCESS
+add_ship: FAILURE
+get_cannons: SUCCESS, 849
+add_ship: SUCCESS
+add_pirate: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+get_cannons: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+treason: SUCCESS
+add_ship: SUCCESS
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 13
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_treasure: SUCCESS, 136
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+get_cannons: SUCCESS, 849
+add_pirate: SUCCESS
+get_richest_pirate: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+get_treasure: SUCCESS, 136
+remove_pirate: SUCCESS
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+add_pirate: FAILURE
+add_ship: SUCCESS
+remove_pirate: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: SUCCESS
+add_ship: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+add_ship: SUCCESS
+add_pirate: FAILURE
+get_treasure: FAILURE
+get_cannons: SUCCESS, 83
+remove_pirate: FAILURE
+get_cannons: FAILURE
+remove_pirate: FAILURE
+get_cannons: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: SUCCESS
+add_pirate: SUCCESS
+remove_ship: SUCCESS
+remove_pirate: SUCCESS
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 701
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 18
+get_cannons: SUCCESS, 978
+add_pirate: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+get_cannons: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_richest_pirate: FAILURE
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+get_cannons: FAILURE
+remove_ship: FAILURE
+add_pirate: FAILURE
+remove_ship: SUCCESS
+add_ship: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+get_cannons: FAILURE
+get_cannons: SUCCESS, 701
+get_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+add_ship: SUCCESS
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 24
+get_cannons: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: FAILURE
+get_richest_pirate: FAILURE
+get_richest_pirate: SUCCESS, 24
+get_richest_pirate: SUCCESS, 25
+add_ship: SUCCESS
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: FAILURE
+treason: FAILURE
+update_pirate_treasure: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 8
+treason: FAILURE
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+add_pirate: FAILURE
+remove_pirate: FAILURE
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+get_cannons: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+remove_ship: SUCCESS
+get_cannons: SUCCESS, 978
+get_cannons: SUCCESS, 8
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 24
+remove_pirate: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+get_cannons: SUCCESS, 826
+update_pirate_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 25
+get_richest_pirate: SUCCESS, 37
+add_ship: FAILURE
+get_cannons: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 83
+get_cannons: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: FAILURE
+add_ship: SUCCESS
+get_treasure: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+add_pirate: SUCCESS
+update_pirate_treasure: SUCCESS
+get_richest_pirate: SUCCESS, 33
+get_cannons: FAILURE
+add_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+treason: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+add_ship: SUCCESS
+get_cannons: SUCCESS, 701
+treason: FAILURE
+add_ship: SUCCESS
+remove_pirate: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+add_pirate: FAILURE
+get_treasure: FAILURE
+remove_ship: SUCCESS
+get_cannons: SUCCESS, 49
+add_ship: SUCCESS
+add_ship: SUCCESS
+remove_ship: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+get_cannons: FAILURE
+add_ship: FAILURE
+get_cannons: SUCCESS, 49
+get_cannons: SUCCESS, 701
+get_richest_pirate: FAILURE
+remove_ship: SUCCESS
+remove_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 25
+add_pirate: FAILURE
+update_pirate_treasure: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+add_pirate: FAILURE
+remove_ship: SUCCESS
+get_treasure: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 33
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 978
+add_pirate: SUCCESS
+treason: FAILURE
+add_ship: SUCCESS
+get_cannons: FAILURE
+get_cannons: SUCCESS, 826
+treason: FAILURE
+add_ship: SUCCESS
+add_pirate: FAILURE
+get_richest_pirate: SUCCESS, 25
+add_ship: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 20
+get_richest_pirate: FAILURE
+get_richest_pirate: FAILURE
+get_richest_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 25
+add_pirate: SUCCESS
+remove_ship: SUCCESS
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+get_richest_pirate: SUCCESS, 18
+add_pirate: SUCCESS
+get_richest_pirate: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+add_pirate: SUCCESS
+remove_ship: FAILURE
+treason: FAILURE
+update_pirate_treasure: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 18
+get_richest_pirate: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: FAILURE
+get_treasure: SUCCESS, 50
+add_ship: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: SUCCESS, 32
+get_treasure: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+add_pirate: SUCCESS
+remove_pirate: SUCCESS
+treason: FAILURE
+get_cannons: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+get_cannons: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+add_ship: FAILURE
+get_cannons: SUCCESS, 83
+treason: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 978
+add_pirate: FAILURE
+update_pirate_treasure: FAILURE
+treason: FAILURE
+add_pirate: FAILURE
+get_cannons: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 8
+remove_pirate: FAILURE
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 83
+remove_ship: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: SUCCESS
+remove_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 849
+add_ship: FAILURE
+get_cannons: SUCCESS, 8
+get_cannons: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 32
+update_pirate_treasure: FAILURE
+get_richest_pirate: SUCCESS, 19
+treason: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+get_cannons: FAILURE
+get_richest_pirate: SUCCESS, 19
+update_pirate_treasure: FAILURE
+get_treasure: FAILURE
+add_ship: SUCCESS
+add_pirate: SUCCESS
+get_richest_pirate: SUCCESS, 18
+treason: FAILURE
+get_cannons: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+get_cannons: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+add_pirate: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: FAILURE
+add_pirate: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+treason: FAILURE
+add_pirate: SUCCESS
+get_treasure: FAILURE
+get_cannons: FAILURE
+add_ship: FAILURE
+add_ship: FAILURE
+get_cannons: FAILURE
+get_cannons: SUCCESS, 826
+treason: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 849
+remove_pirate: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+add_ship: SUCCESS
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+get_richest_pirate: FAILURE
+get_richest_pirate: SUCCESS, 19
+get_richest_pirate: FAILURE
+get_cannons: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+treason: FAILURE
+get_cannons: SUCCESS, 8
+remove_pirate: FAILURE
+add_ship: SUCCESS
+get_cannons: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 33
+get_cannons: SUCCESS, 978
+add_ship: FAILURE
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 849
+remove_ship: FAILURE
+treason: SUCCESS
+get_richest_pirate: SUCCESS, 47
+remove_pirate: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+add_pirate: FAILURE
+get_richest_pirate: SUCCESS, 47
+get_cannons: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+get_treasure: SUCCESS, 73
+add_ship: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+treason: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 25
+update_pirate_treasure: FAILURE
+remove_ship: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+get_treasure: SUCCESS, 73
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+get_cannons: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+get_treasure: FAILURE
+add_pirate: SUCCESS
+get_treasure: FAILURE
+add_pirate: FAILURE
+update_pirate_treasure: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 44
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 38
+get_cannons: SUCCESS, 701
+add_ship: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 25
+remove_pirate: FAILURE
+remove_ship: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 19
+get_cannons: FAILURE
+treason: FAILURE
+remove_pirate: FAILURE
+remove_pirate: FAILURE
+add_pirate: SUCCESS
+update_pirate_treasure: FAILURE
+add_pirate: SUCCESS
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 38
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+get_cannons: FAILURE
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 8
+get_cannons: FAILURE
+remove_ship: FAILURE
+treason: FAILURE
+get_cannons: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: SUCCESS
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 8
+get_richest_pirate: SUCCESS, 25
+get_treasure: FAILURE
+add_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+treason: SUCCESS
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 32
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+add_ship: SUCCESS
+get_richest_pirate: SUCCESS, 32
+get_cannons: FAILURE
+get_treasure: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+get_cannons: SUCCESS, 826
+remove_ship: FAILURE
+add_pirate: SUCCESS
+remove_pirate: FAILURE
+remove_ship: FAILURE
+get_cannons: SUCCESS, 44
+get_cannons: FAILURE
+add_ship: SUCCESS
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: SUCCESS
+get_cannons: FAILURE
+update_pirate_treasure: SUCCESS
+add_pirate: SUCCESS
+remove_pirate: SUCCESS
+update_pirate_treasure: SUCCESS
+get_cannons: SUCCESS, 978
+remove_pirate: FAILURE
+remove_ship: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+update_pirate_treasure: FAILURE
+get_richest_pirate: SUCCESS, 33
+get_cannons: SUCCESS, 849
+add_pirate: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+add_pirate: SUCCESS
+update_pirate_treasure: FAILURE
+get_cannons: SUCCESS, 47
+add_pirate: SUCCESS
+treason: FAILURE
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 15
+update_pirate_treasure: FAILURE
+remove_ship: SUCCESS
+remove_pirate: FAILURE
+add_ship: FAILURE
+get_cannons: SUCCESS, 44
+get_cannons: SUCCESS, 83
+get_cannons: FAILURE
+add_ship: FAILURE
+get_cannons: SUCCESS, 978
+remove_ship: FAILURE
+get_treasure: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+get_cannons: FAILURE
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+treason: SUCCESS
+remove_ship: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 32
+add_ship: FAILURE
+get_cannons: SUCCESS, 47
+get_treasure: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+get_richest_pirate: SUCCESS, 39
+remove_ship: FAILURE
+get_cannons: SUCCESS, 849
+add_pirate: SUCCESS
+treason: FAILURE
+get_treasure: SUCCESS, 453
+add_ship: SUCCESS
+update_pirate_treasure: SUCCESS
+remove_ship: SUCCESS
+treason: SUCCESS
+treason: FAILURE
+get_cannons: FAILURE
+treason: FAILURE
+get_cannons: SUCCESS, 826
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 849
+get_cannons: SUCCESS, 8
+update_pirate_treasure: SUCCESS
+add_ship: FAILURE
+get_richest_pirate: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+add_pirate: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 39
+get_cannons: SUCCESS, 826
+get_richest_pirate: SUCCESS, 32
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+add_ship: FAILURE
+treason: FAILURE
+add_pirate: FAILURE
+add_ship: FAILURE
+get_cannons: SUCCESS, 44
+add_ship: FAILURE
+get_treasure: SUCCESS, 453
+treason: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: SUCCESS, 226
+treason: SUCCESS
+get_richest_pirate: SUCCESS, 15
+treason: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: SUCCESS, 39
+get_treasure: FAILURE
+get_treasure: FAILURE
+add_pirate: FAILURE
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 15
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_cannons: FAILURE
+get_cannons: SUCCESS, 8
+get_treasure: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+remove_pirate: FAILURE
+add_pirate: SUCCESS
+add_ship: FAILURE
+get_richest_pirate: SUCCESS, 31
+remove_ship: FAILURE
+add_ship: FAILURE
+get_treasure: FAILURE
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+add_pirate: SUCCESS
+add_ship: FAILURE
+get_cannons: SUCCESS, 701
+get_richest_pirate: FAILURE
+get_richest_pirate: SUCCESS, 32
+add_ship: FAILURE
+get_richest_pirate: FAILURE
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+get_cannons: SUCCESS, 978
+treason: SUCCESS
+add_pirate: FAILURE
+get_treasure: FAILURE
+remove_pirate: FAILURE
+treason: FAILURE
+add_ship: FAILURE
+treason: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+remove_ship: SUCCESS
+remove_pirate: FAILURE
+treason: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 32
+get_richest_pirate: FAILURE
+get_treasure: SUCCESS, 453
+get_treasure: SUCCESS, 47
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+get_cannons: SUCCESS, 849
+remove_pirate: SUCCESS
+add_ship: FAILURE
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+get_cannons: FAILURE
+get_richest_pirate: SUCCESS, 39
+get_treasure: SUCCESS, 47
+remove_pirate: FAILURE
+remove_pirate: SUCCESS
+treason: FAILURE
+remove_pirate: FAILURE
+get_cannons: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+add_pirate: FAILURE
+add_ship: FAILURE
+get_richest_pirate: SUCCESS, 17
+add_pirate: FAILURE
+get_cannons: SUCCESS, 849
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+add_ship: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+get_richest_pirate: SUCCESS, 31
+remove_pirate: SUCCESS
+get_cannons: FAILURE
+get_richest_pirate: FAILURE
+add_ship: FAILURE
+remove_ship: FAILURE
+get_cannons: SUCCESS, 47
+add_ship: FAILURE
+get_cannons: SUCCESS, 83
+remove_pirate: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+remove_ship: FAILURE
+get_richest_pirate: SUCCESS, 38
+get_cannons: SUCCESS, 701
+get_treasure: FAILURE
+get_treasure: FAILURE
+remove_ship: FAILURE
+add_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+add_pirate: FAILURE
+get_treasure: FAILURE
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+remove_ship: FAILURE
+treason: SUCCESS
+get_cannons: SUCCESS, 826
+add_pirate: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 826
+remove_ship: FAILURE
+get_cannons: SUCCESS, 83
+get_cannons: SUCCESS, 978
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+get_treasure: FAILURE
+treason: FAILURE
+treason: FAILURE
+remove_ship: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 826
+get_treasure: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+get_richest_pirate: SUCCESS, 6
+get_richest_pirate: FAILURE
+remove_ship: FAILURE
+update_pirate_treasure: SUCCESS
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+treason: FAILURE
+treason: SUCCESS
+add_ship: FAILURE
+get_treasure: FAILURE
+get_treasure: SUCCESS, 453
+get_richest_pirate: SUCCESS, 15
+add_pirate: SUCCESS
+get_cannons: SUCCESS, 701
+remove_pirate: FAILURE
+treason: FAILURE
+update_pirate_treasure: SUCCESS
+treason: FAILURE
+get_treasure: FAILURE
+add_pirate: SUCCESS
+update_pirate_treasure: SUCCESS
+add_ship: FAILURE
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+get_cannons: SUCCESS, 83
+update_pirate_treasure: FAILURE
+add_pirate: FAILURE
+update_pirate_treasure: SUCCESS
+get_cannons: SUCCESS, 978
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+add_ship: FAILURE
+get_richest_pirate: SUCCESS, 6
+get_cannons: FAILURE
+get_treasure: SUCCESS, 368
+treason: SUCCESS
+get_richest_pirate: SUCCESS, 15
+update_pirate_treasure: SUCCESS
+remove_pirate: FAILURE
+add_ship: FAILURE
+remove_pirate: FAILURE
+add_ship: FAILURE
+add_pirate: FAILURE
+treason: FAILURE
+get_treasure: SUCCESS, 448
+remove_ship: FAILURE
+get_richest_pirate: FAILURE
+get_cannons: SUCCESS, 826
+get_treasure: FAILURE
+update_pirate_treasure: FAILURE
+remove_pirate: FAILURE
+remove_ship: FAILURE
+get_treasure: FAILURE
