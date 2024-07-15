@@ -1,0 +1,301 @@
+==43221== Memcheck, a memory error detector
+==43221== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==43221== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==43221== Command: ./a.out
+==43221== Parent PID: 42357
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10EB9A: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::get() const (shared_ptr_base.h:1296)
+==43221==    by 0x10D459: std::__shared_ptr_access<Pirate, (__gnu_cxx::_Lock_policy)2, false, false>::_M_get() const (shared_ptr_base.h:993)
+==43221==    by 0x10CD26: std::__shared_ptr_access<Pirate, (__gnu_cxx::_Lock_policy)2, false, false>::operator*() const (shared_ptr_base.h:980)
+==43221==    by 0x10C5E3: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d00 is 16 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 4
+==43221==    at 0x10C53E: Pirate::Pirate(Pirate const&) (Pirate.h:10)
+==43221==    by 0x10C5F5: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de4af0 is 0 bytes inside a block of size 32 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10F96F: std::_Sp_counted_ptr<Pirate*, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:348)
+==43221==    by 0x10D56A: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:168)
+==43221==    by 0x10CAD6: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:705)
+==43221==    by 0x10C283: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:1154)
+==43221==    by 0x10C2CD: std::shared_ptr<Pirate>::~shared_ptr() (shared_ptr.h:122)
+==43221==    by 0x10B576: Ocean::remove_pirate(int) (pirates24b1.cpp:80)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10B25D: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:52)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 4
+==43221==    at 0x10C54A: Pirate::Pirate(Pirate const&) (Pirate.h:10)
+==43221==    by 0x10C5F5: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de4af4 is 4 bytes inside a block of size 32 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10F96F: std::_Sp_counted_ptr<Pirate*, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:348)
+==43221==    by 0x10D56A: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:168)
+==43221==    by 0x10CAD6: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:705)
+==43221==    by 0x10C283: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:1154)
+==43221==    by 0x10C2CD: std::shared_ptr<Pirate>::~shared_ptr() (shared_ptr.h:122)
+==43221==    by 0x10B576: Ocean::remove_pirate(int) (pirates24b1.cpp:80)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10B25D: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:52)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C008: std::__weak_ptr<Ship, (__gnu_cxx::_Lock_policy)2>::__weak_ptr(std::__weak_ptr<Ship, (__gnu_cxx::_Lock_policy)2> const&) (shared_ptr_base.h:1608)
+==43221==    by 0x10C07A: std::weak_ptr<Ship>::weak_ptr(std::weak_ptr<Ship> const&) (shared_ptr.h:706)
+==43221==    by 0x10C56E: Pirate::Pirate(Pirate const&) (Pirate.h:10)
+==43221==    by 0x10C5F5: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de4af8 is 8 bytes inside a block of size 32 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10F96F: std::_Sp_counted_ptr<Pirate*, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:348)
+==43221==    by 0x10D56A: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:168)
+==43221==    by 0x10CAD6: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:705)
+==43221==    by 0x10C283: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:1154)
+==43221==    by 0x10C2CD: std::shared_ptr<Pirate>::~shared_ptr() (shared_ptr.h:122)
+==43221==    by 0x10B576: Ocean::remove_pirate(int) (pirates24b1.cpp:80)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10B25D: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:52)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C8A4: std::__weak_count<(__gnu_cxx::_Lock_policy)2>::__weak_count(std::__weak_count<(__gnu_cxx::_Lock_policy)2> const&) (shared_ptr_base.h:785)
+==43221==    by 0x10C02C: std::__weak_ptr<Ship, (__gnu_cxx::_Lock_policy)2>::__weak_ptr(std::__weak_ptr<Ship, (__gnu_cxx::_Lock_policy)2> const&) (shared_ptr_base.h:1608)
+==43221==    by 0x10C07A: std::weak_ptr<Ship>::weak_ptr(std::weak_ptr<Ship> const&) (shared_ptr.h:706)
+==43221==    by 0x10C56E: Pirate::Pirate(Pirate const&) (Pirate.h:10)
+==43221==    by 0x10C5F5: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de4b00 is 16 bytes inside a block of size 32 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10F96F: std::_Sp_counted_ptr<Pirate*, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:348)
+==43221==    by 0x10D56A: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:168)
+==43221==    by 0x10CAD6: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:705)
+==43221==    by 0x10C283: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:1154)
+==43221==    by 0x10C2CD: std::shared_ptr<Pirate>::~shared_ptr() (shared_ptr.h:122)
+==43221==    by 0x10B576: Ocean::remove_pirate(int) (pirates24b1.cpp:80)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10B25D: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:52)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C573: Pirate::Pirate(Pirate const&) (Pirate.h:10)
+==43221==    by 0x10C5F5: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:68)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de4b08 is 24 bytes inside a block of size 32 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10F96F: std::_Sp_counted_ptr<Pirate*, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:348)
+==43221==    by 0x10D56A: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:168)
+==43221==    by 0x10CAD6: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:705)
+==43221==    by 0x10C283: std::__shared_ptr<Pirate, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:1154)
+==43221==    by 0x10C2CD: std::shared_ptr<Pirate>::~shared_ptr() (shared_ptr.h:122)
+==43221==    by 0x10B576: Ocean::remove_pirate(int) (pirates24b1.cpp:80)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10B25D: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:52)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C618: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:72)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d10 is 32 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C638: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:73)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d18 is 40 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C658: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:75)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d10 is 32 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C67A: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:76)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d18 is 40 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid write of size 4
+==43221==    at 0x10C708: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:87)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1cf8 is 8 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid write of size 4
+==43221==    at 0x10C712: AVLTree<Pirate>::updateMaxTreasureId(AVLNode<Pirate>*) (Ship.h:88)
+==43221==    by 0x10C794: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:99)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1cf4 is 4 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== Invalid read of size 8
+==43221==    at 0x10C799: AVLTree<Pirate>::updateMaxFromChangedNode(int) (Ship.h:100)
+==43221==    by 0x10C4FF: Ship::updatePirateMaxTreasure(int) (Ship.h:58)
+==43221==    by 0x10B8BC: Ocean::update_pirate_treasure(int, int) (pirates24b1.cpp:120)
+==43221==    by 0x10A7A3: main (main24b1.cpp:49)
+==43221==  Address 0x4de1d20 is 48 bytes inside a block of size 64 free'd
+==43221==    at 0x484B8AF: operator delete(void*) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10DC1B: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:195)
+==43221==    by 0x10DAC3: AVLTree<Pirate>::remove(AVLNode<Pirate>*, int, bool) (AVLTree.h:166)
+==43221==    by 0x10CBC7: AVLTree<Pirate>::remove(int, bool) (AVLTree.h:264)
+==43221==    by 0x10C3E6: Ship::remove_pirate(int, DequeNode<int>*) (Ship.h:35)
+==43221==    by 0x10B53F: Ocean::remove_pirate(int) (pirates24b1.cpp:74)
+==43221==    by 0x10A685: main (main24b1.cpp:43)
+==43221==  Block was alloc'd at
+==43221==    at 0x4849013: operator new(unsigned long) (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==43221==    by 0x10D661: AVLTree<Pirate>::insert(AVLNode<Pirate>*, int, std::shared_ptr<Pirate>, bool&, bool) (AVLTree.h:108)
+==43221==    by 0x10CB44: AVLTree<Pirate>::insert(int, std::shared_ptr<Pirate>, bool) (AVLTree.h:259)
+==43221==    by 0x10C35C: Ship::add_pirate(std::shared_ptr<Pirate>) (Ship.h:30)
+==43221==    by 0x10B32E: Ocean::add_pirate(int, int, int) (pirates24b1.cpp:54)
+==43221==    by 0x10A60B: main (main24b1.cpp:40)
+==43221== 
+==43221== 
+==43221== More than 10000000 total errors detected.  I'm not reporting any more.
+==43221== Final error counts will be inaccurate.  Go fix your program!
+==43221== Rerun with --error-limit=no to disable this cutoff.  Note
+==43221== that errors may occur in your program without prior warning from
+==43221== Valgrind, because errors are no longer being displayed.
+==43221== 
